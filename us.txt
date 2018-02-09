@@ -1,0 +1,846 @@
+24/7 SOUTHPARK SERIES | HD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20502.ts@HTTP Error 401: Unauthorized - Retry 3
+24/7 SOUTHPARK SERIES | HD@http://sasuke.ovunque.tv:2300/live/ziogiampiero/rGtco0H4wA/72553.ts@Error: BadStatusLine. Retry 1
+360 NORTH | SD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/5107.ts@OK
+A&E | HD@http://p4.giffy.be:8080/live/toby1/toby1/20911.ts@Error: same url
+A&E | HD@http://iptv.xtrego.com:8080/live/666030/666030/5777.ts@HTTP Error 403: Forbidden - Retry 3
+A&E | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14985.ts@OK
+A&E | HD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20501.ts@HTTP Error 401: Unauthorized - Retry 3
+A&E | HD@http://sasuke.ovunque.tv:2300/live/ziogiampiero/rGtco0H4wA/72552.ts@Error: BadStatusLine. Retry 1
+A&E | SD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/5105.ts@OK
+A&E 1080P | SD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/9174.ts@HTTP Error 403: Forbidden - Retry 3
+ABC | HD@http://iptv.xtrego.com:8080/live/666030/666030/11888.ts@HTTP Error 403: Forbidden - Retry 3
+ABC | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9489.ts@OK with retry 2
+ABC | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14982.ts@HTTP Error 404: Not Found - Retry 3
+ABC | HD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20497.ts@HTTP Error 401: Unauthorized - Retry 3
+ABC | HD@http://sasuke.ovunque.tv:2300/live/ziogiampiero/rGtco0H4wA/72549.ts@Error: BadStatusLine. Retry 1
+ABC | SD@http://cms.iptv4x.net:8080/live/cccc/cccc/3263.ts@HTTP Error 403: Forbidden - Retry 3
+ABC | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/9479.ts@OK with retry 2
+ABC | SD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20500.ts@HTTP Error 401: Unauthorized - Retry 3
+ABC ACTION NEWS | SD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20499.ts@HTTP Error 401: Unauthorized - Retry 3
+ABC ACTION NEWS | SD@http://sasuke.ovunque.tv:2300/live/ziogiampiero/rGtco0H4wA/72551.ts@Error: BadStatusLine. Retry 1
+ABC EAST | SD@http://p4.giffy.be:8080/live/toby1/toby1/20986.ts@OK
+ABC FAMILY/SPARK | SD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20498.ts@HTTP Error 401: Unauthorized - Retry 3
+ABC FAMILY/SPARK | SD@http://sasuke.ovunque.tv:2300/live/ziogiampiero/rGtco0H4wA/72550.ts@Error: BadStatusLine. Retry 1
+ABC FHD | SD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14983.ts@HTTP Error 404: Not Found - Retry 3
+ABC NEWS | HD@http://iptv.xtrego.com:8080/live/666030/666030/11887.ts@HTTP Error 403: Forbidden - Retry 3
+ABC NEWS | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9478.ts@OK
+ABC NEWS | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/5106.ts@HTTP Error 404: Not Found - Retry 3
+ABC NEWS | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14981.ts@HTTP Error 404: Not Found - Retry 3
+ABC NEWS | SD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/2202.ts@HTTP Error 404: Not Found - Retry 3
+ABC NEWS | SD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20496.ts@HTTP Error 401: Unauthorized - Retry 3
+ABC NEWS | SD@http://sasuke.ovunque.tv:2300/live/ziogiampiero/rGtco0H4wA/72548.ts@Error: BadStatusLine. Retry 1
+ABC WEST | HD@http://p4.giffy.be:8080/live/toby1/toby1/26561.ts@OK
+ACTION MAX | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/9477.ts@OK
+AFN FAMILY MOVIE | SD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20495.ts@HTTP Error 401: Unauthorized - Retry 3
+AFN FAMILY MOVIE | SD@http://sasuke.ovunque.tv:2300/live/ziogiampiero/rGtco0H4wA/72547.ts@Error: BadStatusLine. Retry 1
+AFN MOVIE | SD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20494.ts@HTTP Error 401: Unauthorized - Retry 3
+AFN MOVIE | SD@http://sasuke.ovunque.tv:2300/live/ziogiampiero/rGtco0H4wA/72546.ts@Error: BadStatusLine. Retry 1
+AFN NEWS | SD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20493.ts@HTTP Error 401: Unauthorized - Retry 3
+AFN NEWS | SD@http://sasuke.ovunque.tv:2300/live/ziogiampiero/rGtco0H4wA/72545.ts@Error: BadStatusLine. Retry 1
+AFN PRIME ATLANTIC | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/9476.ts@OK with retry 2
+AFN PRIME ATLANTIC | SD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20492.ts@HTTP Error 401: Unauthorized - Retry 3
+AFN PRIME ATLANTIC | SD@http://sasuke.ovunque.tv:2300/live/ziogiampiero/rGtco0H4wA/72544.ts@Error: BadStatusLine. Retry 1
+AFN PRIME PACIFIC | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/9475.ts@OK with retry 2
+AFN PRIME PACIFIC | SD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20491.ts@HTTP Error 401: Unauthorized - Retry 3
+AFN PRIME PACIFIC | SD@http://sasuke.ovunque.tv:2300/live/ziogiampiero/rGtco0H4wA/72543.ts@Error: BadStatusLine. Retry 1
+AFN PULSE | SD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/5104.ts@HTTP Error 404: Not Found - Retry 3
+AFN SPECTRUM | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14980.ts@HTTP Error 404: Not Found - Retry 3
+AFN SPORT 1 | SD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14979.ts@HTTP Error 404: Not Found - Retry 3
+AFN SPORT 2 | SD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14978.ts@HTTP Error 404: Not Found - Retry 3
+AFN SPORTS | HD@http://cms.iptv4x.net:8080/live/cccc/cccc/2990.ts@HTTP Error 403: Forbidden - Retry 3
+AFN SPORTS | HD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20488.ts@HTTP Error 401: Unauthorized - Retry 3
+AFN SPORTS | HD@http://sasuke.ovunque.tv:2300/live/ziogiampiero/rGtco0H4wA/72540.ts@Error: BadStatusLine. Retry 1
+AFN SPORTS | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/9474.ts@HTTP Error 502: Bad Gateway - Retry 3
+AFN SPORTS | SD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/5103.ts@HTTP Error 404: Not Found - Retry 3
+AFN SPORTS | SD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20490.ts@HTTP Error 401: Unauthorized - Retry 3
+AFN SPORTS | SD@http://sasuke.ovunque.tv:2300/live/ziogiampiero/rGtco0H4wA/72542.ts@Error: BadStatusLine. Retry 1
+AFN SPORTS 2 | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/9473.ts@OK with retry 3
+AFN SPORTS 2 | SD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20489.ts@HTTP Error 401: Unauthorized - Retry 3
+AFN SPORTS 2 | SD@http://sasuke.ovunque.tv:2300/live/ziogiampiero/rGtco0H4wA/72541.ts@Error: BadStatusLine. Retry 1
+AMAZING DISCOVERIES | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14977.ts@OK
+AMC | HD@http://iptv.xtrego.com:8080/live/666030/666030/11886.ts@HTTP Error 403: Forbidden - Retry 3
+AMC | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9490.ts@OK
+AMC | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14975.ts@OK
+AMC | SD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14976.ts@OK with retry 2
+AMC | SD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20486.ts@HTTP Error 401: Unauthorized - Retry 3
+AMC | SD@http://sasuke.ovunque.tv:2300/live/ziogiampiero/rGtco0H4wA/72538.ts@Error: BadStatusLine. Retry 1
+ANIMAL PLANET | HD@http://p4.giffy.be:8080/live/toby1/toby1/20989.ts@OK
+ANIMAL PLANET | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9472.ts@HTTP Error 502: Bad Gateway - Retry 3
+ANIMAL PLANET | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14973.ts@OK with retry 2
+ANIMAL PLANET | SD@http://nettv.rocks:25461/live/test0/test0/189.ts@OK
+ANIMAL PLANET | SD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/5101.ts@OK
+ANIMAL PLANET | SD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14974.ts@OK with retry 2
+ANIMAL PLANET | SD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20484.ts@HTTP Error 401: Unauthorized - Retry 3
+ASTRO SPORTS 2 | SD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20483.ts@HTTP Error 401: Unauthorized - Retry 3
+ASTRO SPORTS 3 | SD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20482.ts@HTTP Error 401: Unauthorized - Retry 3
+ASTRO SPORTS 4 | SD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20481.ts@HTTP Error 401: Unauthorized - Retry 3
+BBC AMERICA | HD@http://p4.giffy.be:8080/live/toby1/toby1/20977.ts@Error: same url
+BBC AMERICA | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9471.ts@OK with retry 2
+BBC WORLD NEWS | SD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20480.ts@HTTP Error 401: Unauthorized - Retry 3
+BBC WORLD NEWS | SD@http://sasuke.ovunque.tv:2300/live/ziogiampiero/rGtco0H4wA/72537.ts@Error: BadStatusLine. Retry 1
+BEIN | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9470.ts@HTTP Error 502: Bad Gateway - Retry 3
+BEIN SPORT | SD@http://cms.iptv4x.net:8080/live/cccc/cccc/2993.ts@HTTP Error 403: Forbidden - Retry 3
+BEIN SPORT | SD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/2320.ts@OK
+BEIN SPORTS | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9486.ts@HTTP Error 502: Bad Gateway - Retry 3
+BEIN SPORTS | HD@http://sasuke.ovunque.tv:2300/live/ziogiampiero/rGtco0H4wA/72536.ts@Error: BadStatusLine. Retry 1
+BEIN SPORTS | SD@http://nettv.rocks:25461/live/test0/test0/2008.ts@OK
+BEIN SPORTS U.S.A | SD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20479.ts@HTTP Error 401: Unauthorized - Retry 3
+BEINSPORTS | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14972.ts@OK
+BET | HD@http://p4.giffy.be:8080/live/toby1/toby1/20651.ts@OK
+BET | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9469.ts@HTTP Error 401: Unauthorized - Retry 3
+BET | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14971.ts@OK with retry 2
+BET B.E.T | SD@http://sasuke.ovunque.tv:2300/live/ziogiampiero/rGtco0H4wA/72535.ts@Error: BadStatusLine. Retry 1
+BIG TEN NETWORK | HD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20478.ts@HTTP Error 401: Unauthorized - Retry 3
+BIG TEN NETWORK | HD@http://sasuke.ovunque.tv:2300/live/ziogiampiero/rGtco0H4wA/72534.ts@Error: BadStatusLine. Retry 1
+BIG TEN NETWORK | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/9468.ts@OK with retry 3
+BLOOMBERG | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9467.ts@OK with retry 2
+BLOOMBERG | SD@http://p4.giffy.be:8080/live/toby1/toby1/27538.ts@Error: same url
+BLOOMBERG | SD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/5100.ts@OK
+BLOOMBERG EUROPE | SD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14970.ts@OK with retry 2
+BOOMERANG | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9466.ts@HTTP Error 502: Bad Gateway - Retry 3
+BOOMERANG | SD@http://nettv.rocks:25461/live/test0/test0/3087.ts@OK
+BOOMERANG | SD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14968.ts@OK with retry 2
+BOX OFFICE MOVIES | SD@http://sasuke.ovunque.tv:2300/live/ziogiampiero/rGtco0H4wA/72533.ts@Error: BadStatusLine. Retry 1
+BRAVO | HD@http://p4.giffy.be:8080/live/toby1/toby1/20902.ts@OK
+BRAVO | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9487.ts@OK
+BRAVO | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14966.ts@OK
+BRAVO | HD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20476.ts@HTTP Error 401: Unauthorized - Retry 3
+BRAVO | HD@http://sasuke.ovunque.tv:2300/live/ziogiampiero/rGtco0H4wA/72532.ts@Error: BadStatusLine. Retry 1
+BRAVO | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/9465.ts@OK with retry 2
+BRAVO | SD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/2210.ts@OK
+BRAVO | SD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14967.ts@OK
+C TOON KIDS | SD@http://sasuke.ovunque.tv:2300/live/ziogiampiero/rGtco0H4wA/72531.ts@Error: BadStatusLine. Retry 1
+C-SPAN 1 | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9463.ts@HTTP Error 502: Bad Gateway - Retry 3
+C-SPAN 1 | HD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20474.ts@HTTP Error 401: Unauthorized - Retry 3
+C-SPAN 1 | HD@http://sasuke.ovunque.tv:2300/live/ziogiampiero/rGtco0H4wA/72530.ts@Error: BadStatusLine. Retry 1
+C-SPAN 1 | SD@http://p4.giffy.be:8080/live/toby1/toby1/21170.ts@OK
+C-SPAN 1 | SD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14964.ts@OK with retry 3
+C-SPAN 2 | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9462.ts@HTTP Error 502: Bad Gateway - Retry 3
+C-SPAN 2 | HD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20473.ts@HTTP Error 401: Unauthorized - Retry 3
+C-SPAN 2 | HD@http://sasuke.ovunque.tv:2300/live/ziogiampiero/rGtco0H4wA/72529.ts@Error: BadStatusLine. Retry 1
+C-SPAN 2 | SD@http://p4.giffy.be:8080/live/toby1/toby1/21171.ts@OK
+C-SPAN 2 | SD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14963.ts@OK with retry 2
+C-SPAN 3 | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9461.ts@HTTP Error 502: Bad Gateway - Retry 3
+C-SPAN 3 | HD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20472.ts@HTTP Error 401: Unauthorized - Retry 3
+C-SPAN 3 | HD@http://sasuke.ovunque.tv:2300/live/ziogiampiero/rGtco0H4wA/72528.ts@Error: BadStatusLine. Retry 1
+C-SPAN 3 | SD@http://p4.giffy.be:8080/live/toby1/toby1/21172.ts@OK with retry 2
+C-SPAN 3 | SD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14962.ts@HTTP Error 502: Bad Gateway - Retry 3
+CABLE NEWS NETWORK | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14960.ts@OK with retry 2
+CALIFORNIA MUSIC CHANNEL | SD@http://sasuke.ovunque.tv:2300/live/ziogiampiero/rGtco0H4wA/72527.ts@Error: BadStatusLine. Retry 1
+CARTOON NETWORK | HD@http://p4.giffy.be:8080/live/toby1/toby1/20988.ts@OK
+CARTOON NETWORK | SD@http://nettv.rocks:25461/live/test0/test0/182.ts@OK
+CARTOON NETWORK | SD@http://iptv.xtrego.com:8080/live/666030/666030/11885.ts@HTTP Error 403: Forbidden - Retry 3
+CARTOON NETWORK | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/9460.ts@OK with retry 2
+CARTOON NETWORK | SD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/5110.ts@HTTP Error 403: Forbidden - Retry 3
+CARTOON NETWORK | SD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14959.ts@OK with retry 2
+CARTOON NETWORK | SD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20470.ts@HTTP Error 401: Unauthorized - Retry 3
+CARTOON NETWORK | SD@http://sasuke.ovunque.tv:2300/live/ziogiampiero/rGtco0H4wA/72526.ts@Error: BadStatusLine. Retry 1
+CBN | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9459.ts@HTTP Error 502: Bad Gateway - Retry 3
+CBS | HD@http://cms.iptv4x.net:8080/live/cccc/cccc/3265.ts@HTTP Error 403: Forbidden - Retry 3
+CBS | HD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20469.ts@HTTP Error 401: Unauthorized - Retry 3
+CBS | HD@http://sasuke.ovunque.tv:2300/live/ziogiampiero/rGtco0H4wA/72525.ts@Error: BadStatusLine. Retry 1
+CBS | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/9458.ts@HTTP Error 502: Bad Gateway - Retry 3
+CBS | SD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14958.ts@OK
+CBS ACTION | SD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/5098.ts@OK
+CBS DRAMA | SD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/5097.ts@OK
+CBS NEWS | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/5096.ts@OK
+CBS NEWS | SD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20468.ts@HTTP Error 401: Unauthorized - Retry 3
+CBS NEWS | SD@http://sasuke.ovunque.tv:2300/live/ziogiampiero/rGtco0H4wA/72524.ts@Error: BadStatusLine. Retry 1
+CBS SPORTS NETWORK | HD@http://iptv.xtrego.com:8080/live/666030/666030/11884.ts@HTTP Error 403: Forbidden - Retry 3
+CBS SPORTS NETWORK | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/9457.ts@OK with retry 2
+CBS WEST | SD@http://p4.giffy.be:8080/live/toby1/toby1/26560.ts@OK
+CBSN | HD@http://cms.iptv4x.net:8080/live/cccc/cccc/3839.ts@HTTP Error 403: Forbidden - Retry 3
+CBSN | HD@http://iptv.xtrego.com:8080/live/666030/666030/11883.ts@HTTP Error 403: Forbidden - Retry 3
+CBSN | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/5095.ts@OK
+CBSN | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14957.ts@OK with retry 2
+CBSN NEWS | SD@http://p4.giffy.be:8080/live/toby1/toby1/27539.ts@OK
+CBSN NEWS | SD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20467.ts@HTTP Error 401: Unauthorized - Retry 3
+CBSN NEWS | SD@http://sasuke.ovunque.tv:2300/live/ziogiampiero/rGtco0H4wA/72523.ts@Error: BadStatusLine. Retry 1
+CHANNELS | SD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/14486.ts@HTTP Error 401: Unauthorized - Retry 3
+CHILLER | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14956.ts@OK
+CINEMAX | HD@http://cms.iptv4x.net:8080/live/cccc/cccc/3270.ts@HTTP Error 403: Forbidden - Retry 3
+CINEMAX | HD@http://p4.giffy.be:8080/live/toby1/toby1/20976.ts@Error: same url
+CINEMAX | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9499.ts@HTTP Error 403: Forbidden - Retry 3
+CINEMAX | SD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/5094.ts@OK
+CINEMAX 5 | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/9456.ts@HTTP Error 502: Bad Gateway - Retry 3
+CINEMAX 5 MAX | SD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20466.ts@HTTP Error 401: Unauthorized - Retry 3
+CINEMAX 5 MAX | SD@http://sasuke.ovunque.tv:2300/live/ziogiampiero/rGtco0H4wA/72522.ts@Error: BadStatusLine. Retry 1
+CINEMAX 5 STAR MAX | SD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20465.ts@HTTP Error 401: Unauthorized - Retry 3
+CINEMAX 5 STAR MAX | SD@http://sasuke.ovunque.tv:2300/live/ziogiampiero/rGtco0H4wA/72521.ts@Error: BadStatusLine. Retry 1
+CINEMAX 5 STARMAX | SD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14955.ts@OK
+CINEMAX ACTION | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14953.ts@OK with retry 2
+CINEMAX ACTION | SD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14954.ts@OK
+CINEMAX ACTIONMAX | SD@http://cms.iptv4x.net:8080/live/cccc/cccc/2991.ts@HTTP Error 403: Forbidden - Retry 3
+CINEMAX ACTIONMAX | SD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20464.ts@HTTP Error 401: Unauthorized - Retry 3
+CINEMAX ACTIONMAX | SD@http://sasuke.ovunque.tv:2300/live/ziogiampiero/rGtco0H4wA/72520.ts@Error: BadStatusLine. Retry 1
+CINEMAX ACTIONMAX EAST | SD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14952.ts@OK with retry 3
+CINEMAX EAST | SD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14951.ts@HTTP Error 502: Bad Gateway - Retry 3
+CINEMAX EAST | SD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20463.ts@HTTP Error 401: Unauthorized - Retry 3
+CINEMAX EAST | SD@http://sasuke.ovunque.tv:2300/live/ziogiampiero/rGtco0H4wA/72519.ts@Error: BadStatusLine. Retry 1
+CINEMAX MORE | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14950.ts@OK with retry 3
+CINEMAX MOREMAX | HD@http://p4.giffy.be:8080/live/toby1/toby1/20975.ts@OK
+CINEMAX MOREMAX | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9454.ts@HTTP Error 502: Bad Gateway - Retry 3
+CINEMAX MOREMAX | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/9455.ts@HTTP Error 502: Bad Gateway - Retry 3
+CINEMAX MOREMAX | SD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14949.ts@OK with retry 2
+CINEMAX MOREMAX | SD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20462.ts@HTTP Error 401: Unauthorized - Retry 3
+CINEMAX MOREMAX | SD@http://sasuke.ovunque.tv:2300/live/ziogiampiero/rGtco0H4wA/72518.ts@Error: BadStatusLine. Retry 1
+CINEMAX THRILLER MAX | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9453.ts@HTTP Error 502: Bad Gateway - Retry 3
+CINEMAX THRILLERMAX | HD@http://p4.giffy.be:8080/live/toby1/toby1/20974.ts@Error: same url
+CITY | HD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20461.ts@HTTP Error 401: Unauthorized - Retry 3
+CMT | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9452.ts@HTTP Error 502: Bad Gateway - Retry 3
+CMT | HD@http://sasuke.ovunque.tv:2300/live/ziogiampiero/rGtco0H4wA/72517.ts@Error: BadStatusLine. Retry 1
+CNBC | HD@http://p4.giffy.be:8080/live/toby1/toby1/28303.ts@OK
+CNBC | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9451.ts@HTTP Error 502: Bad Gateway - Retry 3
+CNBC | HD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20460.ts@HTTP Error 401: Unauthorized - Retry 3
+CNBC | HD@http://sasuke.ovunque.tv:2300/live/ziogiampiero/rGtco0H4wA/72516.ts@Error: BadStatusLine. Retry 1
+CNBC | SD@http://iptv.xtrego.com:8080/live/666030/666030/11882.ts@HTTP Error 403: Forbidden - Retry 3
+CNBC | SD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/2203.ts@OK
+CNBC | SD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14948.ts@OK with retry 2
+CNBC WORLD | SD@http://p4.giffy.be:8080/live/toby1/toby1/20711.ts@OK
+CNN | HD@http://p4.giffy.be:8080/live/toby1/toby1/29026.ts@OK
+CNN | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9485.ts@OK with retry 2
+CNN | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/7531.ts@HTTP Error 403: Forbidden - Retry 3
+CNN | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14947.ts@OK with retry 2
+CNN | HD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20458.ts@HTTP Error 401: Unauthorized - Retry 3
+CNN | SD@http://cms.iptv4x.net:8080/live/cccc/cccc/3838.ts@HTTP Error 403: Forbidden - Retry 3
+CNN | SD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/3333.ts@OK
+CNN | SD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20459.ts@HTTP Error 401: Unauthorized - Retry 3
+CNN INTERNATIONAL | HD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20457.ts@HTTP Error 401: Unauthorized - Retry 3
+COMEDY C | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/2215.ts@OK
+COMEDY CENTRAL | HD@http://p4.giffy.be:8080/live/toby1/toby1/20904.ts@OK
+COMEDY CENTRAL | SD@http://iptv.xtrego.com:8080/live/666030/666030/5789.ts@HTTP Error 403: Forbidden - Retry 3
+COMEDY CENTRAL | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/9450.ts@OK with retry 3
+COMEDY CENTRAL | SD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14946.ts@OK with retry 2
+COMEDY CENTRAL | SD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20456.ts@HTTP Error 401: Unauthorized - Retry 3
+COMEDY CENTRAL | SD@http://sasuke.ovunque.tv:2300/live/ziogiampiero/rGtco0H4wA/72515.ts@Error: BadStatusLine. Retry 1
+COMEDY CENTRAL FHD | SD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14945.ts@OK with retry 2
+COOKING CHANNEL | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9449.ts@OK
+CRIME & INVESTIGATION | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9448.ts@HTTP Error 403: Forbidden - Retry 3
+CRIME & INVESTIGATION | SD@http://iptv.xtrego.com:8080/live/666030/666030/5790.ts@HTTP Error 403: Forbidden - Retry 3
+CRIME & INVESTIGATION | SD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20455.ts@HTTP Error 401: Unauthorized - Retry 3
+CRIME & INVESTIGATION | SD@http://sasuke.ovunque.tv:2300/live/ziogiampiero/rGtco0H4wA/72514.ts@Error: BadStatusLine. Retry 1
+CRIMINAL INVESTIGATION | HD@http://p4.giffy.be:8080/live/toby1/toby1/20973.ts@OK
+CSNS SPORTS CALIFORNIA | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14944.ts@HTTP Error 502: Bad Gateway - Retry 3
+CW11 | SD@http://p4.giffy.be:8080/live/toby1/toby1/20984.ts@OK
+CW11 | SD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14941.ts@OK with retry 2
+DEPORTES | HD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20452.ts@HTTP Error 401: Unauthorized - Retry 3
+DEPORTES | HD@http://sasuke.ovunque.tv:2300/live/ziogiampiero/rGtco0H4wA/72511.ts@Error: BadStatusLine. Retry 1
+DESTINATION AMERICA | HD@http://p4.giffy.be:8080/live/toby1/toby1/26546.ts@OK
+DESTINATION AMERICA | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/9446.ts@OK with retry 2
+DISCCOVERY | HD@http://iptv.xtrego.com:8080/live/666030/666030/11881.ts@HTTP Error 403: Forbidden - Retry 3
+DISCOVERY | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9488.ts@OK
+DISCOVERY | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14938.ts@OK with retry 2
+DISCOVERY CHANNEL | HD@http://cms.iptv4x.net:8080/live/cccc/cccc/2992.ts@HTTP Error 403: Forbidden - Retry 3
+DISCOVERY CHANNEL | HD@http://iptv.xtrego.com:8080/live/666030/666030/8279.ts@HTTP Error 403: Forbidden - Retry 3
+DISCOVERY CHANNEL | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9445.ts@HTTP Error 502: Bad Gateway - Retry 3
+DISCOVERY CHANNEL | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/5092.ts@OK
+DISCOVERY CHANNEL | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14939.ts@OK with retry 2
+DISCOVERY CHANNEL | HD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20451.ts@HTTP Error 401: Unauthorized - Retry 3
+DISCOVERY CHANNEL | HD@http://sasuke.ovunque.tv:2300/live/ziogiampiero/rGtco0H4wA/72510.ts@Error: BadStatusLine. Retry 1
+DISCOVERY CHANNEL | SD@http://nettv.rocks:25461/live/test0/test0/170.ts@OK
+DISCOVERY FAMILY | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9444.ts@HTTP Error 502: Bad Gateway - Retry 3
+DISCOVERY SCIENCE | HD@http://p4.giffy.be:8080/live/toby1/toby1/20935.ts@OK
+DISCOVERY SCIENCE | HD@http://iptv.xtrego.com:8080/live/666030/666030/11880.ts@HTTP Error 403: Forbidden - Retry 3
+DISCOVERY SCIENCE | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9443.ts@HTTP Error 502: Bad Gateway - Retry 3
+DISCOVERY SCIENCE | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/5091.ts@OK
+DISCOVERY SCIENCE | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14936.ts@OK with retry 2
+DISCOVERY SCIENCE | HD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20450.ts@HTTP Error 401: Unauthorized - Retry 3
+DISCOVERY SCIENCE | HD@http://sasuke.ovunque.tv:2300/live/ziogiampiero/rGtco0H4wA/72509.ts@Error: BadStatusLine. Retry 1
+DISCOVERY SHOWCASE | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14937.ts@OK with retry 2
+DISCOVERY SHOWCASE | SD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20449.ts@HTTP Error 401: Unauthorized - Retry 3
+DISCOVERY VELOCITY | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9442.ts@OK with retry 3
+DISCOVERY VELOCITY | SD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14935.ts@OK with retry 2
+DISCOVERY VELOCITY | SD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20448.ts@HTTP Error 401: Unauthorized - Retry 3
+DISCOVERY VELOCITY | SD@http://sasuke.ovunque.tv:2300/live/ziogiampiero/rGtco0H4wA/72508.ts@Error: BadStatusLine. Retry 1
+DISNEY | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9441.ts@OK
+DISNEY CHANNEL | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14934.ts@HTTP Error 502: Bad Gateway - Retry 3
+DISNEY CHANNEL | SD@http://nettv.rocks:25461/live/test0/test0/166.ts@OK
+DISNEY JR | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9440.ts@timed out - Retry 3
+DISNEY JR | HD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20447.ts@HTTP Error 401: Unauthorized - Retry 3
+DISNEY JR | HD@http://sasuke.ovunque.tv:2300/live/ziogiampiero/rGtco0H4wA/72507.ts@Error: BadStatusLine. Retry 1
+DISNEY XD | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14933.ts@OK with retry 2
+DIY NETWORK | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9439.ts@OK with retry 2
+DIY NETWORK | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14931.ts@OK
+DIY NETWORK | SD@http://iptv.xtrego.com:8080/live/666030/666030/11879.ts@HTTP Error 403: Forbidden - Retry 3
+DIY NETWORK | SD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14932.ts@OK with retry 2
+DTX | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9438.ts@HTTP Error 502: Bad Gateway - Retry 3
+DW | SD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14930.ts@HTTP Error 403: Forbidden - Retry 3
+E! ENTERTAINMENT | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14929.ts@OK with retry 2
+E! ENTERTAINMENT | SD@http://nettv.rocks:25461/live/test0/test0/162.ts@OK
+E! NETWORK | HD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20446.ts@HTTP Error 401: Unauthorized - Retry 3
+E! NETWORK | HD@http://sasuke.ovunque.tv:2300/live/ziogiampiero/rGtco0H4wA/72506.ts@Error: BadStatusLine. Retry 1
+EL RAY | HD@http://p4.giffy.be:8080/live/toby1/toby1/20970.ts@Error: same url
+EL REY NETWORK | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14928.ts@OK
+EPIX | HD@http://p4.giffy.be:8080/live/toby1/toby1/20969.ts@Error: same url
+EPIX 2 | HD@http://p4.giffy.be:8080/live/toby1/toby1/20968.ts@Error: same url
+ESPN | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14923.ts@OK
+ESPN | SD@http://iptv.xtrego.com:8080/live/666030/666030/5776.ts@HTTP Error 403: Forbidden - Retry 3
+ESPN | SD@http://iptv.xtrego.com:8080/live/666030/666030/11878.ts@HTTP Error 403: Forbidden - Retry 3
+ESPN | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/9436.ts@OK
+ESPN | SD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/2323.ts@OK
+ESPN | SD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20445.ts@HTTP Error 401: Unauthorized - Retry 3
+ESPN | SD@http://sasuke.ovunque.tv:2300/live/ziogiampiero/rGtco0H4wA/72505.ts@Error: BadStatusLine. Retry 1
+ESPN 1 | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14926.ts@OK with retry 2
+ESPN 1 | SD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14927.ts@OK
+ESPN 1 | SD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20444.ts@HTTP Error 401: Unauthorized - Retry 3
+ESPN 1 | SD@http://sasuke.ovunque.tv:2300/live/ziogiampiero/rGtco0H4wA/72504.ts@Error: BadStatusLine. Retry 1
+ESPN 2 | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9435.ts@HTTP Error 502: Bad Gateway - Retry 3
+ESPN 2 | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/2331.ts@OK
+ESPN 2 | HD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20443.ts@HTTP Error 401: Unauthorized - Retry 3
+ESPN 2 | HD@http://sasuke.ovunque.tv:2300/live/ziogiampiero/rGtco0H4wA/72503.ts@Error: BadStatusLine. Retry 1
+ESPN 2 | SD@http://iptv.xtrego.com:8080/live/666030/666030/11877.ts@HTTP Error 403: Forbidden - Retry 3
+ESPN 2 | SD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14925.ts@OK
+ESPN 2 FHD | SD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14924.ts@OK
+ESPN 3 | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/9434.ts@HTTP Error 502: Bad Gateway - Retry 3
+ESPN 3 TRE | SD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20442.ts@HTTP Error 401: Unauthorized - Retry 3
+ESPN 3 TRE | SD@http://sasuke.ovunque.tv:2300/live/ziogiampiero/rGtco0H4wA/72502.ts@Error: BadStatusLine. Retry 1
+ESPN DEPORTES | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9433.ts@HTTP Error 502: Bad Gateway - Retry 3
+ESPN DEPORTES | SD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/5057.ts@OK
+ESPN NEWS | HD@http://iptv.xtrego.com:8080/live/666030/666030/5775.ts@HTTP Error 403: Forbidden - Retry 3
+ESPN NEWS | HD@http://iptv.xtrego.com:8080/live/666030/666030/11876.ts@HTTP Error 403: Forbidden - Retry 3
+ESPN NEWS | SD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20441.ts@HTTP Error 401: Unauthorized - Retry 3
+ESPN NEWS | SD@http://sasuke.ovunque.tv:2300/live/ziogiampiero/rGtco0H4wA/72501.ts@Error: BadStatusLine. Retry 1
+ESPN U | HD@http://iptv.xtrego.com:8080/live/666030/666030/11875.ts@HTTP Error 403: Forbidden - Retry 3
+ESPN U | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9432.ts@HTTP Error 502: Bad Gateway - Retry 3
+ESPN U | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/7506.ts@OK
+EURO NEWS | SD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20440.ts@HTTP Error 401: Unauthorized - Retry 3
+FASHION ONE | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14922.ts@OK with retry 2
+FIGHT | HD@http://iptv.xtrego.com:8080/live/666030/666030/11874.ts@HTTP Error 403: Forbidden - Retry 3
+FIGHT | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14921.ts@OK
+FIGHT NETWORK | SD@http://iptv.xtrego.com:8080/live/666030/666030/8282.ts@HTTP Error 403: Forbidden - Retry 3
+FIGHT NETWORK | SD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/3219.ts@OK
+FIGHT NETWORK / MMA NETWORK | SD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20439.ts@HTTP Error 401: Unauthorized - Retry 3
+FIGHT SPORT | SD@http://iptv.xtrego.com:8080/live/666030/666030/11873.ts@HTTP Error 403: Forbidden - Retry 3
+FIGHT SPORT | SD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14920.ts@OK with retry 2
+FIGHT SPORT 1 | SD@http://cms.iptv4x.net:8080/live/cccc/cccc/2994.ts@HTTP Error 403: Forbidden - Retry 3
+FIGHT SPORT 1 | SD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20438.ts@HTTP Error 401: Unauthorized - Retry 3
+FIGHT SPORT 1 | SD@http://sasuke.ovunque.tv:2300/live/ziogiampiero/rGtco0H4wA/72500.ts@Error: BadStatusLine. Retry 1
+FIGHT SPORT 2 | SD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20437.ts@HTTP Error 401: Unauthorized - Retry 3
+FIGHT SPORT 2 | SD@http://sasuke.ovunque.tv:2300/live/ziogiampiero/rGtco0H4wA/72499.ts@Error: BadStatusLine. Retry 1
+FINE LIVING | SD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14919.ts@OK
+FOOD NETWORK | HD@http://p4.giffy.be:8080/live/toby1/toby1/21142.ts@OK
+FOOD NETWORK | HD@http://iptv.xtrego.com:8080/live/666030/666030/11872.ts@HTTP Error 403: Forbidden - Retry 3
+FOOD NETWORK | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9431.ts@OK with retry 3
+FOOD NETWORK | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14917.ts@OK
+FOOD NETWORK | SD@http://nettv.rocks:25461/live/test0/test0/155.ts@HTTP Error 403: Forbidden - Retry 3
+FOOD NETWORK | SD@http://iptv.xtrego.com:8080/live/666030/666030/5791.ts@HTTP Error 403: Forbidden - Retry 3
+FOOD NETWORK | SD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14918.ts@OK with retry 2
+FOOD NETWORK | SD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20436.ts@HTTP Error 401: Unauthorized - Retry 3
+FOOD NETWORK | SD@http://sasuke.ovunque.tv:2300/live/ziogiampiero/rGtco0H4wA/72498.ts@Error: BadStatusLine. Retry 1
+FOX | HD@http://cms.iptv4x.net:8080/live/cccc/cccc/3272.ts@HTTP Error 403: Forbidden - Retry 3
+FOX | HD@http://iptv.xtrego.com:8080/live/666030/666030/11871.ts@HTTP Error 403: Forbidden - Retry 3
+FOX | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9429.ts@OK
+FOX | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14914.ts@OK with retry 2
+FOX | SD@http://nettv.rocks:25461/live/test0/test0/154.ts@OK
+FOX | SD@http://iptv.xtrego.com:8080/live/666030/666030/5788.ts@HTTP Error 403: Forbidden - Retry 3
+FOX | SD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/3379.ts@HTTP Error 403: Forbidden - Retry 3
+FOX | SD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20435.ts@HTTP Error 401: Unauthorized - Retry 3
+FOX 29 | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9484.ts@OK with retry 2
+FOX 43 | SD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14916.ts@HTTP Error 502: Bad Gateway - Retry 3
+FOX 5 LAS VEGAS | HD@http://iptv.xtrego.com:8080/live/666030/666030/5773.ts@HTTP Error 403: Forbidden - Retry 3
+FOX 59 NEWS | SD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/3380.ts@OK
+FOX BUSINESS NETWORK | HD@http://p4.giffy.be:8080/live/toby1/toby1/20983.ts@OK
+FOX BUSINESS NETWORK | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9430.ts@timed out - Retry 3
+FOX COLLEGE SPORTS ATLANTIC | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14915.ts@HTTP Error 502: Bad Gateway - Retry 3
+FOX DEPORTES | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/2217.ts@HTTP Error 403: Forbidden - Retry 3
+FOX EAST | SD@http://p4.giffy.be:8080/live/toby1/toby1/28642.ts@OK
+FOX MOTOSPORT | SD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20434.ts@HTTP Error 401: Unauthorized - Retry 3
+FOX MOTOSPORT | SD@http://sasuke.ovunque.tv:2300/live/ziogiampiero/rGtco0H4wA/72497.ts@Error: BadStatusLine. Retry 1
+FOX NEWS | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14913.ts@OK with retry 2
+FOX NEWS | SD@http://p4.giffy.be:8080/live/toby1/toby1/20706.ts@OK
+FOX NEWS | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/9428.ts@OK with retry 2
+FOX NEWS | SD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20433.ts@HTTP Error 401: Unauthorized - Retry 3
+FOX NEWS | SD@http://sasuke.ovunque.tv:2300/live/ziogiampiero/rGtco0H4wA/72496.ts@Error: BadStatusLine. Retry 1
+FOX NY | SD@http://sasuke.ovunque.tv:2300/live/ziogiampiero/rGtco0H4wA/72495.ts@Error: BadStatusLine. Retry 1
+FOX SOCCER | SD@http://iptv.xtrego.com:8080/live/666030/666030/5781.ts@HTTP Error 403: Forbidden - Retry 3
+FOX SOCCER PLUS | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14911.ts@OK with retry 2
+FOX SOCCER PLUS | SD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14912.ts@OK with retry 2
+FOX SOCCER SUN | HD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20432.ts@HTTP Error 401: Unauthorized - Retry 3
+FOX SOCCER SUN | HD@http://sasuke.ovunque.tv:2300/live/ziogiampiero/rGtco0H4wA/72494.ts@Error: BadStatusLine. Retry 1
+FOX SPORT 1 | SD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20431.ts@HTTP Error 401: Unauthorized - Retry 3
+FOX SPORTS | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14904.ts@HTTP Error 404: Not Found - Retry 3
+FOX SPORTS 1 | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9491.ts@HTTP Error 502: Bad Gateway - Retry 3
+FOX SPORTS 1 | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14909.ts@HTTP Error 404: Not Found - Retry 3
+FOX SPORTS 1 | SD@http://iptv.xtrego.com:8080/live/666030/666030/8283.ts@HTTP Error 403: Forbidden - Retry 3
+FOX SPORTS 1 | SD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/2207.ts@HTTP Error 404: Not Found - Retry 3
+FOX SPORTS 1 | SD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/2212.ts@HTTP Error 404: Not Found - Retry 3
+FOX SPORTS 1 | SD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14910.ts@HTTP Error 404: Not Found - Retry 3
+FOX SPORTS 2 | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9492.ts@timed out - Retry 3
+FOX SPORTS 2 | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14907.ts@HTTP Error 404: Not Found - Retry 3
+FOX SPORTS 2 | SD@http://iptv.xtrego.com:8080/live/666030/666030/8284.ts@HTTP Error 403: Forbidden - Retry 3
+FOX SPORTS 2 | SD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/2208.ts@HTTP Error 404: Not Found - Retry 3
+FOX SPORTS 2 | SD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/2213.ts@HTTP Error 404: Not Found - Retry 3
+FOX SPORTS 2 FHD | SD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14908.ts@HTTP Error 404: Not Found - Retry 3
+FOX SPORTS 506 | HD@http://iptv.xtrego.com:8080/live/666030/666030/11870.ts@HTTP Error 403: Forbidden - Retry 3
+FOX SPORTS 506 | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/3230.ts@HTTP Error 404: Not Found - Retry 3
+FOX SPORTS 506 | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14906.ts@HTTP Error 404: Not Found - Retry 3
+FOX SPORTS COLLEGE CENTRAL | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14905.ts@HTTP Error 404: Not Found - Retry 3
+FOX SPORTS NORTH | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14903.ts@HTTP Error 404: Not Found - Retry 3
+FOX SPORTS ONE | SD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20430.ts@HTTP Error 401: Unauthorized - Retry 3
+FOX SPORTS TWO | HD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20429.ts@HTTP Error 401: Unauthorized - Retry 3
+FOX SPORTS TWO | HD@http://sasuke.ovunque.tv:2300/live/ziogiampiero/rGtco0H4wA/72493.ts@Error: BadStatusLine. Retry 1
+FOX SPORTS WEST | SD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/7518.ts@HTTP Error 404: Not Found - Retry 3
+FOX WEST | HD@http://p4.giffy.be:8080/live/toby1/toby1/26562.ts@OK
+FOXX | HD@http://iptv.xtrego.com:8080/live/666030/666030/11869.ts@HTTP Error 403: Forbidden - Retry 3
+FREE FORM | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14902.ts@HTTP Error 404: Not Found - Retry 3
+FREEFORM | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9427.ts@OK
+FREEFORM | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/5077.ts@HTTP Error 404: Not Found - Retry 3
+FREEFORM | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14901.ts@<urlopen error timed out> - Retry 3
+FS1 | SD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14900.ts@<urlopen error timed out> - Retry 3
+FUEL | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14899.ts@timed out - Retry 3
+FX | HD@http://cms.iptv4x.net:8080/live/cccc/cccc/2995.ts@HTTP Error 403: Forbidden - Retry 3
+FX | HD@http://iptv.xtrego.com:8080/live/666030/666030/11868.ts@HTTP Error 403: Forbidden - Retry 3
+FX | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9426.ts@OK with retry 2
+FX | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14897.ts@OK with retry 2
+FX | HD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20428.ts@HTTP Error 401: Unauthorized - Retry 3
+FX | HD@http://sasuke.ovunque.tv:2300/live/ziogiampiero/rGtco0H4wA/72492.ts@Error: BadStatusLine. Retry 1
+FX | SD@http://cms.iptv4x.net:8080/live/cccc/cccc/3273.ts@HTTP Error 403: Forbidden - Retry 3
+FX | SD@http://iptv.xtrego.com:8080/live/666030/666030/5792.ts@HTTP Error 403: Forbidden - Retry 3
+FX | SD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14898.ts@OK with retry 2
+FXX | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9425.ts@HTTP Error 502: Bad Gateway - Retry 3
+FXX | SD@http://iptv.xtrego.com:8080/live/666030/666030/11867.ts@HTTP Error 403: Forbidden - Retry 3
+GERMAN | SD@http://nettv.rocks:25461/live/test0/test0/18444.ts@OK
+GOLF | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9424.ts@OK with retry 2
+GSN | HD@http://p4.giffy.be:8080/live/toby1/toby1/23305.ts@Error: same url
+GSN | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9423.ts@OK with retry 2
+GSN | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14896.ts@OK with retry 2
+H&I | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/9422.ts@OK with retry 2
+H2 | SD@http://iptv.xtrego.com:8080/live/666030/666030/11866.ts@HTTP Error 403: Forbidden - Retry 3
+H2 | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/9421.ts@OK with retry 2
+H2 | SD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14895.ts@OK with retry 2
+HALL MARK | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9420.ts@HTTP Error 502: Bad Gateway - Retry 3
+HALLMARK | HD@http://p4.giffy.be:8080/live/toby1/toby1/29987.ts@OK
+HALLMARK | HD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20425.ts@HTTP Error 401: Unauthorized - Retry 3
+HALLMARK | SD@http://cms.iptv4x.net:8080/live/cccc/cccc/3837.ts@HTTP Error 403: Forbidden - Retry 3
+HALLMARK | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/9419.ts@HTTP Error 502: Bad Gateway - Retry 3
+HALLMARK | SD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/5089.ts@OK
+HALLMARK | SD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14894.ts@OK with retry 2
+HALLMARK CHANNEL | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14893.ts@OK with retry 2
+HALLMARK MOVIES | HD@http://p4.giffy.be:8080/live/toby1/toby1/20966.ts@OK
+HBO | HD@http://iptv.xtrego.com:8080/live/666030/666030/5785.ts@HTTP Error 403: Forbidden - Retry 3
+HBO | HD@http://iptv.xtrego.com:8080/live/666030/666030/11863.ts@HTTP Error 403: Forbidden - Retry 3
+HBO | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9417.ts@OK with retry 2
+HBO | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14888.ts@OK with retry 2
+HBO | HD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20422.ts@HTTP Error 401: Unauthorized - Retry 3
+HBO | SD@http://cms.iptv4x.net:8080/live/cccc/cccc/3266.ts@HTTP Error 403: Forbidden - Retry 3
+HBO | SD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/5088.ts@OK
+HBO | SD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14892.ts@OK with retry 2
+HBO 2 | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/9416.ts@OK with retry 2
+HBO 2 COMEDY | SD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20424.ts@HTTP Error 401: Unauthorized - Retry 3
+HBO COMDEY | SD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/5086.ts@OK
+HBO COMEDY | HD@http://p4.giffy.be:8080/live/toby1/toby1/20964.ts@Error: same url
+HBO COMEDY | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9418.ts@HTTP Error 502: Bad Gateway - Retry 3
+HBO COMEDY | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14891.ts@OK with retry 2
+HBO COMEDY | SD@http://cms.iptv4x.net:8080/live/cccc/cccc/3267.ts@HTTP Error 403: Forbidden - Retry 3
+HBO COMEDY | SD@http://iptv.xtrego.com:8080/live/666030/666030/5787.ts@HTTP Error 403: Forbidden - Retry 3
+HBO COMEDY | SD@http://iptv.xtrego.com:8080/live/666030/666030/11865.ts@HTTP Error 403: Forbidden - Retry 3
+HBO EAST | SD@http://iptv.xtrego.com:8080/live/666030/666030/5786.ts@HTTP Error 403: Forbidden - Retry 3
+HBO EAST | SD@http://iptv.xtrego.com:8080/live/666030/666030/11864.ts@HTTP Error 403: Forbidden - Retry 3
+HBO EAST | SD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/5087.ts@OK
+HBO EAST | SD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14890.ts@OK with retry 2
+HBO FAMILY | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9483.ts@OK
+HBO FAMILY | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14889.ts@OK with retry 2
+HBO FAMILY | HD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20423.ts@HTTP Error 401: Unauthorized - Retry 3
+HBO FAMILY | HD@http://sasuke.ovunque.tv:2300/live/ziogiampiero/rGtco0H4wA/72490.ts@Error: BadStatusLine. Retry 1
+HBO SIGNATURE | HD@http://p4.giffy.be:8080/live/toby1/toby1/20962.ts@Error: same url
+HBO SIGNATURE | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9415.ts@HTTP Error 502: Bad Gateway - Retry 3
+HBO SIGNATURE | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14886.ts@OK with retry 2
+HBO SIGNATURE | SD@http://cms.iptv4x.net:8080/live/cccc/cccc/3269.ts@HTTP Error 403: Forbidden - Retry 3
+HBO SIGNATURE | SD@http://iptv.xtrego.com:8080/live/666030/666030/5784.ts@HTTP Error 403: Forbidden - Retry 3
+HBO SIGNATURE | SD@http://iptv.xtrego.com:8080/live/666030/666030/11862.ts@HTTP Error 403: Forbidden - Retry 3
+HBO SIGNATURE | SD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/5085.ts@OK
+HBO SIGNATURE | SD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14887.ts@OK with retry 2
+HBO SIGNATURE | SD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20421.ts@HTTP Error 401: Unauthorized - Retry 3
+HBO ZONE | HD@http://p4.giffy.be:8080/live/toby1/toby1/20961.ts@OK
+HBO ZONE | SD@http://cms.iptv4x.net:8080/live/cccc/cccc/3268.ts@HTTP Error 403: Forbidden - Retry 3
+HBO ZONE | SD@http://iptv.xtrego.com:8080/live/666030/666030/5783.ts@HTTP Error 403: Forbidden - Retry 3
+HBO ZONE | SD@http://iptv.xtrego.com:8080/live/666030/666030/11861.ts@HTTP Error 403: Forbidden - Retry 3
+HBO ZONE | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/9414.ts@HTTP Error 502: Bad Gateway - Retry 3
+HBO ZONE | SD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/2209.ts@OK
+HBO ZONE | SD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14885.ts@HTTP Error 502: Bad Gateway - Retry 3
+HBO ZONE | SD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20420.ts@HTTP Error 401: Unauthorized - Retry 3
+HGTV | HD@http://p4.giffy.be:8080/live/toby1/toby1/25232.ts@OK
+HGTV | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9482.ts@HTTP Error 502: Bad Gateway - Retry 3
+HGTV | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14883.ts@OK
+HGTV | HD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20418.ts@HTTP Error 401: Unauthorized - Retry 3
+HGTV | HD@http://sasuke.ovunque.tv:2300/live/ziogiampiero/rGtco0H4wA/72489.ts@Error: BadStatusLine. Retry 1
+HGTV | SD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/5084.ts@OK
+HGTV | SD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14884.ts@OK with retry 2
+HIFI | SD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14882.ts@OK with retry 2
+HISTORY | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14880.ts@OK with retry 3
+HISTORY | HD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20417.ts@HTTP Error 401: Unauthorized - Retry 3
+HISTORY | HD@http://sasuke.ovunque.tv:2300/live/ziogiampiero/rGtco0H4wA/72488.ts@Error: BadStatusLine. Retry 1
+HISTORY | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/9413.ts@HTTP Error 403: Forbidden - Retry 3
+HISTORY | SD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14881.ts@OK with retry 2
+HISTORY CHANNEL | SD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/5083.ts@OK
+IFC | HD@http://p4.giffy.be:8080/live/toby1/toby1/20960.ts@Error: same url
+IFC | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9412.ts@HTTP Error 403: Forbidden - Retry 3
+IFC | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14878.ts@OK with retry 2
+INVESTIGATION DISCOVERY | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14877.ts@OK with retry 2
+INVESTIGATION DISCOVERY | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/9411.ts@OK with retry 2
+LIFE TIME | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/9410.ts@OK
+LIFE TIME | SD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/5079.ts@OK
+LIFE TIME | SD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20414.ts@HTTP Error 401: Unauthorized - Retry 3
+LIFETIME | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14876.ts@OK with retry 2
+LIFETIME | HD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20413.ts@HTTP Error 401: Unauthorized - Retry 3
+LIFETIME | HD@http://sasuke.ovunque.tv:2300/live/ziogiampiero/rGtco0H4wA/72485.ts@Error: BadStatusLine. Retry 1
+LIFETIME MOVIES | HD@http://p4.giffy.be:8080/live/toby1/toby1/20914.ts@OK
+LMN | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9409.ts@OK with retry 2
+LMN HDTV | SD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20412.ts@HTTP Error 401: Unauthorized - Retry 3
+LMN HDTV | SD@http://sasuke.ovunque.tv:2300/live/ziogiampiero/rGtco0H4wA/72484.ts@Error: BadStatusLine. Retry 1
+MBL | HD@http://iptv.xtrego.com:8080/live/666030/666030/11860.ts@HTTP Error 403: Forbidden - Retry 3
+MLB | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14875.ts@OK with retry 3
+MLB | HD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20411.ts@HTTP Error 401: Unauthorized - Retry 3
+MLB NETWORK | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/7516.ts@OK
+MLB NETWORK | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14873.ts@OK with retry 2
+MLB NETWORK | SD@http://iptv.xtrego.com:8080/live/666030/666030/11859.ts@HTTP Error 403: Forbidden - Retry 3
+MLB NETWORK | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/9408.ts@OK with retry 2
+MLB NETWORK | SD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14874.ts@OK with retry 2
+MORE MAX | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9407.ts@OK with retry 2
+MOREMAX | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/7521.ts@OK
+MOVIETIME | SD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20410.ts@HTTP Error 401: Unauthorized - Retry 3
+MOVIETIME | SD@http://sasuke.ovunque.tv:2300/live/ziogiampiero/rGtco0H4wA/72483.ts@Error: BadStatusLine. Retry 1
+MSNBC | HD@http://p4.giffy.be:8080/live/toby1/toby1/26075.ts@OK
+MSNBC | HD@http://iptv.xtrego.com:8080/live/666030/666030/11858.ts@HTTP Error 403: Forbidden - Retry 3
+MSNBC | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9406.ts@OK
+MSNBC | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14872.ts@OK with retry 2
+MSNBC | HD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20409.ts@HTTP Error 401: Unauthorized - Retry 3
+MSNBC | HD@http://sasuke.ovunque.tv:2300/live/ziogiampiero/rGtco0H4wA/72482.ts@Error: BadStatusLine. Retry 1
+MTV | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9405.ts@OK with retry 2
+MTV | HD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20408.ts@HTTP Error 401: Unauthorized - Retry 3
+MTV | HD@http://sasuke.ovunque.tv:2300/live/ziogiampiero/rGtco0H4wA/72480.ts@Error: BadStatusLine. Retry 1
+MTV 2 | HD@http://sasuke.ovunque.tv:2300/live/ziogiampiero/rGtco0H4wA/72481.ts@Error: BadStatusLine. Retry 1
+MTV BASE | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14871.ts@OK with retry 2
+MTV LIVE | HD@http://p4.giffy.be:8080/live/toby1/toby1/20954.ts@OK
+MTV LIVE | HD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20406.ts@HTTP Error 401: Unauthorized - Retry 3
+MTV LIVE | SD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20405.ts@HTTP Error 401: Unauthorized - Retry 3
+MTV LIVE | SD@http://sasuke.ovunque.tv:2300/live/ziogiampiero/rGtco0H4wA/72479.ts@Error: BadStatusLine. Retry 1
+MTV ROCKS | SD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14870.ts@timed out - Retry 3
+MUSIC CHOICE 90 | SD@http://sasuke.ovunque.tv:2300/live/ziogiampiero/rGtco0H4wA/72478.ts@Error: BadStatusLine. Retry 1
+MUSIC CHOICE HIP-HOP | SD@http://sasuke.ovunque.tv:2300/live/ziogiampiero/rGtco0H4wA/72477.ts@Error: BadStatusLine. Retry 1
+MUSIC CHOICE RAP | SD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20404.ts@HTTP Error 401: Unauthorized - Retry 3
+MUSIC CHOICE RAP | SD@http://sasuke.ovunque.tv:2300/live/ziogiampiero/rGtco0H4wA/72476.ts@Error: BadStatusLine. Retry 1
+MUSIC CHOICE RAP2K | SD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20403.ts@HTTP Error 401: Unauthorized - Retry 3
+NAT GEOGRAPHIC | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14868.ts@OK with retry 2
+NATIONAL GEOGRAPHIC | SD@http://iptv.xtrego.com:8080/live/666030/666030/11857.ts@HTTP Error 403: Forbidden - Retry 3
+NATIONAL GEOGRAPHIC | SD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14867.ts@OK with retry 2
+NBA | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/7507.ts@OK
+NBA | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14866.ts@OK
+NBA LIVE 1 | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14865.ts@OK with retry 2
+NBA LIVE 2 | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14864.ts@HTTP Error 404: Not Found - Retry 3
+NBA LIVE 3 | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14863.ts@HTTP Error 404: Not Found - Retry 3
+NBA LIVE 4 | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14862.ts@HTTP Error 404: Not Found - Retry 3
+NBA LIVE 5 | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14861.ts@HTTP Error 404: Not Found - Retry 3
+NBA LIVE 6 | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14860.ts@HTTP Error 404: Not Found - Retry 3
+NBA LIVE 7 | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14859.ts@HTTP Error 404: Not Found - Retry 3
+NBA LIVE 8 | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14858.ts@HTTP Error 404: Not Found - Retry 3
+NBC | HD@http://cms.iptv4x.net:8080/live/cccc/cccc/3271.ts@HTTP Error 403: Forbidden - Retry 3
+NBC | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9493.ts@HTTP Error 502: Bad Gateway - Retry 3
+NBC | HD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20389.ts@HTTP Error 401: Unauthorized - Retry 3
+NBC | HD@http://sasuke.ovunque.tv:2300/live/ziogiampiero/rGtco0H4wA/72468.ts@Error: BadStatusLine. Retry 1
+NBC | SD@http://iptv.xtrego.com:8080/live/666030/666030/11855.ts@HTTP Error 403: Forbidden - Retry 3
+NBC | SD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14857.ts@HTTP Error 404: Not Found - Retry 3
+NBC E.P.L XTRA 1 LIVE DURING EPL | SD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20397.ts@HTTP Error 401: Unauthorized - Retry 3
+NBC E.P.L XTRA 2 LIVE DURING EPL | SD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20396.ts@HTTP Error 401: Unauthorized - Retry 3
+NBC E.P.L XTRA 3 LIVE DURING EPL | SD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20395.ts@HTTP Error 401: Unauthorized - Retry 3
+NBC E.P.L XTRA 4 LIVE DURING EPL | SD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20394.ts@HTTP Error 401: Unauthorized - Retry 3
+NBC E.P.L XTRA 5 LIVE DURING EPL | SD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20393.ts@HTTP Error 401: Unauthorized - Retry 3
+NBC E.P.L XTRA 6 LIVE DURING EPL | SD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20392.ts@HTTP Error 401: Unauthorized - Retry 3
+NBC E.P.L XTRA 7 LIVE DURING EPL | SD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20391.ts@HTTP Error 401: Unauthorized - Retry 3
+NBC EAST | HD@http://p4.giffy.be:8080/live/toby1/toby1/20985.ts@OK
+NBC GOLF | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/2216.ts@HTTP Error 404: Not Found - Retry 3
+NBC GOLF | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14854.ts@HTTP Error 404: Not Found - Retry 3
+NBC GOLF | HD@http://sasuke.ovunque.tv:2300/live/ziogiampiero/rGtco0H4wA/72469.ts@Error: BadStatusLine. Retry 1
+NBC GOLF | SD@http://iptv.xtrego.com:8080/live/666030/666030/5780.ts@HTTP Error 403: Forbidden - Retry 3
+NBC GOLF | SD@http://iptv.xtrego.com:8080/live/666030/666030/11854.ts@HTTP Error 403: Forbidden - Retry 3
+NBC GOLF | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/9401.ts@HTTP Error 502: Bad Gateway - Retry 3
+NBC GOLF | SD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20390.ts@HTTP Error 401: Unauthorized - Retry 3
+NBC GOLF | SD@http://sasuke.ovunque.tv:2300/live/ziogiampiero/rGtco0H4wA/72470.ts@Error: BadStatusLine. Retry 1
+NBC GOLF CHANNEL | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14855.ts@HTTP Error 404: Not Found - Retry 3
+NBC GOLF CHANNEL FHD | SD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14856.ts@HTTP Error 404: Not Found - Retry 3
+NBC NEWS | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14853.ts@HTTP Error 404: Not Found - Retry 3
+NBC SPORT FHD | SD@http://iptv.xtrego.com:8080/live/666030/666030/8280.ts@HTTP Error 403: Forbidden - Retry 3
+NBC SPORTS PREMIER LEAGUE | HD@http://sasuke.ovunque.tv:2300/live/ziogiampiero/rGtco0H4wA/72467.ts@Error: BadStatusLine. Retry 1
+NBC WEST | SD@http://p4.giffy.be:8080/live/toby1/toby1/26563.ts@OK
+NBCSN | HD@http://iptv.xtrego.com:8080/live/666030/666030/11853.ts@HTTP Error 403: Forbidden - Retry 3
+NBCSN | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9400.ts@HTTP Error 502: Bad Gateway - Retry 3
+NBCSN | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14851.ts@HTTP Error 404: Not Found - Retry 3
+NBCSN | HD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20388.ts@HTTP Error 401: Unauthorized - Retry 3
+NDTV | SD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/2924.ts@HTTP Error 404: Not Found - Retry 3
+NET | SD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/2918.ts@HTTP Error 404: Not Found - Retry 3
+NETWORK | HD@http://p4.giffy.be:8080/live/toby1/toby1/20944.ts@OK
+NETWORK | HD@http://iptv.xtrego.com:8080/live/666030/666030/11834.ts@HTTP Error 403: Forbidden - Retry 3
+NETWORK | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14798.ts@HTTP Error 404: Not Found - Retry 3
+NETWORK | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14850.ts@HTTP Error 404: Not Found - Retry 3
+NETWORK | SD@http://nettv.rocks:25461/live/test0/test0/89.ts@OK
+NETWORK | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/9375.ts@OK with retry 3
+NETWORK | SD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/7517.ts@OK with retry 3
+NETWORK | SD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20329.ts@HTTP Error 401: Unauthorized - Retry 3
+NETWORK | SD@http://sasuke.ovunque.tv:2300/live/ziogiampiero/rGtco0H4wA/72426.ts@Error: BadStatusLine. Retry 1
+NEWS 12 BRONX NYC | SD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20387.ts@HTTP Error 401: Unauthorized - Retry 3
+NEWS 12 BROOKLYN NYC | SD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20386.ts@HTTP Error 401: Unauthorized - Retry 3
+NEWS 12 CONNECTICUT LIVE | SD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20385.ts@HTTP Error 401: Unauthorized - Retry 3
+NEWS 12 LONG ISLAND STREAM 1 | SD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20384.ts@HTTP Error 401: Unauthorized - Retry 3
+NEWS 12 NEW JERSEY LIVE | SD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20383.ts@HTTP Error 401: Unauthorized - Retry 3
+NEWS 12 NEW JERSEY WEATHER LIVE | SD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20382.ts@HTTP Error 401: Unauthorized - Retry 3
+NFL | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/5073.ts@OK
+NFL NETWORK | HD@http://cms.iptv4x.net:8080/live/cccc/cccc/2998.ts@HTTP Error 403: Forbidden - Retry 3
+NFL NETWORK | HD@http://iptv.xtrego.com:8080/live/666030/666030/11851.ts@HTTP Error 403: Forbidden - Retry 3
+NFL NETWORK | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9374.ts@timed out - Retry 3
+NFL NETWORK | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14846.ts@HTTP Error 502: Bad Gateway - Retry 3
+NFL NETWORK | HD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20380.ts@HTTP Error 401: Unauthorized - Retry 3
+NFL NETWORK | HD@http://sasuke.ovunque.tv:2300/live/ziogiampiero/rGtco0H4wA/72466.ts@Error: BadStatusLine. Retry 1
+NFL NETWORK | SD@http://iptv.xtrego.com:8080/live/666030/666030/5771.ts@HTTP Error 403: Forbidden - Retry 3
+NFL NETWORK | SD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14849.ts@OK with retry 3
+NFL NETWORK 1 | SD@http://iptv.xtrego.com:8080/live/666030/666030/11852.ts@HTTP Error 403: Forbidden - Retry 3
+NFL NETWORK 1 | SD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14848.ts@OK with retry 2
+NFL NETWORK 1080I | SD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14847.ts@OK with retry 2
+NFL NETWORK HDTV 1080I | SD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20379.ts@HTTP Error 401: Unauthorized - Retry 3
+NFL NETWORK HDTV 1080I | SD@http://sasuke.ovunque.tv:2300/live/ziogiampiero/rGtco0H4wA/72465.ts@Error: BadStatusLine. Retry 1
+NFL NOW | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9373.ts@HTTP Error 403: Forbidden - Retry 3
+NFL NOW | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14845.ts@OK with retry 2
+NFL NOW | SD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20378.ts@HTTP Error 401: Unauthorized - Retry 3
+NFL NOW | SD@http://sasuke.ovunque.tv:2300/live/ziogiampiero/rGtco0H4wA/72464.ts@Error: BadStatusLine. Retry 1
+NFL REDZONE | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9372.ts@HTTP Error 502: Bad Gateway - Retry 3
+NFL REDZONE | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14844.ts@OK with retry 2
+NFL REDZONE LIVE ON GAMEDAY | SD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20377.ts@HTTP Error 401: Unauthorized - Retry 3
+NFL REDZONE LIVE ON GAMEDAY | SD@http://sasuke.ovunque.tv:2300/live/ziogiampiero/rGtco0H4wA/72463.ts@Error: BadStatusLine. Retry 1
+NHL NETWORK | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9399.ts@OK with retry 2
+NHL NETWORK | SD@http://iptv.xtrego.com:8080/live/666030/666030/5770.ts@HTTP Error 403: Forbidden - Retry 3
+NHL NETWORK | SD@http://iptv.xtrego.com:8080/live/666030/666030/11850.ts@HTTP Error 403: Forbidden - Retry 3
+NHL NETWORK | SD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14843.ts@OK with retry 2
+NHL NETWORK | SD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20376.ts@HTTP Error 401: Unauthorized - Retry 3
+NHL NETWORK | SD@http://sasuke.ovunque.tv:2300/live/ziogiampiero/rGtco0H4wA/72462.ts@Error: BadStatusLine. Retry 1
+NHLTV NETWORK | HD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20375.ts@HTTP Error 401: Unauthorized - Retry 3
+NHLTV NETWORK | HD@http://sasuke.ovunque.tv:2300/live/ziogiampiero/rGtco0H4wA/72461.ts@Error: BadStatusLine. Retry 1
+NICK | SD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/2922.ts@OK
+NICK JR | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9398.ts@HTTP Error 502: Bad Gateway - Retry 3
+NICK JR | SD@http://nettv.rocks:25461/live/test0/test0/118.ts@OK
+NICK KIDS | HD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20374.ts@HTTP Error 401: Unauthorized - Retry 3
+NICK KIDS | HD@http://sasuke.ovunque.tv:2300/live/ziogiampiero/rGtco0H4wA/72460.ts@Error: BadStatusLine. Retry 1
+NICKELODEN | HD@http://iptv.xtrego.com:8080/live/666030/666030/11849.ts@HTTP Error 403: Forbidden - Retry 3
+NICKELODEON | SD@http://nettv.rocks:25461/live/test0/test0/117.ts@OK
+NICKELODEON KIDS | SD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20373.ts@HTTP Error 401: Unauthorized - Retry 3
+NICKELODEON KIDS | SD@http://sasuke.ovunque.tv:2300/live/ziogiampiero/rGtco0H4wA/72459.ts@Error: BadStatusLine. Retry 1
+NICKOLODEAN | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9397.ts@OK with retry 3
+NICKTOONS | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9396.ts@HTTP Error 502: Bad Gateway - Retry 3
+NICKTOONS | SD@http://nettv.rocks:25461/live/test0/test0/119.ts@OK
+NICKTOONS | SD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20372.ts@HTTP Error 401: Unauthorized - Retry 3
+NICKTOONS | SD@http://sasuke.ovunque.tv:2300/live/ziogiampiero/rGtco0H4wA/72458.ts@Error: BadStatusLine. Retry 1
+NURSERY RHYMES BABY SONGS | SD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20371.ts@HTTP Error 401: Unauthorized - Retry 3
+NURSERY RHYMES BABY SONGS | SD@http://sasuke.ovunque.tv:2300/live/ziogiampiero/rGtco0H4wA/72457.ts@Error: BadStatusLine. Retry 1
+NYC | SD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20370.ts@HTTP Error 401: Unauthorized - Retry 3
+OPRAH WINFREY NETWORK | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14842.ts@HTTP Error 403: Forbidden - Retry 3
+OUTDOOR CHANNEL | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14841.ts@HTTP Error 403: Forbidden - Retry 3
+OWN | HD@http://p4.giffy.be:8080/live/toby1/toby1/20979.ts@OK
+OWN | HD@http://iptv.xtrego.com:8080/live/666030/666030/11848.ts@HTTP Error 403: Forbidden - Retry 3
+OWN | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9395.ts@OK with retry 2
+OXYGEN | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9394.ts@OK with retry 2
+P.B.S KIDS | SD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20368.ts@HTTP Error 401: Unauthorized - Retry 3
+P.B.S KIDS | SD@http://sasuke.ovunque.tv:2300/live/ziogiampiero/rGtco0H4wA/72455.ts@Error: BadStatusLine. Retry 1
+PAC-12 ARIZONA | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/7514.ts@OK with retry 3
+PAC-12 ARIZONA | SD@http://iptv.xtrego.com:8080/live/666030/666030/11847.ts@HTTP Error 403: Forbidden - Retry 3
+PAC-12 ARIZONA | SD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14840.ts@OK with retry 2
+PAC-12 BAY AREA | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/7513.ts@OK
+PAC-12 BAY AREA | SD@http://iptv.xtrego.com:8080/live/666030/666030/11846.ts@HTTP Error 403: Forbidden - Retry 3
+PAC-12 BAY AREA | SD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14839.ts@OK with retry 3
+PAC-12 LOS ANGELES | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/7512.ts@OK
+PAC-12 LOS ANGELES | SD@http://iptv.xtrego.com:8080/live/666030/666030/11845.ts@HTTP Error 403: Forbidden - Retry 3
+PAC-12 LOS ANGELES FHD | SD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14838.ts@OK with retry 2
+PAC-12 MOUNTAIN | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/7511.ts@OK
+PAC-12 OREGON | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/7510.ts@OK
+PAC-12 OREGON | SD@http://iptv.xtrego.com:8080/live/666030/666030/11844.ts@HTTP Error 403: Forbidden - Retry 3
+PAC-12 OREGON FHD | SD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14837.ts@OK with retry 3
+PAC-12 WASHINGTON | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/7509.ts@OK
+PAC-12 WASHINGTON | SD@http://iptv.xtrego.com:8080/live/666030/666030/11843.ts@HTTP Error 403: Forbidden - Retry 3
+PAC-12 WASHINGTON FHD | SD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14836.ts@OK with retry 2
+PBS | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9393.ts@HTTP Error 502: Bad Gateway - Retry 3
+PBS EAST | SD@http://p4.giffy.be:8080/live/toby1/toby1/26548.ts@OK
+POKER CENTRAL | SD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/2214.ts@HTTP Error 403: Forbidden - Retry 3
+POKER CENTRAL | SD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/2921.ts@HTTP Error 403: Forbidden - Retry 3
+QVC LIVE | SD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20366.ts@HTTP Error 401: Unauthorized - Retry 3
+QVC LIVE | SD@http://sasuke.ovunque.tv:2300/live/ziogiampiero/rGtco0H4wA/72453.ts@Error: BadStatusLine. Retry 1
+QVC PLUS | SD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20365.ts@HTTP Error 401: Unauthorized - Retry 3
+QVC PLUS | SD@http://sasuke.ovunque.tv:2300/live/ziogiampiero/rGtco0H4wA/72452.ts@Error: BadStatusLine. Retry 1
+RED BULL | SD@http://iptv.xtrego.com:8080/live/666030/666030/10340.ts@HTTP Error 403: Forbidden - Retry 3
+REELZ | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9392.ts@HTTP Error 403: Forbidden - Retry 3
+REELZ | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14835.ts@HTTP Error 502: Bad Gateway - Retry 3
+RT AMERICA | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/5070.ts@OK
+RT AMERICA | SD@http://iptv.xtrego.com:8080/live/666030/666030/5772.ts@HTTP Error 403: Forbidden - Retry 3
+RT DOCUMENTARY | SD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20363.ts@HTTP Error 401: Unauthorized - Retry 3
+RT DOCUMENTARY | SD@http://sasuke.ovunque.tv:2300/live/ziogiampiero/rGtco0H4wA/72451.ts@Error: BadStatusLine. Retry 1
+SCIENCE | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14834.ts@OK with retry 2
+SEC NETWORK | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9391.ts@timed out - Retry 3
+SEC NETWORK | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14833.ts@OK with retry 2
+SEC NETWORK | SD@http://iptv.xtrego.com:8080/live/666030/666030/11842.ts@HTTP Error 403: Forbidden - Retry 3
+SHOW TIME | SD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/3764.ts@OK
+SHOWTIME | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/9390.ts@HTTP Error 502: Bad Gateway - Retry 3
+SHOWTIME | SD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/7519.ts@OK
+SHOWTIME 2 | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9389.ts@HTTP Error 403: Forbidden - Retry 3
+SHOWTIME 2 | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14831.ts@OK with retry 2
+SHOWTIME 2 | HD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20362.ts@HTTP Error 401: Unauthorized - Retry 3
+SHOWTIME 2 | SD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14832.ts@OK with retry 2
+SHOWTIME EAST | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14830.ts@OK with retry 2
+SHOWTIME EXTREME | HD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20361.ts@HTTP Error 401: Unauthorized - Retry 3
+SHOWTIME EXTREME | HD@http://sasuke.ovunque.tv:2300/live/ziogiampiero/rGtco0H4wA/72450.ts@Error: BadStatusLine. Retry 1
+SHOWTIME FAMILY ZONE | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9388.ts@timed out - Retry 3
+SHOWTIME FAMILY ZONE | SD@http://p4.giffy.be:8080/live/toby1/toby1/20958.ts@HTTP Error 406: Not Acceptable - Retry 3
+SHOWTIME FHD | SD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14829.ts@OK with retry 2
+SHOWTIME HDTV | SD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20360.ts@HTTP Error 401: Unauthorized - Retry 3
+SHOWTIME SHOWCASE | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14828.ts@OK with retry 2
+SHOWTIME SHOWCASE | SD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20359.ts@HTTP Error 401: Unauthorized - Retry 3
+SHOWTIME SHOWCASE | SD@http://sasuke.ovunque.tv:2300/live/ziogiampiero/rGtco0H4wA/72449.ts@Error: BadStatusLine. Retry 1
+SHOWTIME WEST | SD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14827.ts@OK with retry 2
+SKY SPORTS FOOTBAL | SD@http://iptv.xtrego.com:8080/live/666030/666030/8281.ts@HTTP Error 403: Forbidden - Retry 3
+SMILE OF A CHILD | SD@http://iptv.xtrego.com:8080/live/666030/666030/11841.ts@HTTP Error 403: Forbidden - Retry 3
+SMILE OF A CHILD | SD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14826.ts@OK with retry 2
+SPIKE | HD@http://p4.giffy.be:8080/live/toby1/toby1/20943.ts@OK
+SPIKE | HD@http://iptv.xtrego.com:8080/live/666030/666030/11840.ts@HTTP Error 403: Forbidden - Retry 3
+SPIKE | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9387.ts@OK with retry 2
+SPIKE | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/7520.ts@OK
+SPIKE | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14825.ts@OK with retry 2
+SPORTS NET 360 | HD@http://cms.iptv4x.net:8080/live/cccc/cccc/3276.ts@HTTP Error 403: Forbidden - Retry 3
+SPORTS NET ONE | HD@http://cms.iptv4x.net:8080/live/cccc/cccc/3277.ts@HTTP Error 403: Forbidden - Retry 3
+SPORTS NET ONTARIO | HD@http://cms.iptv4x.net:8080/live/cccc/cccc/3278.ts@HTTP Error 403: Forbidden - Retry 3
+SPORTSNET EAST | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14823.ts@timed out - Retry 3
+SPORTSNET ONE | HD@http://cms.iptv4x.net:8080/live/cccc/cccc/2996.ts@HTTP Error 403: Forbidden - Retry 3
+SPORTSNET ONE | HD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20357.ts@HTTP Error 401: Unauthorized - Retry 3
+SPORTSNET ONTARIO | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14822.ts@OK with retry 2
+SPORTSNET ONTARIO PREMIER LEAGUE | HD@http://sasuke.ovunque.tv:2300/live/ziogiampiero/rGtco0H4wA/72447.ts@Error: BadStatusLine. Retry 1
+SPORTSNET WEST | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14821.ts@HTTP Error 502: Bad Gateway - Retry 3
+SPROUT WORLD | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14820.ts@HTTP Error 502: Bad Gateway - Retry 3
+STARZ | HD@http://cms.iptv4x.net:8080/live/cccc/cccc/3275.ts@HTTP Error 403: Forbidden - Retry 3
+STARZ CINEMA | HD@http://p4.giffy.be:8080/live/toby1/toby1/21460.ts@OK
+STARZ CINEMA | SD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/2919.ts@HTTP Error 403: Forbidden - Retry 3
+STARZ CINEMA | SD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14819.ts@OK with retry 2
+STARZ CINEMA | SD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20356.ts@HTTP Error 401: Unauthorized - Retry 3
+STARZ COMEDY | SD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14818.ts@OK with retry 2
+STARZ COMEDY | SD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20355.ts@HTTP Error 401: Unauthorized - Retry 3
+STARZ EAST | SD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/5063.ts@HTTP Error 403: Forbidden - Retry 3
+STARZ EAST | SD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20354.ts@HTTP Error 401: Unauthorized - Retry 3
+STARZ EDGE | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14816.ts@OK with retry 2
+STARZ EDGE | HD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20353.ts@HTTP Error 401: Unauthorized - Retry 3
+STARZ EDGE | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/9386.ts@OK
+STARZ EDGE | SD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14817.ts@OK with retry 2
+STARZ ENCORE | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14814.ts@OK with retry 2
+STARZ ENCORE | HD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20351.ts@HTTP Error 401: Unauthorized - Retry 3
+STARZ ENCORE | HD@http://sasuke.ovunque.tv:2300/live/ziogiampiero/rGtco0H4wA/72445.ts@Error: BadStatusLine. Retry 1
+STARZ ENCORE | SD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14815.ts@OK with retry 2
+STARZ ENCORE EAST | SD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20352.ts@HTTP Error 401: Unauthorized - Retry 3
+STARZ ENCORE EAST | SD@http://sasuke.ovunque.tv:2300/live/ziogiampiero/rGtco0H4wA/72446.ts@Error: BadStatusLine. Retry 1
+STARZ WEST | SD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20350.ts@HTTP Error 401: Unauthorized - Retry 3
+SUNDANCE | HD@http://p4.giffy.be:8080/live/toby1/toby1/20956.ts@OK
+SUNDANCE | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9385.ts@HTTP Error 502: Bad Gateway - Retry 3
+SYFY | HD@http://cms.iptv4x.net:8080/live/cccc/cccc/3274.ts@HTTP Error 403: Forbidden - Retry 3
+SYFY | HD@http://p4.giffy.be:8080/live/toby1/toby1/20909.ts@OK
+SYFY | HD@http://iptv.xtrego.com:8080/live/666030/666030/5779.ts@HTTP Error 403: Forbidden - Retry 3
+SYFY | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9384.ts@timed out - Retry 3
+SYFY | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14812.ts@OK with retry 3
+SYFY | HD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20349.ts@HTTP Error 401: Unauthorized - Retry 3
+SYFY | HD@http://sasuke.ovunque.tv:2300/live/ziogiampiero/rGtco0H4wA/72444.ts@Error: BadStatusLine. Retry 1
+SYFY | SD@http://nettv.rocks:25461/live/test0/test0/101.ts@OK
+SYFY | SD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/5062.ts@OK
+SYFY | SD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14813.ts@OK with retry 2
+T.N.T | SD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20348.ts@HTTP Error 401: Unauthorized - Retry 3
+T.N.T | SD@http://sasuke.ovunque.tv:2300/live/ziogiampiero/rGtco0H4wA/72443.ts@Error: BadStatusLine. Retry 1
+TBS | HD@http://p4.giffy.be:8080/live/toby1/toby1/20987.ts@OK
+TBS | HD@http://iptv.xtrego.com:8080/live/666030/666030/11839.ts@HTTP Error 403: Forbidden - Retry 3
+TBS | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9481.ts@HTTP Error 502: Bad Gateway - Retry 3
+TBS | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/5061.ts@OK
+TBS | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14811.ts@OK with retry 2
+TBS | HD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20346.ts@HTTP Error 401: Unauthorized - Retry 3
+TBS | HD@http://sasuke.ovunque.tv:2300/live/ziogiampiero/rGtco0H4wA/72441.ts@Error: BadStatusLine. Retry 1
+TBS | SD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20347.ts@HTTP Error 401: Unauthorized - Retry 3
+TBS | SD@http://sasuke.ovunque.tv:2300/live/ziogiampiero/rGtco0H4wA/72442.ts@Error: BadStatusLine. Retry 1
+TENNIS | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9383.ts@OK with retry 2
+TENNIS | HD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20345.ts@HTTP Error 401: Unauthorized - Retry 3
+TENNIS | HD@http://sasuke.ovunque.tv:2300/live/ziogiampiero/rGtco0H4wA/72440.ts@Error: BadStatusLine. Retry 1
+TENNIS CHANNEL | HD@http://iptv.xtrego.com:8080/live/666030/666030/11838.ts@HTTP Error 403: Forbidden - Retry 3
+THE WALKING DEAD | SD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20344.ts@HTTP Error 401: Unauthorized - Retry 3
+THE WALKING DEAD | SD@http://sasuke.ovunque.tv:2300/live/ziogiampiero/rGtco0H4wA/72439.ts@Error: BadStatusLine. Retry 1
+THE WEATHER CHANNEL | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9382.ts@OK with retry 2
+THE WEATHER CHANNEL | SD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20343.ts@HTTP Error 401: Unauthorized - Retry 3
+THE WEATHER CHANNEL | SD@http://sasuke.ovunque.tv:2300/live/ziogiampiero/rGtco0H4wA/72438.ts@Error: BadStatusLine. Retry 1
+TLC | HD@http://iptv.xtrego.com:8080/live/666030/666030/11837.ts@HTTP Error 403: Forbidden - Retry 3
+TLC | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9381.ts@OK with retry 3
+TLC | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14810.ts@OK
+TLC | SD@http://nettv.rocks:25461/live/test0/test0/95.ts@OK
+TLC | SD@http://p4.giffy.be:8080/live/toby1/toby1/26543.ts@Error: same url
+TLC | SD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/5059.ts@HTTP Error 404: Not Found - Retry 3
+TLC | SD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20342.ts@HTTP Error 401: Unauthorized - Retry 3
+TLC | SD@http://sasuke.ovunque.tv:2300/live/ziogiampiero/rGtco0H4wA/72437.ts@Error: BadStatusLine. Retry 1
+TNT | HD@http://p4.giffy.be:8080/live/toby1/toby1/21459.ts@OK
+TNT | HD@http://iptv.xtrego.com:8080/live/666030/666030/5778.ts@HTTP Error 403: Forbidden - Retry 3
+TNT | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9380.ts@HTTP Error 502: Bad Gateway - Retry 3
+TNT | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14809.ts@HTTP Error 404: Not Found - Retry 3
+TNT | SD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/5093.ts@HTTP Error 404: Not Found - Retry 3
+TOON KIDS | SD@http://iptv.xtrego.com:8080/live/666030/666030/11836.ts@HTTP Error 403: Forbidden - Retry 3
+TOON KIDS | SD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20341.ts@HTTP Error 401: Unauthorized - Retry 3
+TRAVEL | HD@http://p4.giffy.be:8080/live/toby1/toby1/26545.ts@OK
+TRAVEL CHANNEL | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9379.ts@OK with retry 2
+TRAVEL CHANNEL | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14808.ts@HTTP Error 404: Not Found - Retry 3
+TRAVEL CHANNEL | SD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/10557.ts@HTTP Error 404: Not Found - Retry 3
+TRAVEL CHANNEL | SD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20340.ts@HTTP Error 401: Unauthorized - Retry 3
+TRAVEL CHANNEL | SD@http://sasuke.ovunque.tv:2300/live/ziogiampiero/rGtco0H4wA/72436.ts@Error: BadStatusLine. Retry 1
+TRUE MOVIES | SD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20338.ts@HTTP Error 401: Unauthorized - Retry 3
+TRUE MOVIES | SD@http://sasuke.ovunque.tv:2300/live/ziogiampiero/rGtco0H4wA/72434.ts@Error: BadStatusLine. Retry 1
+TRUTV | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14807.ts@HTTP Error 404: Not Found - Retry 3
+TSC | SD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/5111.ts@HTTP Error 404: Not Found - Retry 3
+TSN 1 | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9498.ts@OK with retry 2
+TSN 1 | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14806.ts@HTTP Error 404: Not Found - Retry 3
+TSN 1 | SD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/2204.ts@HTTP Error 404: Not Found - Retry 3
+TSN 2 | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9497.ts@OK with retry 2
+TSN 2 | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14805.ts@HTTP Error 404: Not Found - Retry 3
+TSN 2 | SD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/2205.ts@HTTP Error 404: Not Found - Retry 3
+TSN 3 | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9496.ts@HTTP Error 502: Bad Gateway - Retry 3
+TSN 3 | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14804.ts@HTTP Error 404: Not Found - Retry 3
+TSN 3 | SD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/2321.ts@HTTP Error 404: Not Found - Retry 3
+TSN 4 | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9495.ts@OK with retry 2
+TSN 4 | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14803.ts@HTTP Error 404: Not Found - Retry 3
+TSN 4 | SD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/2206.ts@HTTP Error 404: Not Found - Retry 3
+TSN 5 | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9494.ts@HTTP Error 502: Bad Gateway - Retry 3
+TSN 5 | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14802.ts@HTTP Error 404: Not Found - Retry 3
+TSN 5 | SD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/2322.ts@HTTP Error 404: Not Found - Retry 3
+TSN-SPORT 1 | HD@http://cms.iptv4x.net:8080/live/cccc/cccc/2985.ts@HTTP Error 403: Forbidden - Retry 3
+TSN-SPORT 1 | HD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20337.ts@HTTP Error 401: Unauthorized - Retry 3
+TSN-SPORT 1 | HD@http://sasuke.ovunque.tv:2300/live/ziogiampiero/rGtco0H4wA/72433.ts@Error: BadStatusLine. Retry 1
+TSN-SPORT 2 | HD@http://cms.iptv4x.net:8080/live/cccc/cccc/2986.ts@HTTP Error 403: Forbidden - Retry 3
+TSN-SPORT 2 | HD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20336.ts@HTTP Error 401: Unauthorized - Retry 3
+TSN-SPORT 2 | HD@http://sasuke.ovunque.tv:2300/live/ziogiampiero/rGtco0H4wA/72432.ts@Error: BadStatusLine. Retry 1
+TSN-SPORT 3 | HD@http://cms.iptv4x.net:8080/live/cccc/cccc/2987.ts@HTTP Error 403: Forbidden - Retry 3
+TSN-SPORT 3 | HD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20335.ts@HTTP Error 401: Unauthorized - Retry 3
+TSN-SPORT 3 | HD@http://sasuke.ovunque.tv:2300/live/ziogiampiero/rGtco0H4wA/72431.ts@Error: BadStatusLine. Retry 1
+TSN-SPORT 4 | HD@http://cms.iptv4x.net:8080/live/cccc/cccc/2988.ts@HTTP Error 403: Forbidden - Retry 3
+TSN-SPORT 4 | HD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20334.ts@HTTP Error 401: Unauthorized - Retry 3
+TSN-SPORT 4 | HD@http://sasuke.ovunque.tv:2300/live/ziogiampiero/rGtco0H4wA/72430.ts@Error: BadStatusLine. Retry 1
+TSN-SPORT 5 | HD@http://cms.iptv4x.net:8080/live/cccc/cccc/2989.ts@HTTP Error 403: Forbidden - Retry 3
+TSN-SPORT 5 | HD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20333.ts@HTTP Error 401: Unauthorized - Retry 3
+TSN-SPORT 5 | HD@http://sasuke.ovunque.tv:2300/live/ziogiampiero/rGtco0H4wA/72429.ts@Error: BadStatusLine. Retry 1
+UFC FIGHT PASS | SD@http://iptv.xtrego.com:8080/live/666030/666030/5769.ts@HTTP Error 403: Forbidden - Retry 3
+UFC FIGHT PASS | SD@http://iptv.xtrego.com:8080/live/666030/666030/11835.ts@HTTP Error 403: Forbidden - Retry 3
+UFC FIGHT PASS | SD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14801.ts@HTTP Error 404: Not Found - Retry 3
+UNIVERSAL | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9376.ts@HTTP Error 502: Bad Gateway - Retry 3
+UNIVISION | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14800.ts@HTTP Error 404: Not Found - Retry 3
+VELOCITY | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9371.ts@HTTP Error 502: Bad Gateway - Retry 3
+VERSUS | HD@http://iptv.xtrego.com:8080/live/666030/666030/11833.ts@HTTP Error 403: Forbidden - Retry 3
+VERSUS | SD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20328.ts@HTTP Error 401: Unauthorized - Retry 3
+VH1 | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9370.ts@timed out - Retry 3
+VH1 | HD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20327.ts@HTTP Error 401: Unauthorized - Retry 3
+VH1 | HD@http://sasuke.ovunque.tv:2300/live/ziogiampiero/rGtco0H4wA/72425.ts@Error: BadStatusLine. Retry 1
+VH1 | SD@http://nettv.rocks:25461/live/test0/test0/259.ts@OK
+VH1 CLASSIC | SD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14797.ts@HTTP Error 404: Not Found - Retry 3
+VICELAND | SD@http://nettv.rocks:25461/live/test0/test0/88.ts@OK
+WEATHER | HD@http://p4.giffy.be:8080/live/toby1/toby1/23193.ts@OK
+WEATHERNATION | SD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20326.ts@HTTP Error 401: Unauthorized - Retry 3
+WGN | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9369.ts@HTTP Error 502: Bad Gateway - Retry 3
+WILLOW CRICKET | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9368.ts@HTTP Error 502: Bad Gateway - Retry 3
+WILLOW CRICKET | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/5102.ts@HTTP Error 404: Not Found - Retry 3
+WWE | HD@http://iptv.xtrego.com:8080/live/666030/666030/5774.ts@HTTP Error 403: Forbidden - Retry 3
+WWE | HD@http://iptv.xtrego.com:8080/live/666030/666030/11832.ts@HTTP Error 403: Forbidden - Retry 3
+WWE | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9367.ts@timed out - Retry 3
+WWE | HD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14795.ts@HTTP Error 404: Not Found - Retry 3
+WWE | SD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14796.ts@HTTP Error 404: Not Found - Retry 3
+WWE NETWORK | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9366.ts@HTTP Error 403: Forbidden - Retry 3
+WWE NETWORK | SD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/2211.ts@HTTP Error 404: Not Found - Retry 3
+WWE NETWORK | SD@http://iptv.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/20325.ts@HTTP Error 401: Unauthorized - Retry 3
+WWE NETWORK FHD | SD@http://78.142.29.72:2500/live/mU60AGYbZN/qyJYJQXo45/14794.ts@HTTP Error 404: Not Found - Retry 3
