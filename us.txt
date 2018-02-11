@@ -1,453 +1,182 @@
-A&E | HD@http://p4.giffy.be:8080/live/toby1/toby1/20911.ts@OK Retry 1
-A&E | HD@http://p4.giffy.be:8080/live/dennis/dennis/20911.ts@OK Retry 1
-A&E | HD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6836.ts@HTTP Error 403: Forbidden Retry 3
-A&E | HD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6868.ts@HTTP Error 502: Bad Gateway Retry 3
-ABC | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9489.ts@HTTP Error 502: Bad Gateway Retry 3
-ABC | HD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6835.ts@HTTP Error 502: Bad Gateway Retry 3
-ABC | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/9479.ts@OK Retry 3
-ABC EAST | SD@http://p4.giffy.be:8080/live/toby1/toby1/20986.ts@OK Retry 2
-ABC EAST | SD@http://p4.giffy.be:8080/live/dennis/dennis/20986.ts@OK Retry 1
-ABC EAST | SD@http://classeiptv.es:25300/live/mmesebtinoufissa/6bKStQi1b9/18025.ts@HTTP Error 502: Bad Gateway Retry 3
-ABC NEWS | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9478.ts@OK Retry 2
-ABC NEWS | HD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6867.ts@HTTP Error 502: Bad Gateway Retry 3
-ABC WEST | HD@http://p4.giffy.be:8080/live/toby1/toby1/26561.ts@OK Retry 1
-ABC WEST | HD@http://p4.giffy.be:8080/live/dennis/dennis/26561.ts@OK Retry 1
-ACTION MAX | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/9477.ts@OK Retry 2
-AFN MOVIE | SD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6834.ts@HTTP Error 502: Bad Gateway Retry 3
-AFN NEWS | SD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6833.ts@HTTP Error 502: Bad Gateway Retry 3
-AFN PRIME ATLANTIC | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/9476.ts@OK Retry 2
-AFN PRIME ATLANTIC | SD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6832.ts@timed out Retry 3
-AFN PRIME PACIFIC | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/9475.ts@HTTP Error 502: Bad Gateway Retry 3
-AFN PRIME PACIFIC | SD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6831.ts@HTTP Error 502: Bad Gateway Retry 3
-AFN PULSE | SD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6830.ts@HTTP Error 502: Bad Gateway Retry 3
-AFN SPECTRUM | SD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6829.ts@HTTP Error 502: Bad Gateway Retry 3
-AFN SPORTS | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/9474.ts@HTTP Error 403: Forbidden Retry 3
-AFN SPORTS | SD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6828.ts@HTTP Error 502: Bad Gateway Retry 3
-AFN SPORTS 2 | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/9473.ts@HTTP Error 502: Bad Gateway Retry 3
-AFN SPORTS 2 | SD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6827.ts@HTTP Error 502: Bad Gateway Retry 3
-AMC | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9490.ts@HTTP Error 502: Bad Gateway Retry 3
-AMC | HD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6826.ts@HTTP Error 502: Bad Gateway Retry 3
-AMC | HD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6886.ts@HTTP Error 502: Bad Gateway Retry 3
-ANIMAL PLANET | HD@http://p4.giffy.be:8080/live/toby1/toby1/20989.ts@OK Retry 1
-ANIMAL PLANET | HD@http://p4.giffy.be:8080/live/dennis/dennis/20989.ts@OK Retry 1
-ANIMAL PLANET | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9472.ts@HTTP Error 502: Bad Gateway Retry 3
-ANIMAL PLANET | HD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6825.ts@HTTP Error 502: Bad Gateway Retry 3
-ANIMAL PLANET | SD@http://classeiptv.es:25300/live/mmesebtinoufissa/6bKStQi1b9/18024.ts@HTTP Error 502: Bad Gateway Retry 3
-BBC AMERICA | HD@http://p4.giffy.be:8080/live/toby1/toby1/20977.ts@OK Retry 1
-BBC AMERICA | HD@http://p4.giffy.be:8080/live/dennis/dennis/20977.ts@OK Retry 1
-BBC AMERICA | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9471.ts@HTTP Error 502: Bad Gateway Retry 3
-BEIN | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9470.ts@HTTP Error 502: Bad Gateway Retry 3
-BEIN SPORTS | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9486.ts@HTTP Error 502: Bad Gateway Retry 3
-BEIN SPORTS | HD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6866.ts@HTTP Error 502: Bad Gateway Retry 3
-BEINSPORT | SD@http://classeiptv.es:25300/live/mmesebtinoufissa/6bKStQi1b9/18023.ts@timed out Retry 3
-BET | HD@http://p4.giffy.be:8080/live/toby1/toby1/20651.ts@OK Retry 1
-BET | HD@http://p4.giffy.be:8080/live/dennis/dennis/20651.ts@OK Retry 1
-BET | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9469.ts@OK Retry 2
-BET | HD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6865.ts@HTTP Error 502: Bad Gateway Retry 3
-BIG TEN NETWORK | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/9468.ts@HTTP Error 403: Forbidden Retry 3
-BIG TEN NETWORK | SD@http://classeiptv.es:25300/live/mmesebtinoufissa/6bKStQi1b9/18022.ts@timed out Retry 3
-BLOOMBERG | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9467.ts@HTTP Error 403: Forbidden Retry 3
-BLOOMBERG | SD@http://p4.giffy.be:8080/live/toby1/toby1/27538.ts@HTTP Error 403: Forbidden Retry 3
+360 NORTH | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/81423.ts@HTTP Error 401: Unauthorized Retry 3
+A & E | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/81422.ts@HTTP Error 401: Unauthorized Retry 3
+A&E | HD@http://p4.giffy.be:8080/live/dennis/dennis/20911.ts@OK 200 Retry 1
+ABC EAST | SD@http://p4.giffy.be:8080/live/dennis/dennis/20986.ts@HTTP Error 403: Forbidden Retry 3
+ABC NEWS | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/81421.ts@HTTP Error 401: Unauthorized Retry 3
+ABC NEWS | SD@http://p4.giffy.be:8080/live/dennis/dennis/28649.ts@OK 200 Retry 1
+ABC WEST | HD@http://p4.giffy.be:8080/live/dennis/dennis/26561.ts@OK 200 Retry 1
+ACTION MAX | HD@http://p4.giffy.be:8080/live/dennis/dennis/32176.ts@HTTP Error 403: Forbidden Retry 3
+AFN MOVIE | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/81420.ts@HTTP Error 401: Unauthorized Retry 3
+AFN PULSE | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/81419.ts@HTTP Error 401: Unauthorized Retry 3
+AFN SPORTS | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/81418.ts@HTTP Error 401: Unauthorized Retry 3
+AFN SPORTS 2 | SD@http://highroller.space:25461/live/myra/myra/20572.ts@OK 200 Retry 1
+AFN SPORTS 2 | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/81417.ts@<urlopen error timed out> Retry 3
+AMC | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/81415.ts@HTTP Error 401: Unauthorized Retry 3
+AMC | SD@http://p4.giffy.be:8080/live/dennis/dennis/29263.ts@OK 200 Retry 1
+AMERICAN HEROS | SD@http://p4.giffy.be:8080/live/dennis/dennis/30625.ts@OK 200 Retry 1
+ANIMAL PLANET | HD@http://p4.giffy.be:8080/live/dennis/dennis/20989.ts@OK 200 Retry 1
+ANIMAL PLANET | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/81413.ts@HTTP Error 401: Unauthorized Retry 3
+BBC | SD@http://p4.giffy.be:8080/live/dennis/dennis/36679.ts@OK 200 Retry 1
+BBC AMERICA | HD@http://p4.giffy.be:8080/live/dennis/dennis/20977.ts@OK 200 Retry 2
+BEIN SPORTS | HD@http://p4.giffy.be:8080/live/dennis/dennis/13890.ts@OK 200 Retry 1
+BEIN SPORTS | HD@http://highroller.space:25461/live/myra/myra/20571.ts@OK 200 Retry 1
+BEIN SPORTS | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/81412.ts@HTTP Error 401: Unauthorized Retry 3
+BET | HD@http://p4.giffy.be:8080/live/dennis/dennis/20651.ts@OK 200 Retry 1
+BIG TEN NETWORK | SD@http://p4.giffy.be:8080/live/dennis/dennis/20950.ts@OK 200 Retry 1
 BLOOMBERG | SD@http://p4.giffy.be:8080/live/dennis/dennis/27538.ts@HTTP Error 403: Forbidden Retry 3
-BOOMERANG | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9466.ts@HTTP Error 403: Forbidden Retry 3
-BOOMERANG | HD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6864.ts@HTTP Error 502: Bad Gateway Retry 3
-BRAVO | HD@http://p4.giffy.be:8080/live/toby1/toby1/20902.ts@OK Retry 1
-BRAVO | HD@http://p4.giffy.be:8080/live/dennis/dennis/20902.ts@OK Retry 1
-BRAVO | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9487.ts@HTTP Error 403: Forbidden Retry 3
-BRAVO | HD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6823.ts@HTTP Error 502: Bad Gateway Retry 3
-BRAVO | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/9465.ts@timed out Retry 3
-BRAVO | SD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6824.ts@HTTP Error 502: Bad Gateway Retry 3
-BRAVO | SD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6885.ts@HTTP Error 502: Bad Gateway Retry 3
-BRAVO | SD@http://classeiptv.es:25300/live/mmesebtinoufissa/6bKStQi1b9/18021.ts@HTTP Error 502: Bad Gateway Retry 3
-C-SPAN 1 | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9463.ts@HTTP Error 502: Bad Gateway Retry 3
-C-SPAN 1 | SD@http://p4.giffy.be:8080/live/toby1/toby1/21170.ts@OK Retry 1
-C-SPAN 1 | SD@http://p4.giffy.be:8080/live/dennis/dennis/21170.ts@OK Retry 1
-C-SPAN 2 | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9462.ts@HTTP Error 502: Bad Gateway Retry 3
-C-SPAN 2 | SD@http://p4.giffy.be:8080/live/toby1/toby1/21171.ts@OK Retry 1
-C-SPAN 2 | SD@http://p4.giffy.be:8080/live/dennis/dennis/21171.ts@OK Retry 1
-C-SPAN 3 | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9461.ts@timed out Retry 3
-C-SPAN 3 | SD@http://p4.giffy.be:8080/live/toby1/toby1/21172.ts@OK Retry 1
-C-SPAN 3 | SD@http://p4.giffy.be:8080/live/dennis/dennis/21172.ts@OK Retry 1
-CARTOON NETWORK | HD@http://p4.giffy.be:8080/live/toby1/toby1/20988.ts@OK Retry 1
-CARTOON NETWORK | HD@http://p4.giffy.be:8080/live/dennis/dennis/20988.ts@OK Retry 2
-CARTOON NETWORK | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/9460.ts@HTTP Error 502: Bad Gateway Retry 3
-CARTOON NETWORK | SD@http://classeiptv.es:25300/live/mmesebtinoufissa/6bKStQi1b9/18020.ts@timed out Retry 3
-CBN | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9459.ts@OK Retry 1
-CBS | HD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6822.ts@HTTP Error 502: Bad Gateway Retry 3
-CBS | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/9458.ts@OK Retry 1
-CBS SPORTS | SD@http://classeiptv.es:25300/live/mmesebtinoufissa/6bKStQi1b9/18018.ts@HTTP Error 502: Bad Gateway Retry 3
-CBS SPORTS NETWORK | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/9457.ts@OK Retry 2
-CBS WEST | SD@http://p4.giffy.be:8080/live/toby1/toby1/26560.ts@OK Retry 1
-CBS WEST | SD@http://p4.giffy.be:8080/live/dennis/dennis/26560.ts@OK Retry 1
-CBSN NEWS | SD@http://p4.giffy.be:8080/live/toby1/toby1/27539.ts@OK Retry 1
-CBSN NEWS | SD@http://p4.giffy.be:8080/live/dennis/dennis/27539.ts@OK Retry 1
-CINEMAX | HD@http://p4.giffy.be:8080/live/toby1/toby1/20976.ts@OK Retry 1
-CINEMAX | HD@http://p4.giffy.be:8080/live/dennis/dennis/20976.ts@OK Retry 1
-CINEMAX | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9499.ts@HTTP Error 502: Bad Gateway Retry 3
-CINEMAX | HD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6821.ts@HTTP Error 502: Bad Gateway Retry 3
-CINEMAX | SD@http://classeiptv.es:25300/live/mmesebtinoufissa/6bKStQi1b9/18014.ts@HTTP Error 502: Bad Gateway Retry 3
-CINEMAX 5 | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/9456.ts@HTTP Error 502: Bad Gateway Retry 3
-CINEMAX MOREMAX | HD@http://p4.giffy.be:8080/live/toby1/toby1/20975.ts@OK Retry 1
-CINEMAX MOREMAX | HD@http://p4.giffy.be:8080/live/dennis/dennis/20975.ts@OK Retry 1
-CINEMAX MOREMAX | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9454.ts@timed out Retry 3
-CINEMAX MOREMAX | HD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6820.ts@HTTP Error 502: Bad Gateway Retry 3
-CINEMAX MOREMAX | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/9455.ts@HTTP Error 502: Bad Gateway Retry 3
-CINEMAX MOREMAX | SD@http://classeiptv.es:25300/live/mmesebtinoufissa/6bKStQi1b9/18016.ts@timed out Retry 3
-CINEMAX THRILLER | SD@http://classeiptv.es:25300/live/mmesebtinoufissa/6bKStQi1b9/18015.ts@timed out Retry 3
-CINEMAX THRILLER MAX | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9453.ts@HTTP Error 502: Bad Gateway Retry 3
-CINEMAX THRILLERMAX | HD@http://p4.giffy.be:8080/live/toby1/toby1/20974.ts@OK Retry 1
-CINEMAX THRILLERMAX | HD@http://p4.giffy.be:8080/live/dennis/dennis/20974.ts@OK Retry 1
-CINEMAX THRILLERMAX | HD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6819.ts@HTTP Error 502: Bad Gateway Retry 3
-CMT | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9452.ts@HTTP Error 502: Bad Gateway Retry 3
-CNBC | HD@http://p4.giffy.be:8080/live/toby1/toby1/28303.ts@OK Retry 1
-CNBC | HD@http://p4.giffy.be:8080/live/dennis/dennis/28303.ts@OK Retry 1
-CNBC | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9451.ts@OK Retry 3
-CNBC | HD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6884.ts@HTTP Error 403: Forbidden Retry 3
-CNBC | SD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6818.ts@HTTP Error 403: Forbidden Retry 3
-CNBC WORLD | SD@http://p4.giffy.be:8080/live/toby1/toby1/20711.ts@OK Retry 1
-CNBC WORLD | SD@http://p4.giffy.be:8080/live/dennis/dennis/20711.ts@OK Retry 1
-CNN | HD@http://p4.giffy.be:8080/live/toby1/toby1/29026.ts@OK Retry 1
-CNN | HD@http://p4.giffy.be:8080/live/dennis/dennis/29026.ts@OK Retry 1
-CNN | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9485.ts@HTTP Error 502: Bad Gateway Retry 3
-CNN | HD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6817.ts@HTTP Error 502: Bad Gateway Retry 3
-CNN | SD@http://classeiptv.es:25300/live/mmesebtinoufissa/6bKStQi1b9/18013.ts@timed out Retry 3
-COMEDY CENTRAL | HD@http://p4.giffy.be:8080/live/toby1/toby1/20904.ts@OK Retry 1
-COMEDY CENTRAL | HD@http://p4.giffy.be:8080/live/dennis/dennis/20904.ts@OK Retry 1
-COMEDY CENTRAL | HD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6883.ts@HTTP Error 502: Bad Gateway Retry 3
-COMEDY CENTRAL | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/9450.ts@OK Retry 2
-COMEDY CENTRAL | SD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6816.ts@OK Retry 3
-COMEDY CENTRAL | SD@http://classeiptv.es:25300/live/mmesebtinoufissa/6bKStQi1b9/18012.ts@timed out Retry 3
-COOKING | SD@http://classeiptv.es:25300/live/mmesebtinoufissa/6bKStQi1b9/18011.ts@timed out Retry 3
-COOKING CHANNEL | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9449.ts@HTTP Error 502: Bad Gateway Retry 3
-CPAC | SD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6815.ts@HTTP Error 403: Forbidden Retry 3
-CRIME & INVESTIGATION | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9448.ts@HTTP Error 502: Bad Gateway Retry 3
-CRIMINAL INVESTIGATION | HD@http://p4.giffy.be:8080/live/toby1/toby1/20973.ts@OK Retry 1
-CRIMINAL INVESTIGATION | HD@http://p4.giffy.be:8080/live/dennis/dennis/20973.ts@OK Retry 1
-CW11 | SD@http://p4.giffy.be:8080/live/toby1/toby1/20984.ts@OK Retry 1
-CW11 | SD@http://p4.giffy.be:8080/live/dennis/dennis/20984.ts@OK Retry 1
-DESTINATION AMERICA | HD@http://p4.giffy.be:8080/live/toby1/toby1/26546.ts@OK Retry 1
-DESTINATION AMERICA | HD@http://p4.giffy.be:8080/live/dennis/dennis/26546.ts@OK Retry 1
-DESTINATION AMERICA | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/9446.ts@HTTP Error 502: Bad Gateway Retry 3
-DISCOVERY | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9488.ts@HTTP Error 502: Bad Gateway Retry 3
-DISCOVERY | HD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6812.ts@OK Retry 2
-DISCOVERY | HD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6882.ts@OK Retry 2
-DISCOVERY | SD@http://classeiptv.es:25300/live/mmesebtinoufissa/6bKStQi1b9/18007.ts@timed out Retry 3
-DISCOVERY CHANNEL | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9445.ts@HTTP Error 502: Bad Gateway Retry 3
-DISCOVERY FAMILY | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9444.ts@HTTP Error 502: Bad Gateway Retry 3
-DISCOVERY SCIENCE | HD@http://p4.giffy.be:8080/live/toby1/toby1/20935.ts@OK Retry 1
-DISCOVERY SCIENCE | HD@http://p4.giffy.be:8080/live/dennis/dennis/20935.ts@OK Retry 1
-DISCOVERY SCIENCE | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9443.ts@HTTP Error 502: Bad Gateway Retry 3
-DISCOVERY SCIENCE | SD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6811.ts@HTTP Error 502: Bad Gateway Retry 3
-DISCOVERY VELOCITY | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9442.ts@HTTP Error 502: Bad Gateway Retry 3
-DISNEY | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9441.ts@HTTP Error 502: Bad Gateway Retry 3
-DISNEY | SD@http://classeiptv.es:25300/live/mmesebtinoufissa/6bKStQi1b9/18005.ts@timed out Retry 3
-DISNEY JR | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9440.ts@OK Retry 2
-DISNEY JR | SD@http://classeiptv.es:25300/live/mmesebtinoufissa/6bKStQi1b9/18006.ts@timed out Retry 3
-DIY NETWORK | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9439.ts@HTTP Error 502: Bad Gateway Retry 3
-DIY NETWORK | HD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6810.ts@HTTP Error 502: Bad Gateway Retry 3
-DMC SPORTS | SD@http://classeiptv.es:25300/live/mmesebtinoufissa/6bKStQi1b9/18004.ts@HTTP Error 502: Bad Gateway Retry 3
-DMC.DRAMA | SD@http://classeiptv.es:25300/live/mmesebtinoufissa/6bKStQi1b9/18003.ts@timed out Retry 3
-DTX | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9438.ts@HTTP Error 403: Forbidden Retry 3
-EL RAY | HD@http://p4.giffy.be:8080/live/toby1/toby1/20970.ts@OK Retry 1
-EL RAY | HD@http://p4.giffy.be:8080/live/dennis/dennis/20970.ts@OK Retry 1
-EL RAY | SD@http://classeiptv.es:25300/live/mmesebtinoufissa/6bKStQi1b9/18002.ts@timed out Retry 3
-EPIX | HD@http://p4.giffy.be:8080/live/toby1/toby1/20969.ts@OK Retry 1
-EPIX | HD@http://p4.giffy.be:8080/live/dennis/dennis/20969.ts@OK Retry 1
-EPIX | SD@http://classeiptv.es:25300/live/mmesebtinoufissa/6bKStQi1b9/18001.ts@timed out Retry 3
-EPIX 2 | HD@http://p4.giffy.be:8080/live/toby1/toby1/20968.ts@OK Retry 1
-EPIX 2 | HD@http://p4.giffy.be:8080/live/dennis/dennis/20968.ts@OK Retry 1
-EPIX2 | SD@http://classeiptv.es:25300/live/mmesebtinoufissa/6bKStQi1b9/18000.ts@HTTP Error 502: Bad Gateway Retry 3
-ESPN | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/9436.ts@OK Retry 2
-ESPN | SD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6808.ts@OK Retry 3
-ESPN | SD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6863.ts@HTTP Error 502: Bad Gateway Retry 3
-ESPN 2 | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9435.ts@HTTP Error 502: Bad Gateway Retry 3
-ESPN 2 | SD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6807.ts@timed out Retry 3
-ESPN 3 | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/9434.ts@HTTP Error 502: Bad Gateway Retry 3
-ESPN DEPORTES | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9433.ts@HTTP Error 502: Bad Gateway Retry 3
-ESPN U | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9432.ts@HTTP Error 502: Bad Gateway Retry 3
-FIGHT NETWORK | SD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6806.ts@HTTP Error 502: Bad Gateway Retry 3
-FOOD NETWORK | HD@http://p4.giffy.be:8080/live/toby1/toby1/21142.ts@OK Retry 2
-FOOD NETWORK | HD@http://p4.giffy.be:8080/live/dennis/dennis/21142.ts@OK Retry 1
-FOOD NETWORK | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9431.ts@OK Retry 2
-FOOD NETWORK | HD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6805.ts@OK Retry 2
-FOX | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9429.ts@OK Retry 2
-FOX | SD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6804.ts@HTTP Error 502: Bad Gateway Retry 3
-FOX 29 | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9484.ts@timed out Retry 3
-FOX 5 | HD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6803.ts@HTTP Error 502: Bad Gateway Retry 3
-FOX BUSINESS | SD@http://classeiptv.es:25300/live/mmesebtinoufissa/6bKStQi1b9/17999.ts@timed out Retry 3
-FOX BUSINESS NETWORK | HD@http://p4.giffy.be:8080/live/toby1/toby1/20983.ts@OK Retry 1
-FOX BUSINESS NETWORK | HD@http://p4.giffy.be:8080/live/dennis/dennis/20983.ts@OK Retry 1
-FOX BUSINESS NETWORK | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9430.ts@HTTP Error 502: Bad Gateway Retry 3
-FOX EAST | SD@http://p4.giffy.be:8080/live/toby1/toby1/28642.ts@OK Retry 1
-FOX EAST | SD@http://p4.giffy.be:8080/live/dennis/dennis/28642.ts@OK Retry 1
-FOX NEWS | HD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6802.ts@HTTP Error 502: Bad Gateway Retry 3
-FOX NEWS | SD@http://p4.giffy.be:8080/live/toby1/toby1/20706.ts@OK Retry 1
-FOX NEWS | SD@http://p4.giffy.be:8080/live/dennis/dennis/20706.ts@OK Retry 1
-FOX NEWS | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/9428.ts@HTTP Error 502: Bad Gateway Retry 3
-FOX SPORTS 1 | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9491.ts@HTTP Error 502: Bad Gateway Retry 3
-FOX SPORTS 1 | HD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6801.ts@HTTP Error 502: Bad Gateway Retry 3
-FOX SPORTS 1 | HD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6862.ts@HTTP Error 502: Bad Gateway Retry 3
-FOX SPORTS 1 | SD@http://classeiptv.es:25300/live/mmesebtinoufissa/6bKStQi1b9/17998.ts@timed out Retry 3
-FOX SPORTS 2 | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9492.ts@OK Retry 1
-FOX SPORTS 2 | HD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6800.ts@timed out Retry 3
-FOX SPORTS 2 | HD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6861.ts@HTTP Error 502: Bad Gateway Retry 3
-FOX SPORTS 2 | SD@http://classeiptv.es:25300/live/mmesebtinoufissa/6bKStQi1b9/17997.ts@HTTP Error 502: Bad Gateway Retry 3
-FOX WEST | HD@http://p4.giffy.be:8080/live/toby1/toby1/26562.ts@OK Retry 1
-FOX WEST | HD@http://p4.giffy.be:8080/live/dennis/dennis/26562.ts@OK Retry 1
-FREE FORM | SD@http://classeiptv.es:25300/live/mmesebtinoufissa/6bKStQi1b9/17996.ts@timed out Retry 3
-FREEFORM | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9427.ts@OK Retry 2
-FX | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9426.ts@timed out Retry 3
-FX | HD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6799.ts@HTTP Error 403: Forbidden Retry 3
-FX | HD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6881.ts@HTTP Error 403: Forbidden Retry 3
-FX | SD@http://classeiptv.es:25300/live/mmesebtinoufissa/6bKStQi1b9/17994.ts@timed out Retry 3
-FXX | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9425.ts@HTTP Error 502: Bad Gateway Retry 3
-FXX | SD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6798.ts@HTTP Error 502: Bad Gateway Retry 3
-FXX | SD@http://classeiptv.es:25300/live/mmesebtinoufissa/6bKStQi1b9/17993.ts@HTTP Error 502: Bad Gateway Retry 3
-FYI | SD@http://classeiptv.es:25300/live/mmesebtinoufissa/6bKStQi1b9/17992.ts@timed out Retry 3
-GOLF | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9424.ts@OK Retry 3
-GOLF | HD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6797.ts@HTTP Error 502: Bad Gateway Retry 3
-GSN | HD@http://p4.giffy.be:8080/live/toby1/toby1/23305.ts@OK Retry 2
-GSN | HD@http://p4.giffy.be:8080/live/dennis/dennis/23305.ts@OK Retry 1
-GSN | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9423.ts@HTTP Error 502: Bad Gateway Retry 3
-GSN | SD@http://classeiptv.es:25300/live/mmesebtinoufissa/6bKStQi1b9/17991.ts@timed out Retry 3
-H&I | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/9422.ts@OK Retry 2
-H2 | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/9421.ts@HTTP Error 502: Bad Gateway Retry 3
-H2 | SD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6796.ts@HTTP Error 502: Bad Gateway Retry 3
-H2 | SD@http://classeiptv.es:25300/live/mmesebtinoufissa/6bKStQi1b9/17990.ts@HTTP Error 502: Bad Gateway Retry 3
-HALL MARK | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9420.ts@HTTP Error 502: Bad Gateway Retry 3
-HALLMARK | HD@http://p4.giffy.be:8080/live/toby1/toby1/29987.ts@OK Retry 1
-HALLMARK | HD@http://p4.giffy.be:8080/live/dennis/dennis/29987.ts@OK Retry 1
-HALLMARK | HD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6795.ts@OK Retry 3
-HALLMARK | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/9419.ts@HTTP Error 502: Bad Gateway Retry 3
-HALLMARK MOVIES | HD@http://p4.giffy.be:8080/live/toby1/toby1/20966.ts@OK Retry 1
-HALLMARK MOVIES | HD@http://p4.giffy.be:8080/live/dennis/dennis/20966.ts@OK Retry 1
-HALLMARK MOVIES | SD@http://classeiptv.es:25300/live/mmesebtinoufissa/6bKStQi1b9/17989.ts@timed out Retry 3
-HALLMARK US2 | SD@http://classeiptv.es:25300/live/mmesebtinoufissa/6bKStQi1b9/17988.ts@timed out Retry 3
-HBO | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9417.ts@OK Retry 1
-HBO | SD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6794.ts@HTTP Error 502: Bad Gateway Retry 3
-HBO 1 | HD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6791.ts@HTTP Error 502: Bad Gateway Retry 3
-HBO 2 | HD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6790.ts@HTTP Error 502: Bad Gateway Retry 3
-HBO 2 | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/9416.ts@OK Retry 1
-HBO 2 | SD@http://classeiptv.es:25300/live/mmesebtinoufissa/6bKStQi1b9/17987.ts@HTTP Error 502: Bad Gateway Retry 3
-HBO COMEDY | HD@http://p4.giffy.be:8080/live/toby1/toby1/20964.ts@OK Retry 1
-HBO COMEDY | HD@http://p4.giffy.be:8080/live/dennis/dennis/20964.ts@OK Retry 1
-HBO COMEDY | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9418.ts@HTTP Error 502: Bad Gateway Retry 3
-HBO COMEDY | SD@http://classeiptv.es:25300/live/mmesebtinoufissa/6bKStQi1b9/17985.ts@timed out Retry 3
-HBO COMEDY EAST | HD@http://classeiptv.es:25300/live/mmesebtinoufissa/6bKStQi1b9/17986.ts@HTTP Error 502: Bad Gateway Retry 3
-HBO EAST | HD@http://classeiptv.es:25300/live/mmesebtinoufissa/6bKStQi1b9/17982.ts@timed out Retry 3
-HBO FAMILY | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9483.ts@OK Retry 2
-HBO FAMILY | HD@http://classeiptv.es:25300/live/mmesebtinoufissa/6bKStQi1b9/17984.ts@timed out Retry 3
-HBO FAMILY | SD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6792.ts@HTTP Error 502: Bad Gateway Retry 3
-HBO FAMILY | SD@http://classeiptv.es:25300/live/mmesebtinoufissa/6bKStQi1b9/17983.ts@timed out Retry 3
-HBO SIGNATURE | HD@http://p4.giffy.be:8080/live/toby1/toby1/20962.ts@OK Retry 1
-HBO SIGNATURE | HD@http://p4.giffy.be:8080/live/dennis/dennis/20962.ts@OK Retry 1
-HBO SIGNATURE | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9415.ts@HTTP Error 502: Bad Gateway Retry 3
-HBO SIGNATURE | SD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6789.ts@OK Retry 3
-HBO SIGNATURE | SD@http://classeiptv.es:25300/live/mmesebtinoufissa/6bKStQi1b9/17981.ts@timed out Retry 3
-HBO ZONE | HD@http://p4.giffy.be:8080/live/toby1/toby1/20961.ts@OK Retry 1
-HBO ZONE | HD@http://p4.giffy.be:8080/live/dennis/dennis/20961.ts@OK Retry 1
-HBO ZONE | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/9414.ts@OK Retry 2
-HBO ZONE | SD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6788.ts@HTTP Error 502: Bad Gateway Retry 3
-HBO ZONE | SD@http://classeiptv.es:25300/live/mmesebtinoufissa/6bKStQi1b9/17980.ts@HTTP Error 502: Bad Gateway Retry 3
-HGTV | HD@http://p4.giffy.be:8080/live/toby1/toby1/25232.ts@OK Retry 1
-HGTV | HD@http://p4.giffy.be:8080/live/dennis/dennis/25232.ts@OK Retry 1
-HGTV | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9482.ts@HTTP Error 502: Bad Gateway Retry 3
-HGTV | SD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6787.ts@HTTP Error 502: Bad Gateway Retry 3
-HIFI | SD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6860.ts@HTTP Error 502: Bad Gateway Retry 3
-HIFI | SD@http://classeiptv.es:25300/live/mmesebtinoufissa/6bKStQi1b9/17979.ts@HTTP Error 502: Bad Gateway Retry 3
-HISTORY | HD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6879.ts@HTTP Error 502: Bad Gateway Retry 3
-HISTORY | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/9413.ts@OK Retry 2
-HISTORY | SD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6786.ts@timed out Retry 3
-HISTORY | SD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6880.ts@HTTP Error 502: Bad Gateway Retry 3
-HISTORY | SD@http://classeiptv.es:25300/live/mmesebtinoufissa/6bKStQi1b9/17978.ts@timed out Retry 3
-IFC | HD@http://p4.giffy.be:8080/live/toby1/toby1/20960.ts@OK Retry 1
-IFC | HD@http://p4.giffy.be:8080/live/dennis/dennis/20960.ts@OK Retry 1
-IFC | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9412.ts@OK Retry 3
-IFC | SD@http://classeiptv.es:25300/live/mmesebtinoufissa/6bKStQi1b9/17977.ts@HTTP Error 502: Bad Gateway Retry 3
-INVESTIGATION DISCOVERY | HD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6785.ts@HTTP Error 502: Bad Gateway Retry 3
-INVESTIGATION DISCOVERY | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/9411.ts@OK Retry 3
-LIFE TIME | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/9410.ts@OK Retry 2
-LIFETIME | HD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6878.ts@OK Retry 2
-LIFETIME | SD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6784.ts@OK Retry 3
-LIFETIME | SD@http://classeiptv.es:25300/live/mmesebtinoufissa/6bKStQi1b9/17974.ts@timed out Retry 3
-LIFETIME MOVIES | HD@http://p4.giffy.be:8080/live/toby1/toby1/20914.ts@OK Retry 1
-LIFETIME MOVIES | HD@http://p4.giffy.be:8080/live/dennis/dennis/20914.ts@OK Retry 1
-LIVE NHL 1 | HD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6856.ts@HTTP Error 502: Bad Gateway Retry 3
-LIVE NHL 10 | HD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6847.ts@HTTP Error 502: Bad Gateway Retry 3
-LIVE NHL 11 | HD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6846.ts@HTTP Error 502: Bad Gateway Retry 3
-LIVE NHL 12 | HD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6845.ts@HTTP Error 502: Bad Gateway Retry 3
-LIVE NHL 2 | HD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6855.ts@timed out Retry 3
-LIVE NHL 3 | HD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6854.ts@HTTP Error 502: Bad Gateway Retry 3
-LIVE NHL 4 | HD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6853.ts@HTTP Error 502: Bad Gateway Retry 3
-LIVE NHL 5 | HD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6852.ts@HTTP Error 502: Bad Gateway Retry 3
-LIVE NHL 6 | HD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6851.ts@OK Retry 3
-LIVE NHL 7 | HD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6850.ts@HTTP Error 502: Bad Gateway Retry 3
-LIVE NHL 8 | HD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6849.ts@HTTP Error 502: Bad Gateway Retry 3
-LIVE NHL 9 | HD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6848.ts@HTTP Error 502: Bad Gateway Retry 3
-LMN | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9409.ts@OK Retry 2
-LMN | SD@http://classeiptv.es:25300/live/mmesebtinoufissa/6bKStQi1b9/17973.ts@timed out Retry 3
-MLB NETWORK | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/9408.ts@OK Retry 2
-MORE MAX | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9407.ts@HTTP Error 502: Bad Gateway Retry 3
-MSNBC | HD@http://p4.giffy.be:8080/live/toby1/toby1/26075.ts@OK Retry 1
-MSNBC | HD@http://p4.giffy.be:8080/live/dennis/dennis/26075.ts@OK Retry 1
-MSNBC | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9406.ts@OK Retry 3
-MSNBC | SD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6780.ts@HTTP Error 502: Bad Gateway Retry 3
-MTV | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9405.ts@OK Retry 2
-MTV | SD@http://classeiptv.es:25300/live/mmesebtinoufissa/6bKStQi1b9/17970.ts@timed out Retry 3
-MTV LIVE | HD@http://p4.giffy.be:8080/live/toby1/toby1/20954.ts@OK Retry 1
-MTV LIVE | HD@http://p4.giffy.be:8080/live/dennis/dennis/20954.ts@OK Retry 1
-MTV LIVE | SD@http://classeiptv.es:25300/live/mmesebtinoufissa/6bKStQi1b9/17971.ts@timed out Retry 3
-NATIONAL GEOGRAPHIC | SD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6782.ts@HTTP Error 502: Bad Gateway Retry 3
-NBA | HD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6781.ts@HTTP Error 502: Bad Gateway Retry 3
-NBA LIVE 1 | SD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6844.ts@HTTP Error 403: Forbidden Retry 3
-NBA LIVE 2 | SD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6843.ts@HTTP Error 502: Bad Gateway Retry 3
-NBA LIVE 3 | SD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6842.ts@HTTP Error 502: Bad Gateway Retry 3
-NBA LIVE 4 | SD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6841.ts@timed out Retry 3
-NBA LIVE 5 | SD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6840.ts@HTTP Error 502: Bad Gateway Retry 3
-NBA LIVE 6 | SD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6839.ts@HTTP Error 502: Bad Gateway Retry 3
-NBA LIVE 7 | SD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6838.ts@HTTP Error 502: Bad Gateway Retry 3
-NBA LIVE 8 | SD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6837.ts@HTTP Error 502: Bad Gateway Retry 3
-NBC | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9493.ts@OK Retry 1
-NBC | HD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6877.ts@HTTP Error 502: Bad Gateway Retry 3
-NBC | SD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6779.ts@OK Retry 1
-NBC | SD@http://classeiptv.es:25300/live/mmesebtinoufissa/6bKStQi1b9/17966.ts@HTTP Error 502: Bad Gateway Retry 3
-NBC EAST | HD@http://p4.giffy.be:8080/live/toby1/toby1/20985.ts@OK Retry 1
-NBC EAST | HD@http://p4.giffy.be:8080/live/dennis/dennis/20985.ts@OK Retry 1
-NBC GOLF | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/9401.ts@OK Retry 1
-NBC GOLF | SD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6778.ts@OK Retry 3
-NBC SPORTS NETWORK | HD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6777.ts@OK Retry 1
-NBC WEST | SD@http://p4.giffy.be:8080/live/toby1/toby1/26563.ts@OK Retry 1
-NBC WEST | SD@http://p4.giffy.be:8080/live/dennis/dennis/26563.ts@OK Retry 1
-NBC WEST | SD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6859.ts@HTTP Error 502: Bad Gateway Retry 3
-NBCSN | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9400.ts@HTTP Error 502: Bad Gateway Retry 3
-NBCSN | SD@http://classeiptv.es:25300/live/mmesebtinoufissa/6bKStQi1b9/17965.ts@timed out Retry 3
-NETWORK | HD@http://p4.giffy.be:8080/live/toby1/toby1/20944.ts@OK Retry 2
-NETWORK | HD@http://p4.giffy.be:8080/live/dennis/dennis/20944.ts@OK Retry 1
-NETWORK | SD@http://nettv.rocks:25461/live/test0/test0/89.ts@HTTP Error 401: Unauthorized Retry 3
-NETWORK | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/9375.ts@HTTP Error 502: Bad Gateway Retry 3
-NETWORK | SD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6756.ts@HTTP Error 502: Bad Gateway Retry 3
-NFL NETWORK | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9374.ts@HTTP Error 502: Bad Gateway Retry 3
-NFL NETWORK | SD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6776.ts@HTTP Error 502: Bad Gateway Retry 3
-NFL NOW | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9373.ts@HTTP Error 502: Bad Gateway Retry 3
-NFL REDZONE | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9372.ts@HTTP Error 502: Bad Gateway Retry 3
-NHL NETWORK | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9399.ts@HTTP Error 502: Bad Gateway Retry 3
-NICK JR | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9398.ts@HTTP Error 502: Bad Gateway Retry 3
-NICK JR | SD@http://classeiptv.es:25300/live/mmesebtinoufissa/6bKStQi1b9/17964.ts@HTTP Error 502: Bad Gateway Retry 3
-NICK TOONS | SD@http://classeiptv.es:25300/live/mmesebtinoufissa/6bKStQi1b9/17963.ts@timed out Retry 3
-NICKELODEN | HD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6876.ts@HTTP Error 502: Bad Gateway Retry 3
-NICKELODEON | HD@http://classeiptv.es:25300/live/mmesebtinoufissa/6bKStQi1b9/17962.ts@timed out Retry 3
-NICKOLODEAN | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9397.ts@HTTP Error 502: Bad Gateway Retry 3
-NICKTOONS | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9396.ts@HTTP Error 502: Bad Gateway Retry 3
-NICKTOONS | SD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6858.ts@HTTP Error 502: Bad Gateway Retry 3
-OWN | HD@http://p4.giffy.be:8080/live/toby1/toby1/20979.ts@OK Retry 1
-OWN | HD@http://p4.giffy.be:8080/live/dennis/dennis/20979.ts@OK Retry 1
-OWN | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9395.ts@OK Retry 2
-OWN | SD@http://classeiptv.es:25300/live/mmesebtinoufissa/6bKStQi1b9/17961.ts@HTTP Error 502: Bad Gateway Retry 3
-OXYGEN | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9394.ts@HTTP Error 502: Bad Gateway Retry 3
-PAC 12 WASHINGTON | HD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6774.ts@HTTP Error 502: Bad Gateway Retry 3
-PBS | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9393.ts@HTTP Error 502: Bad Gateway Retry 3
-PBS | HD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6773.ts@OK Retry 2
-PBS | HD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6857.ts@HTTP Error 502: Bad Gateway Retry 3
-PBS | SD@http://classeiptv.es:25300/live/mmesebtinoufissa/6bKStQi1b9/17960.ts@timed out Retry 3
-PBS EAST | SD@http://p4.giffy.be:8080/live/toby1/toby1/26548.ts@HTTP Error 502: Bad Gateway Retry 3
-PBS EAST | SD@http://p4.giffy.be:8080/live/dennis/dennis/26548.ts@HTTP Error 502: Bad Gateway Retry 3
-REELZ | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9392.ts@HTTP Error 403: Forbidden Retry 3
-RTV21 TIME | SD@http://tv.smartal.net:25461/live/rtv21/21rtvv/1018.ts@HTTP Error 403: Forbidden Retry 3
-SEC NETWORK | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9391.ts@OK Retry 1
-SEC NETWORK | SD@http://classeiptv.es:25300/live/mmesebtinoufissa/6bKStQi1b9/17959.ts@timed out Retry 3
-SEEVII ALOLA | SD@http://classeiptv.es:25300/live/mmesebtinoufissa/6bKStQi1b9/17958.ts@timed out Retry 3
-SEEVII BEELINK | HD@http://classeiptv.es:25300/live/mmesebtinoufissa/6bKStQi1b9/17957.ts@timed out Retry 3
-SEEVII DRAMA | HD@http://classeiptv.es:25300/live/mmesebtinoufissa/6bKStQi1b9/17956.ts@timed out Retry 3
-SEEVII SHAMIYA | HD@http://classeiptv.es:25300/live/mmesebtinoufissa/6bKStQi1b9/17955.ts@timed out Retry 3
-SHOWTIME | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/9390.ts@HTTP Error 502: Bad Gateway Retry 3
-SHOWTIME | SD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6772.ts@HTTP Error 502: Bad Gateway Retry 3
-SHOWTIME 2 | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9389.ts@timed out Retry 3
-SHOWTIME 2 | HD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6771.ts@HTTP Error 502: Bad Gateway Retry 3
-SHOWTIME 2 | HD@http://classeiptv.es:25300/live/mmesebtinoufissa/6bKStQi1b9/17953.ts@timed out Retry 3
-SHOWTIME EAST | HD@http://classeiptv.es:25300/live/mmesebtinoufissa/6bKStQi1b9/17951.ts@timed out Retry 3
-SHOWTIME FAMILY | SD@http://classeiptv.es:25300/live/mmesebtinoufissa/6bKStQi1b9/17952.ts@timed out Retry 3
-SHOWTIME FAMILY ZONE | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9388.ts@HTTP Error 502: Bad Gateway Retry 3
-SHOWTIME FAMILY ZONE | SD@http://p4.giffy.be:8080/live/toby1/toby1/20958.ts@HTTP Error 406: Not Acceptable Retry 3
-SHOWTIME SHOWCASE | SD@http://classeiptv.es:25300/live/mmesebtinoufissa/6bKStQi1b9/17950.ts@HTTP Error 502: Bad Gateway Retry 3
-SOCCER | HD@http://lucky.lts1.net:23000/live/Moris/Moris/32224.ts@Error: BadStatusLine Retry 1
-SOCCER | HD@http://lucky.lts1.net:23000/live/Moris/Moris/32225.ts@Error: BadStatusLine Retry 1
-SOCCER | HD@http://lucky.lts1.net:23000/live/Moris/Moris/32226.ts@Error: BadStatusLine Retry 1
-SOCCER | HD@http://lucky.lts1.net:23000/live/Moris/Moris/32227.ts@Error: BadStatusLine Retry 1
-SPIKE | HD@http://p4.giffy.be:8080/live/toby1/toby1/20943.ts@OK Retry 1
-SPIKE | HD@http://p4.giffy.be:8080/live/dennis/dennis/20943.ts@OK Retry 1
-SPIKE | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9387.ts@HTTP Error 502: Bad Gateway Retry 3
-SPIKE | HD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6770.ts@HTTP Error 502: Bad Gateway Retry 3
-SPIKE | HD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6875.ts@HTTP Error 502: Bad Gateway Retry 3
-SPIKE | SD@http://classeiptv.es:25300/live/mmesebtinoufissa/6bKStQi1b9/17948.ts@timed out Retry 3
-SPORTS NET 360 | HD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6769.ts@OK Retry 2
-SPORTS NET ONE | HD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6768.ts@HTTP Error 502: Bad Gateway Retry 3
-SPORTS NET ONTARIO | HD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6767.ts@timed out Retry 3
-SPORTS NET WORLD | HD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6766.ts@OK Retry 1
-SPROUT | SD@http://classeiptv.es:25300/live/mmesebtinoufissa/6bKStQi1b9/17947.ts@timed out Retry 3
-STARZ | HD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6764.ts@HTTP Error 502: Bad Gateway Retry 3
-STARZ CINEMA | HD@http://p4.giffy.be:8080/live/toby1/toby1/21460.ts@OK Retry 1
-STARZ CINEMA | HD@http://p4.giffy.be:8080/live/dennis/dennis/21460.ts@OK Retry 1
-STARZ CINEMA | HD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6765.ts@HTTP Error 502: Bad Gateway Retry 3
-STARZ CINEMA | SD@http://classeiptv.es:25300/live/mmesebtinoufissa/6bKStQi1b9/17946.ts@timed out Retry 3
-STARZ COMEDY | SD@http://classeiptv.es:25300/live/mmesebtinoufissa/6bKStQi1b9/17945.ts@timed out Retry 3
-STARZ EDGE | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/9386.ts@OK Retry 2
-STARZ EDGE | SD@http://classeiptv.es:25300/live/mmesebtinoufissa/6bKStQi1b9/17944.ts@timed out Retry 3
-STARZ KIDS | SD@http://classeiptv.es:25300/live/mmesebtinoufissa/6bKStQi1b9/17943.ts@HTTP Error 502: Bad Gateway Retry 3
-SUNDANCE | HD@http://p4.giffy.be:8080/live/toby1/toby1/20956.ts@OK Retry 1
-SUNDANCE | HD@http://p4.giffy.be:8080/live/dennis/dennis/20956.ts@OK Retry 1
-SUNDANCE | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9385.ts@HTTP Error 502: Bad Gateway Retry 3
-SUNDANCE | SD@http://classeiptv.es:25300/live/mmesebtinoufissa/6bKStQi1b9/17942.ts@timed out Retry 3
-SYFY | HD@http://p4.giffy.be:8080/live/toby1/toby1/20909.ts@OK Retry 1
-SYFY | HD@http://p4.giffy.be:8080/live/dennis/dennis/20909.ts@OK Retry 1
-SYFY | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9384.ts@OK Retry 1
-SYFY | HD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6763.ts@HTTP Error 502: Bad Gateway Retry 3
-SYFY | HD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6874.ts@HTTP Error 502: Bad Gateway Retry 3
-SYFY | SD@http://classeiptv.es:25300/live/mmesebtinoufissa/6bKStQi1b9/17941.ts@timed out Retry 3
-TBS | HD@http://p4.giffy.be:8080/live/toby1/toby1/20987.ts@OK Retry 1
-TBS | HD@http://p4.giffy.be:8080/live/dennis/dennis/20987.ts@OK Retry 1
-TBS | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9481.ts@HTTP Error 502: Bad Gateway Retry 3
-TBS | HD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6873.ts@HTTP Error 502: Bad Gateway Retry 3
-TBS | SD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6762.ts@HTTP Error 502: Bad Gateway Retry 3
-TBS | SD@http://classeiptv.es:25300/live/mmesebtinoufissa/6bKStQi1b9/17940.ts@timed out Retry 3
-TENNIS | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9383.ts@HTTP Error 502: Bad Gateway Retry 3
-TENNIS | HD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6872.ts@HTTP Error 502: Bad Gateway Retry 3
-TENNIS | SD@http://classeiptv.es:25300/live/mmesebtinoufissa/6bKStQi1b9/17939.ts@timed out Retry 3
-TENNIS CHANNEL | HD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6761.ts@HTTP Error 502: Bad Gateway Retry 3
-THE WEATHER CHANNEL | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9382.ts@HTTP Error 403: Forbidden Retry 3
-TLC | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9381.ts@HTTP Error 403: Forbidden Retry 3
-TLC | HD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6760.ts@HTTP Error 502: Bad Gateway Retry 3
-TLC | SD@http://p4.giffy.be:8080/live/toby1/toby1/26543.ts@OK Retry 1
-TLC | SD@http://p4.giffy.be:8080/live/dennis/dennis/26543.ts@OK Retry 1
-TLC | SD@http://classeiptv.es:25300/live/mmesebtinoufissa/6bKStQi1b9/17938.ts@timed out Retry 3
-TMN 1E | SD@http://classeiptv.es:25300/live/mmesebtinoufissa/6bKStQi1b9/17937.ts@timed out Retry 3
-TMN 4E | SD@http://classeiptv.es:25300/live/mmesebtinoufissa/6bKStQi1b9/17936.ts@timed out Retry 3
-TNT | HD@http://p4.giffy.be:8080/live/toby1/toby1/21459.ts@OK Retry 1
-TNT | HD@http://p4.giffy.be:8080/live/dennis/dennis/21459.ts@OK Retry 1
-TNT | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9380.ts@HTTP Error 502: Bad Gateway Retry 3
-TNT | HD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6759.ts@HTTP Error 502: Bad Gateway Retry 3
-TNT | HD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6871.ts@HTTP Error 502: Bad Gateway Retry 3
-TNT | SD@http://classeiptv.es:25300/live/mmesebtinoufissa/6bKStQi1b9/17935.ts@timed out Retry 3
-TRAVEL | HD@http://p4.giffy.be:8080/live/toby1/toby1/26545.ts@OK Retry 1
-TRAVEL | HD@http://p4.giffy.be:8080/live/dennis/dennis/26545.ts@OK Retry 1
-TRAVEL CHANNEL | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9379.ts@OK Retry 1
-TRAVEL CHANNEL | SD@http://classeiptv.es:25300/live/mmesebtinoufissa/6bKStQi1b9/17934.ts@timed out Retry 3
-TRU | SD@http://classeiptv.es:25300/live/mmesebtinoufissa/6bKStQi1b9/17933.ts@timed out Retry 3
-TSN 1 | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9498.ts@OK Retry 2
-TSN 2 | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9497.ts@OK Retry 2
-TSN 3 | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9496.ts@OK Retry 2
-TSN 4 | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9495.ts@OK Retry 2
-TSN 5 | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9494.ts@OK Retry 2
-UNIVERSAL | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9376.ts@HTTP Error 502: Bad Gateway Retry 3
-UNIVERSAL | HD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6757.ts@HTTP Error 502: Bad Gateway Retry 3
-VELOCITY | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9371.ts@HTTP Error 502: Bad Gateway Retry 3
-VELOCITY | HD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6869.ts@HTTP Error 502: Bad Gateway Retry 3
-VH1 | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9370.ts@HTTP Error 502: Bad Gateway Retry 3
-WE | SD@http://classeiptv.es:25300/live/mmesebtinoufissa/6bKStQi1b9/17931.ts@<urlopen error timed out> Retry 3
-WEATHER | HD@http://p4.giffy.be:8080/live/toby1/toby1/23193.ts@OK Retry 1
-WEATHER | HD@http://p4.giffy.be:8080/live/dennis/dennis/23193.ts@OK Retry 1
-WGN | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9369.ts@HTTP Error 502: Bad Gateway Retry 3
-WILLOW CRICKET | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9368.ts@HTTP Error 502: Bad Gateway Retry 3
-WWE | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9367.ts@OK Retry 2
-WWE | SD@http://classeiptv.es:25300/live/mmesebtinoufissa/6bKStQi1b9/17930.ts@<urlopen error [Errno 10061] No connection could be made because the target machine actively refused it> Retry 3
-WWE NETWORK | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/9366.ts@HTTP Error 502: Bad Gateway Retry 3
-WWE NETWORK | HD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6755.ts@HTTP Error 502: Bad Gateway Retry 3
+BLOOMBERG | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/81410.ts@HTTP Error 401: Unauthorized Retry 3
+BRAVO | HD@http://p4.giffy.be:8080/live/dennis/dennis/20902.ts@OK 200 Retry 1
+BRAVO | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/81408.ts@HTTP Error 401: Unauthorized Retry 3
+BUZZR | SD@http://p4.giffy.be:8080/live/dennis/dennis/30627.ts@OK 200 Retry 1
+C-SPAN 1 | SD@http://p4.giffy.be:8080/live/dennis/dennis/21170.ts@OK 200 Retry 1
+C-SPAN 2 | SD@http://p4.giffy.be:8080/live/dennis/dennis/21171.ts@OK 200 Retry 1
+C-SPAN 3 | SD@http://p4.giffy.be:8080/live/dennis/dennis/21172.ts@OK 200 Retry 1
+C-SPAN1 | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/81406.ts@HTTP Error 401: Unauthorized Retry 3
+CARTOON NETWORK | HD@http://p4.giffy.be:8080/live/dennis/dennis/20988.ts@OK 200 Retry 1
+CBS | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/81405.ts@HTTP Error 401: Unauthorized Retry 3
+CBS EAST | SD@http://p4.giffy.be:8080/live/dennis/dennis/28647.ts@OK 200 Retry 1
+CBS NEWS | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/81404.ts@HTTP Error 401: Unauthorized Retry 3
+CBS SPORTS NETWORK | SD@http://p4.giffy.be:8080/live/dennis/dennis/20948.ts@OK 200 Retry 1
+CBS WEST | SD@http://p4.giffy.be:8080/live/dennis/dennis/26560.ts@OK 200 Retry 1
+CBSN | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/81403.ts@HTTP Error 401: Unauthorized Retry 3
+CBSN NEWS | SD@http://p4.giffy.be:8080/live/dennis/dennis/27539.ts@OK 200 Retry 1
+CINEMAX | HD@http://p4.giffy.be:8080/live/dennis/dennis/20976.ts@OK 200 Retry 1
+CINEMAX MOREMAX | HD@http://p4.giffy.be:8080/live/dennis/dennis/20975.ts@OK 200 Retry 1
+CINEMAX THRILLERMAX | HD@http://p4.giffy.be:8080/live/dennis/dennis/20974.ts@OK 200 Retry 1
+CNBC | HD@http://p4.giffy.be:8080/live/dennis/dennis/28303.ts@OK 200 Retry 1
+CNBC | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/81402.ts@HTTP Error 401: Unauthorized Retry 3
+CNBC WORLD | SD@http://p4.giffy.be:8080/live/dennis/dennis/20711.ts@OK 200 Retry 1
+CNBS | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/81401.ts@HTTP Error 401: Unauthorized Retry 3
+CNN | HD@http://p4.giffy.be:8080/live/dennis/dennis/29026.ts@OK 200 Retry 1
+CNN | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/81400.ts@HTTP Error 401: Unauthorized Retry 3
+COLORS KANNADA NON | SD@http://p4.giffy.be:8080/live/dennis/dennis/31474.ts@HTTP Error 403: Forbidden Retry 3
+COMEDY CENTRAL | HD@http://p4.giffy.be:8080/live/dennis/dennis/20904.ts@OK 200 Retry 1
+COMEDY CENTRAL | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/81399.ts@HTTP Error 401: Unauthorized Retry 3
+CPAC | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/81398.ts@HTTP Error 401: Unauthorized Retry 3
+CRIMINAL INVESTIGATION | HD@http://p4.giffy.be:8080/live/dennis/dennis/20973.ts@OK 200 Retry 1
+CW11 | SD@http://p4.giffy.be:8080/live/dennis/dennis/20984.ts@OK 200 Retry 1
+DESTINATION AMERICA | HD@http://p4.giffy.be:8080/live/dennis/dennis/26546.ts@OK 200 Retry 1
+DISCOVERY | HD@http://p4.giffy.be:8080/live/dennis/dennis/32182.ts@OK 200 Retry 1
+DISCOVERY FAMILY | HD@http://p4.giffy.be:8080/live/dennis/dennis/20972.ts@OK 200 Retry 1
+DISCOVERY SCIENCE | HD@http://p4.giffy.be:8080/live/dennis/dennis/20935.ts@OK 200 Retry 1
+DISNEY | HD@http://p4.giffy.be:8080/live/dennis/dennis/20971.ts@OK 200 Retry 1
+DIY NETWORK | SD@http://p4.giffy.be:8080/live/dennis/dennis/28637.ts@OK 200 Retry 1
+EL RAY | HD@http://p4.giffy.be:8080/live/dennis/dennis/20970.ts@OK 200 Retry 1
+EPIX | HD@http://p4.giffy.be:8080/live/dennis/dennis/20969.ts@OK 200 Retry 1
+EPIX 2 | HD@http://p4.giffy.be:8080/live/dennis/dennis/20968.ts@OK 200 Retry 1
+ESPN | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/81396.ts@HTTP Error 401: Unauthorized Retry 3
+ETV TELUGU | SD@http://p4.giffy.be:8080/live/dennis/dennis/30395.ts@OK 200 Retry 1
+FIGHT NETWORK | SD@http://highroller.space:25461/live/myra/myra/20566.ts@OK 200 Retry 1
+FIGHT NETWORK | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/81395.ts@HTTP Error 401: Unauthorized Retry 3
+FLOWERS | SD@http://p4.giffy.be:8080/live/dennis/dennis/30309.ts@OK 200 Retry 1
+FOOD NETWORK | HD@http://p4.giffy.be:8080/live/dennis/dennis/21142.ts@OK 200 Retry 1
+FOOD NETWORK | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/81394.ts@HTTP Error 401: Unauthorized Retry 3
+FOX | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/81392.ts@HTTP Error 401: Unauthorized Retry 3
+FOX 59 NEWS | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/81393.ts@HTTP Error 401: Unauthorized Retry 3
+FOX BOSTON 25 | SD@http://p4.giffy.be:8080/live/dennis/dennis/36653.ts@OK 200 Retry 1
+FOX BUSINESS NETWORK | HD@http://p4.giffy.be:8080/live/dennis/dennis/20983.ts@OK 200 Retry 1
+FOX EAST | SD@http://p4.giffy.be:8080/live/dennis/dennis/28642.ts@OK 200 Retry 1
+FOX NEWS | SD@http://p4.giffy.be:8080/live/dennis/dennis/20706.ts@OK 200 Retry 1
+FOX SPORTS 506 | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/81391.ts@HTTP Error 401: Unauthorized Retry 3
+FOX WEST | HD@http://p4.giffy.be:8080/live/dennis/dennis/26562.ts@OK 200 Retry 1
+FX | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/81390.ts@HTTP Error 401: Unauthorized Retry 3
+FXX | SD@http://p4.giffy.be:8080/live/dennis/dennis/32181.ts@OK 200 Retry 1
+GSN | HD@http://p4.giffy.be:8080/live/dennis/dennis/23305.ts@OK 200 Retry 1
+H2 | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/81386.ts@HTTP Error 401: Unauthorized Retry 3
+HALLMARK | HD@http://p4.giffy.be:8080/live/dennis/dennis/29987.ts@OK 200 Retry 1
+HALLMARK | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/81385.ts@HTTP Error 401: Unauthorized Retry 3
+HALLMARK MOVIES | HD@http://p4.giffy.be:8080/live/dennis/dennis/20966.ts@OK 200 Retry 1
+HBO | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/81382.ts@HTTP Error 401: Unauthorized Retry 3
+HBO COMEDY | HD@http://p4.giffy.be:8080/live/dennis/dennis/20964.ts@OK 200 Retry 1
+HBO COMEDY | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/81384.ts@HTTP Error 401: Unauthorized Retry 3
+HBO FAMILY | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/81383.ts@HTTP Error 401: Unauthorized Retry 3
+HBO SIGNATURE | HD@http://p4.giffy.be:8080/live/dennis/dennis/20962.ts@OK 200 Retry 1
+HBO SIGNATURE | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/81381.ts@HTTP Error 401: Unauthorized Retry 3
+HBO ZONE | HD@http://p4.giffy.be:8080/live/dennis/dennis/20961.ts@OK 200 Retry 1
+HBO ZONE | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/81380.ts@HTTP Error 401: Unauthorized Retry 3
+HGTV | HD@http://p4.giffy.be:8080/live/dennis/dennis/25232.ts@OK 200 Retry 1
+HGTV | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/81379.ts@HTTP Error 401: Unauthorized Retry 3
+HIFI | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/81378.ts@HTTP Error 401: Unauthorized Retry 3
+HISTORY | SD@http://p4.giffy.be:8080/live/dennis/dennis/28580.ts@OK 200 Retry 1
+HLN | HD@http://p4.giffy.be:8080/live/dennis/dennis/26550.ts@OK 200 Retry 1
+HSN 1 | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/81377.ts@HTTP Error 401: Unauthorized Retry 3
+HSN 2 | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/81376.ts@HTTP Error 401: Unauthorized Retry 3
+IFC | HD@http://p4.giffy.be:8080/live/dennis/dennis/20960.ts@OK 200 Retry 1
+JAYA MAX | SD@http://p4.giffy.be:8080/live/dennis/dennis/30448.ts@OK 200 Retry 1
+JAYA MOVIES | SD@http://p4.giffy.be:8080/live/dennis/dennis/30445.ts@OK 200 Retry 2
+KTV | SD@http://p4.giffy.be:8080/live/dennis/dennis/30439.ts@OK 200 Retry 1
+KTVU NEWS | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/81375.ts@HTTP Error 401: Unauthorized Retry 3
+LIFETIME | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/81374.ts@HTTP Error 401: Unauthorized Retry 3
+LIFETIME MOVIES | HD@http://p4.giffy.be:8080/live/dennis/dennis/20914.ts@OK 200 Retry 1
+MAA MOVIES | SD@http://p4.giffy.be:8080/live/dennis/dennis/30382.ts@HTTP Error 403: Forbidden Retry 3
+MAX WEST | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/81373.ts@HTTP Error 401: Unauthorized Retry 3
+MLB | SD@http://185.152.66.150:25461/live/demo/250118/119.ts@OK Error: same url Retry 1
+MOTOR SPORTS 7 | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/81370.ts@HTTP Error 401: Unauthorized Retry 3
+MSNBC | HD@http://p4.giffy.be:8080/live/dennis/dennis/26075.ts@OK 200 Retry 1
+MTV LIVE | HD@http://p4.giffy.be:8080/live/dennis/dennis/20954.ts@OK 200 Retry 1
+NATIONAL GEOGRAPHIC | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/81367.ts@HTTP Error 401: Unauthorized Retry 3
+NBA | HD@http://p4.giffy.be:8080/live/dennis/dennis/32175.ts@OK 200 Retry 1
+NBA | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/81366.ts@HTTP Error 401: Unauthorized Retry 3
+NBC | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/81364.ts@HTTP Error 401: Unauthorized Retry 3
+NBC EAST | HD@http://p4.giffy.be:8080/live/dennis/dennis/20985.ts@OK 200 Retry 1
+NBC GOLF | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/81365.ts@HTTP Error 401: Unauthorized Retry 3
+NBC WEST | SD@http://p4.giffy.be:8080/live/dennis/dennis/26563.ts@OK 200 Retry 1
+NETWORK | HD@http://p4.giffy.be:8080/live/dennis/dennis/20944.ts@OK 200 Retry 1
+NETWORK | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/81339.ts@<urlopen error timed out> Retry 3
+NEWS 12 | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/81363.ts@HTTP Error 401: Unauthorized Retry 3
+NICK JR | HD@http://p4.giffy.be:8080/live/dennis/dennis/20980.ts@OK 200 Retry 1
+NICK TOONS | HD@http://p4.giffy.be:8080/live/dennis/dennis/20951.ts@OK 200 Retry 1
+NICKELODEON | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/81362.ts@HTTP Error 401: Unauthorized Retry 3
+NICKELODEON | SD@http://p4.giffy.be:8080/live/dennis/dennis/36681.ts@OK 200 Retry 1
+NICKTOONS | SD@http://p4.giffy.be:8080/live/dennis/dennis/32173.ts@OK 200 Retry 1
+O.W.N OPRAH WINFREY NETWORK | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/81361.ts@HTTP Error 401: Unauthorized Retry 3
+OWN | HD@http://p4.giffy.be:8080/live/dennis/dennis/20979.ts@OK 200 Retry 1
+PAG | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/81360.ts@HTTP Error 401: Unauthorized Retry 3
+PBS | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/81359.ts@HTTP Error 401: Unauthorized Retry 3
+PBS EAST | SD@http://p4.giffy.be:8080/live/dennis/dennis/26548.ts@OK 200 Retry 1
+POCKER CENTRAL | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/81358.ts@HTTP Error 401: Unauthorized Retry 3
+RAJ DIGITAL PLUS | SD@http://p4.giffy.be:8080/live/dennis/dennis/30427.ts@OK 200 Retry 1
+RT AMERICA | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/81356.ts@HTTP Error 401: Unauthorized Retry 3
+RT DOCUMENTARY | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/81355.ts@HTTP Error 401: Unauthorized Retry 3
+SEC NETWORK | HD@http://p4.giffy.be:8080/live/dennis/dennis/20959.ts@OK 200 Retry 2
+SHOWTIME | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/81353.ts@HTTP Error 401: Unauthorized Retry 3
+SHOWTIME 2 | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/81354.ts@HTTP Error 401: Unauthorized Retry 3
+SHOWTIME SHOWCASE | SD@http://p4.giffy.be:8080/live/dennis/dennis/28573.ts@OK 200 Retry 1
+SHOWTIME WEST | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/81352.ts@HTTP Error 401: Unauthorized Retry 3
+SONY MOVIE CHANNEL | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/81351.ts@HTTP Error 401: Unauthorized Retry 3
+SPIKE | HD@http://p4.giffy.be:8080/live/dennis/dennis/20943.ts@OK 200 Retry 1
+SPORTS NIGHT | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/81350.ts@HTTP Error 401: Unauthorized Retry 3
+SPROUT | HD@http://p4.giffy.be:8080/live/dennis/dennis/20957.ts@OK 200 Retry 1
+STAR PRAVAH | SD@http://p4.giffy.be:8080/live/dennis/dennis/31452.ts@HTTP Error 403: Forbidden Retry 3
+STARZ CINEMA | HD@http://p4.giffy.be:8080/live/dennis/dennis/21460.ts@OK 200 Retry 1
+STARZ KIDS | SD@http://p4.giffy.be:8080/live/dennis/dennis/20953.ts@HTTP Error 403: Forbidden Retry 3
+SUNDANCE | HD@http://p4.giffy.be:8080/live/dennis/dennis/20956.ts@OK 200 Retry 1
+SYFY | HD@http://p4.giffy.be:8080/live/dennis/dennis/20909.ts@OK 200 Retry 1
+TBS | HD@http://p4.giffy.be:8080/live/dennis/dennis/20987.ts@OK 200 Retry 1
+TBS | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/81349.ts@HTTP Error 401: Unauthorized Retry 3
+TECH CHANNEL | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/81348.ts@HTTP Error 401: Unauthorized Retry 3
+TEN CRICKET | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/81347.ts@HTTP Error 401: Unauthorized Retry 3
+TENNIS | HD@http://p4.giffy.be:8080/live/dennis/dennis/27825.ts@OK 200 Retry 1
+THE FLORIDA CHANNEL | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/81346.ts@HTTP Error 401: Unauthorized Retry 3
+TLC | SD@http://p4.giffy.be:8080/live/dennis/dennis/26543.ts@OK 200 Retry 1
+TLC | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/81345.ts@HTTP Error 401: Unauthorized Retry 3
+TNT | HD@http://p4.giffy.be:8080/live/dennis/dennis/21459.ts@OK 200 Retry 1
+TNT | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/81344.ts@HTTP Error 401: Unauthorized Retry 3
+TOONAMI AFTERMATH | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/81343.ts@HTTP Error 401: Unauthorized Retry 3
+TRAVEL | HD@http://p4.giffy.be:8080/live/dennis/dennis/26545.ts@OK 200 Retry 1
+TSC | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/81342.ts@HTTP Error 401: Unauthorized Retry 3
+VELOCITY | SD@http://p4.giffy.be:8080/live/dennis/dennis/32183.ts@OK 200 Retry 2
+VERSUS NBA | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/81338.ts@HTTP Error 401: Unauthorized Retry 3
+VICELAND | SD@http://p4.giffy.be:8080/live/dennis/dennis/30893.ts@OK 200 Retry 1
+VIP | SD@http://highroller.space:25461/live/myra/myra/17845.ts@OK 200 Retry 1
+VIP | SD@http://highroller.space:25461/live/myra/myra/18032.ts@HTTP Error 403: Forbidden Retry 3
+WEATHER | HD@http://p4.giffy.be:8080/live/dennis/dennis/23193.ts@OK 200 Retry 1
+WEATHER CHANNEL | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/81336.ts@HTTP Error 401: Unauthorized Retry 3
+WGN NEWS CHICAGO | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/81335.ts@HTTP Error 401: Unauthorized Retry 3
+WILLOW CRICKET | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/81334.ts@HTTP Error 401: Unauthorized Retry 3
+WORLD FASHION | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/81333.ts@HTTP Error 401: Unauthorized Retry 3
+ZEE BANGLA | SD@http://p4.giffy.be:8080/live/dennis/dennis/30001.ts@OK 200 Retry 1
+ZEE KANNADA | SD@http://p4.giffy.be:8080/live/dennis/dennis/31461.ts@OK 200 Retry 1
+ZEE MARATHI | SD@http://p4.giffy.be:8080/live/dennis/dennis/31449.ts@OK 200 Retry 1
+ZEE TALKIES | SD@http://p4.giffy.be:8080/live/dennis/dennis/31447.ts@HTTP Error 403: Forbidden Retry 3
+ZEE TELUGU | SD@http://p4.giffy.be:8080/live/dennis/dennis/30356.ts@HTTP Error 403: Forbidden Retry 3
