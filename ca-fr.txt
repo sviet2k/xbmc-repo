@@ -1,0 +1,135 @@
+A&E | HD@http://p4.giffy.be:8080/live/toby1/toby1/22583.ts@OK
+ACTION | HD@http://p4.giffy.be:8080/live/toby1/toby1/31527.ts@OK
+AMC | SD@http://p4.giffy.be:8080/live/toby1/toby1/29969.ts@OK
+ANIMAL PLANET | HD@http://p4.giffy.be:8080/live/toby1/toby1/21103.ts@OK
+BBC EARTH | HD@http://p4.giffy.be:8080/live/toby1/toby1/26163.ts@OK
+BBC KIDS | SD@http://p4.giffy.be:8080/live/toby1/toby1/35734.ts@HTTP Error 406: Not Acceptable
+BET | SD@http://p4.giffy.be:8080/live/toby1/toby1/31528.ts@OK
+BNN | SD@http://p4.giffy.be:8080/live/toby1/toby1/31299.ts@OK
+BRAVO | HD@http://p4.giffy.be:8080/live/toby1/toby1/29962.ts@OK
+CARTOON NETWORK | SD@http://p4.giffy.be:8080/live/toby1/toby1/21995.ts@OK
+CBC CALGARY | HD@http://p4.giffy.be:8080/live/toby1/toby1/22580.ts@OK
+CBC EAST | HD@http://p4.giffy.be:8080/live/toby1/toby1/16517.ts@OK
+CBC EDMONTON | SD@http://p4.giffy.be:8080/live/toby1/toby1/31960.ts@OK
+CBC MONTREAL | SD@http://p4.giffy.be:8080/live/toby1/toby1/31336.ts@OK
+CBC NEWS EDMONTON | HD@http://p4.giffy.be:8080/live/toby1/toby1/20723.ts@OK
+CBC NEWS NETWORK | HD@http://p4.giffy.be:8080/live/toby1/toby1/28635.ts@OK
+CBC VANCOUVER | HD@http://p4.giffy.be:8080/live/toby1/toby1/22591.ts@OK
+CHCH | SD@http://p4.giffy.be:8080/live/toby1/toby1/35752.ts@HTTP Error 406: Not Acceptable
+CITY CALGARY | HD@http://p4.giffy.be:8080/live/toby1/toby1/26565.ts@OK
+CITY MTL | SD@http://p4.giffy.be:8080/live/toby1/toby1/31606.ts@OK
+CITY TV EAST | SD@http://p4.giffy.be:8080/live/toby1/toby1/20712.ts@OK
+CITY VANCOUVER | HD@http://p4.giffy.be:8080/live/toby1/toby1/27765.ts@OK
+CMT | SD@http://p4.giffy.be:8080/live/toby1/toby1/31582.ts@OK
+CNN | HD@http://p4.giffy.be:8080/live/toby1/toby1/20916.ts@OK
+CNN INTERNATIONAL | SD@http://p4.giffy.be:8080/live/toby1/toby1/35733.ts@HTTP Error 406: Not Acceptable
+COMEDY | HD@http://p4.giffy.be:8080/live/toby1/toby1/21109.ts@OK
+COMEDY GOLD | SD@http://p4.giffy.be:8080/live/toby1/toby1/35751.ts@HTTP Error 406: Not Acceptable
+COOKING CHANNEL | SD@http://p4.giffy.be:8080/live/toby1/toby1/35750.ts@HTTP Error 406: Not Acceptable
+COSMO | SD@http://p4.giffy.be:8080/live/toby1/toby1/35739.ts@HTTP Error 406: Not Acceptable
+COTTAGE LIFE | HD@http://p4.giffy.be:8080/live/toby1/toby1/26077.ts@OK
+CP24 | HD@http://p4.giffy.be:8080/live/toby1/toby1/20725.ts@OK
+CTV CALGARY | HD@http://p4.giffy.be:8080/live/toby1/toby1/22592.ts@OK
+CTV EAST | HD@http://p4.giffy.be:8080/live/toby1/toby1/21510.ts@OK
+CTV EDMONTON | HD@http://p4.giffy.be:8080/live/toby1/toby1/22590.ts@OK
+CTV NEWS | SD@http://p4.giffy.be:8080/live/toby1/toby1/31446.ts@OK
+DISCOVERY | HD@http://p4.giffy.be:8080/live/toby1/toby1/21102.ts@OK
+DISNEY | HD@http://p4.giffy.be:8080/live/toby1/toby1/20728.ts@OK
+DISNEY | SD@http://p4.giffy.be:8080/live/toby1/toby1/20719.ts@OK
+DISNEY JR | SD@http://p4.giffy.be:8080/live/toby1/toby1/20727.ts@OK
+DIY | HD@http://p4.giffy.be:8080/live/toby1/toby1/31529.ts@OK
+DOCUMENTARY | SD@http://p4.giffy.be:8080/live/toby1/toby1/35738.ts@HTTP Error 406: Not Acceptable
+DTOUR | SD@http://p4.giffy.be:8080/live/toby1/toby1/31337.ts@OK
+ENCORE 1 EAST | SD@http://p4.giffy.be:8080/live/toby1/toby1/35748.ts@HTTP Error 406: Not Acceptable
+F ADDIK TV | SD@http://p4.giffy.be:8080/live/toby1/toby1/35509.ts@OK
+F ARTV | SD@http://p4.giffy.be:8080/live/toby1/toby1/35508.ts@OK
+F CANAL D | SD@http://p4.giffy.be:8080/live/toby1/toby1/35507.ts@OK
+F CANAL SAVOIR | SD@http://p4.giffy.be:8080/live/toby1/toby1/35506.ts@OK
+F CASA | SD@http://p4.giffy.be:8080/live/toby1/toby1/35505.ts@OK
+F CBC MONTREAL | SD@http://p4.giffy.be:8080/live/toby1/toby1/35504.ts@OK
+F CINEPOP | SD@http://p4.giffy.be:8080/live/toby1/toby1/35503.ts@OK
+F CPAC FRENCH | SD@http://p4.giffy.be:8080/live/toby1/toby1/35502.ts@OK
+F DISNEY FRENCH | SD@http://p4.giffy.be:8080/live/toby1/toby1/35501.ts@OK
+F FRISIN | SD@http://p4.giffy.be:8080/live/toby1/toby1/35500.ts@OK
+F HISTORIO | SD@http://p4.giffy.be:8080/live/toby1/toby1/35471.ts@OK
+F ICI MONTREAL | SD@http://p4.giffy.be:8080/live/toby1/toby1/35470.ts@OK
+F ICI VANCOUVER | SD@http://p4.giffy.be:8080/live/toby1/toby1/35469.ts@OK
+F LCN | SD@http://p4.giffy.be:8080/live/toby1/toby1/35499.ts@OK
+F MAGIO | SD@http://p4.giffy.be:8080/live/toby1/toby1/35498.ts@OK
+F MAX | SD@http://p4.giffy.be:8080/live/toby1/toby1/35495.ts@OK
+F METEO | SD@http://p4.giffy.be:8080/live/toby1/toby1/35497.ts@OK
+F MOI CIE | SD@http://p4.giffy.be:8080/live/toby1/toby1/35496.ts@OK
+F MUSIQUE PLUS | SD@http://p4.giffy.be:8080/live/toby1/toby1/35494.ts@OK
+F PRISE | SD@http://p4.giffy.be:8080/live/toby1/toby1/35493.ts@OK
+F RDI | SD@http://p4.giffy.be:8080/live/toby1/toby1/35492.ts@OK
+F RDS | SD@http://p4.giffy.be:8080/live/toby1/toby1/35491.ts@OK
+F RDS 2 | SD@http://p4.giffy.be:8080/live/toby1/toby1/35490.ts@OK
+F SERIS | SD@http://p4.giffy.be:8080/live/toby1/toby1/35489.ts@OK
+F SUPER ECRAN 1 | SD@http://p4.giffy.be:8080/live/toby1/toby1/35488.ts@OK
+F SUPER ECRAN 2 | SD@http://p4.giffy.be:8080/live/toby1/toby1/35487.ts@OK
+F SUPER ECRAN 3 | SD@http://p4.giffy.be:8080/live/toby1/toby1/35486.ts@OK
+F SUPER ECRAN 4 | SD@http://p4.giffy.be:8080/live/toby1/toby1/35485.ts@OK
+F TELE QUEBEC | SD@http://p4.giffy.be:8080/live/toby1/toby1/35484.ts@OK
+F TELE TOON FRENCH | SD@http://p4.giffy.be:8080/live/toby1/toby1/35483.ts@OK
+F TV5 QUEBEC | SD@http://p4.giffy.be:8080/live/toby1/toby1/35482.ts@OK
+F TVA GATINEAU | SD@http://p4.giffy.be:8080/live/toby1/toby1/35481.ts@OK
+F TVA MONTREAL | SD@http://p4.giffy.be:8080/live/toby1/toby1/35480.ts@OK
+F TVA QUEBEC | SD@http://p4.giffy.be:8080/live/toby1/toby1/35479.ts@OK
+F TVA SPORTS | SD@http://p4.giffy.be:8080/live/toby1/toby1/35478.ts@OK
+F V MONTREAL | SD@http://p4.giffy.be:8080/live/toby1/toby1/35477.ts@OK
+F VIE | SD@http://p4.giffy.be:8080/live/toby1/toby1/35476.ts@OK
+F VRAK TV | SD@http://p4.giffy.be:8080/live/toby1/toby1/35475.ts@OK
+F YOOPA | SD@http://p4.giffy.be:8080/live/toby1/toby1/35474.ts@OK
+F Z TELE | SD@http://p4.giffy.be:8080/live/toby1/toby1/35473.ts@OK
+F ZESTE | SD@http://p4.giffy.be:8080/live/toby1/toby1/35472.ts@OK
+FAMILY | HD@http://p4.giffy.be:8080/live/toby1/toby1/20731.ts@OK
+FAMILY JR | SD@http://p4.giffy.be:8080/live/toby1/toby1/20708.ts@OK
+FIGHT NETWORK | SD@http://p4.giffy.be:8080/live/toby1/toby1/35747.ts@HTTP Error 406: Not Acceptable
+FOOD NETWORK | HD@http://p4.giffy.be:8080/live/toby1/toby1/29963.ts@OK
+FOX EAST | SD@http://p4.giffy.be:8080/live/toby1/toby1/27768.ts@OK
+FX | HD@http://p4.giffy.be:8080/live/toby1/toby1/21097.ts@OK
+FXX | HD@http://p4.giffy.be:8080/live/toby1/toby1/29966.ts@OK
+GLOBAL BC | HD@http://p4.giffy.be:8080/live/toby1/toby1/20720.ts@OK
+GLOBAL CALGARY | HD@http://p4.giffy.be:8080/live/toby1/toby1/22593.ts@OK
+GLOBAL EAST | HD@http://p4.giffy.be:8080/live/toby1/toby1/22581.ts@OK
+GUSTO | HD@http://p4.giffy.be:8080/live/toby1/toby1/20710.ts@OK
+H2 CANADA | SD@http://p4.giffy.be:8080/live/toby1/toby1/35730.ts@HTTP Error 406: Not Acceptable
+HBO EAST | SD@http://p4.giffy.be:8080/live/toby1/toby1/31594.ts@OK
+HBO WEST | HD@http://p4.giffy.be:8080/live/toby1/toby1/26162.ts@OK
+HGTV | HD@http://p4.giffy.be:8080/live/toby1/toby1/21107.ts@<urlopen error timed out>
+HISTORY | HD@http://p4.giffy.be:8080/live/toby1/toby1/21106.ts@OK
+ID | HD@http://p4.giffy.be:8080/live/toby1/toby1/31596.ts@OK
+LIFETIME | HD@http://p4.giffy.be:8080/live/toby1/toby1/21094.ts@OK
+LOVE NATURE | HD@http://p4.giffy.be:8080/live/toby1/toby1/21505.ts@OK
+MTIME | SD@http://p4.giffy.be:8080/live/toby1/toby1/35761.ts@HTTP Error 406: Not Acceptable
+MTV | SD@http://p4.giffy.be:8080/live/toby1/toby1/35760.ts@HTTP Error 406: Not Acceptable
+MUCHMUSIC | HD@http://p4.giffy.be:8080/live/toby1/toby1/29964.ts@OK
+NAT GEO | HD@http://p4.giffy.be:8080/live/toby1/toby1/21105.ts@OK
+NAT GEO WILD | HD@http://p4.giffy.be:8080/live/toby1/toby1/21104.ts@OK
+NBA TV | SD@http://p4.giffy.be:8080/live/toby1/toby1/20715.ts@OK
+OMNI 1 | HD@http://p4.giffy.be:8080/live/toby1/toby1/22585.ts@OK
+OMNI 2 | HD@http://p4.giffy.be:8080/live/toby1/toby1/22586.ts@HTTP Error 502: Bad Gateway
+OUT TV | SD@http://p4.giffy.be:8080/live/toby1/toby1/20705.ts@OK
+OWN | HD@http://p4.giffy.be:8080/live/toby1/toby1/26454.ts@OK
+PEACHTREE | SD@http://p4.giffy.be:8080/live/toby1/toby1/30891.ts@OK
+RADIO JUDA | SD@http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/5533.ts@OK
+SHOPPING | SD@http://p4.giffy.be:8080/live/toby1/toby1/35745.ts@HTTP Error 406: Not Acceptable
+SHOWCASE | SD@http://p4.giffy.be:8080/live/toby1/toby1/32499.ts@OK
+SHOWCASE EAST | SD@http://p4.giffy.be:8080/live/toby1/toby1/35755.ts@HTTP Error 406: Not Acceptable
+SLICE | HD@http://p4.giffy.be:8080/live/toby1/toby1/21095.ts@OK
+SMITHSONIAN | HD@http://p4.giffy.be:8080/live/toby1/toby1/31674.ts@OK
+SPACE | SD@http://p4.giffy.be:8080/live/toby1/toby1/30892.ts@OK
+SPIKE / PARAMOUNT | HD@http://p4.giffy.be:8080/live/toby1/toby1/31531.ts@HTTP Error 502: Bad Gateway
+SUPER CH1 | HD@http://p4.giffy.be:8080/live/toby1/toby1/26078.ts@OK
+SUPER CH3 | HD@http://p4.giffy.be:8080/live/toby1/toby1/26079.ts@OK
+SUPER CHANNEL 3 BACKUP | SD@http://p4.giffy.be:8080/live/toby1/toby1/35441.ts@HTTP Error 406: Not Acceptable
+THE WEATHER NETWORK | SD@http://p4.giffy.be:8080/live/toby1/toby1/35754.ts@HTTP Error 406: Not Acceptable
+TMN 1 | SD@http://p4.giffy.be:8080/live/toby1/toby1/21114.ts@OK
+TMN 2 | HD@http://p4.giffy.be:8080/live/toby1/toby1/21113.ts@OK
+TMN 3 | HD@http://p4.giffy.be:8080/live/toby1/toby1/29968.ts@OK
+TREEHOUSE | HD@http://p4.giffy.be:8080/live/toby1/toby1/20732.ts@OK
+TURNER CLASSIC MOVIES | SD@http://p4.giffy.be:8080/live/toby1/toby1/31533.ts@HTTP Error 403: Forbidden
+TVO | SD@http://p4.giffy.be:8080/live/toby1/toby1/20709.ts@OK
+VELOCITY | HD@http://p4.giffy.be:8080/live/toby1/toby1/22587.ts@OK
+VISION | SD@http://p4.giffy.be:8080/live/toby1/toby1/35744.ts@HTTP Error 406: Not Acceptable
+YTV | HD@http://p4.giffy.be:8080/live/toby1/toby1/20730.ts@OK
