@@ -1,18 +1,40 @@
 3E IRELAND | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/82319.ts@HTTP Error 401: Unauthorized Retry 3
+4 SEVEN | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/8279.ts@OK Error: same url Retry 1
+4 SEVEN | HD@http://s1.iptvforver.com:8000/live/suisse/suisse/8279.ts@OK Error: same url Retry 1
 4 SEVEN | SD@http://p4.giffy.be:8080/live/dennis/dennis/30513.ts@OK 200 Retry 1
 5 STAR | SD@http://p4.giffy.be:8080/live/dennis/dennis/30512.ts@OK 200 Retry 1
 5 USA | SD@http://p4.giffy.be:8080/live/dennis/dennis/30514.ts@OK 200 Retry 1
+ALIBI | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/8188.ts@OK Error: same url Retry 3
+ALIBI | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/8188.ts@OK Error: same url Retry 1
 ALIBI | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/82257.ts@HTTP Error 401: Unauthorized Retry 3
+ANIMAL PLANET | SD@http://reseller.media:25461/live/myra/myra/8004.ts@HTTP Error 403: Forbidden Retry 3
 ANIMAL PLANET | SD@http://p4.giffy.be:8080/live/dennis/dennis/30530.ts@OK 200 Retry 1
+ANIMAL PLANET | SD@http://highroller.space:25461/live/myra/myra/8004.ts@HTTP Error 403: Forbidden Retry 3
+ANIMAL PLANET | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/8187.ts@HTTP Error 502: Bad Gateway Retry 3
+ANIMAL PLANET | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/8187.ts@OK Error: same url Retry 1
 ASIANET PLUS | SD@http://p4.giffy.be:8080/live/dennis/dennis/30317.ts@OK 200 Retry 1
 BBC 1 | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/82330.ts@HTTP Error 401: Unauthorized Retry 3
+BBC 1 | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/8277.ts@OK Error: same url Retry 3
+BBC 1 | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/8277.ts@OK Error: same url Retry 1
+BBC 2 | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/8276.ts@OK Error: same url Retry 1
+BBC 2 | HD@http://s1.iptvforver.com:8000/live/suisse/suisse/8276.ts@OK Error: same url Retry 3
+BBC 3 | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/8275.ts@OK Error: same url Retry 1
+BBC 3 | HD@http://s1.iptvforver.com:8000/live/suisse/suisse/8275.ts@OK Error: same url Retry 1
+BBC 4 | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/8274.ts@OK Error: same url Retry 2
+BBC 4 | HD@http://s1.iptvforver.com:8000/live/suisse/suisse/8274.ts@OK Error: same url Retry 1
 BBC 4 | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/82326.ts@HTTP Error 401: Unauthorized Retry 3
-BBC ALBA | SD@http://p4.giffy.be:8080/live/dennis/dennis/30543.ts@OK 200 Retry 2
+BBC ALBA | SD@http://p4.giffy.be:8080/live/dennis/dennis/30543.ts@OK 200 Retry 1
+BBC NEW | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/8273.ts@OK Error: same url Retry 1
+BBC NEW | HD@http://s1.iptvforver.com:8000/live/suisse/suisse/8273.ts@OK Error: same url Retry 1
 BBC NEWS | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/82327.ts@HTTP Error 401: Unauthorized Retry 3
+BBC NEWS | SD@http://reseller.media:25461/live/myra/myra/735.ts@OK 200 Retry 1
+BBC NEWS | SD@http://highroller.space:25461/live/myra/myra/735.ts@OK 200 Retry 1
 BBC ONE | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/82331.ts@HTTP Error 401: Unauthorized Retry 3
 BBC ONE SCOTLAND | SD@http://p4.giffy.be:8080/live/dennis/dennis/30547.ts@OK 200 Retry 1
 BBC ONE WALES | SD@http://p4.giffy.be:8080/live/dennis/dennis/30548.ts@OK 200 Retry 1
 BBC PARLIEMNT | SD@http://p4.giffy.be:8080/live/dennis/dennis/30542.ts@OK 200 Retry 1
+BBC RED BUTTON | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/8156.ts@OK Error: same url Retry 1
+BBC RED BUTTON | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/8156.ts@OK Error: same url Retry 1
 BBC TWO | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/82329.ts@HTTP Error 401: Unauthorized Retry 3
 BBC TWO NORTHERN IRELAND | SD@http://p4.giffy.be:8080/live/dennis/dennis/30544.ts@OK 200 Retry 1
 BBC TWO SCOTLAND | SD@http://p4.giffy.be:8080/live/dennis/dennis/30545.ts@OK 200 Retry 1
@@ -22,75 +44,204 @@ BBC2 | SD@http://p4.giffy.be:8080/live/dennis/dennis/30550.ts@OK 200 Retry 1
 BBC3 | SD@http://p4.giffy.be:8080/live/dennis/dennis/30551.ts@OK 200 Retry 1
 BBC4 | SD@http://p4.giffy.be:8080/live/dennis/dennis/30552.ts@OK 200 Retry 1
 BOOMERANG | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/82271.ts@HTTP Error 401: Unauthorized Retry 3
+BOXNATION | SD@http://reseller.media:25461/live/myra/myra/28243.ts@OK 200 Retry 1
+BOXNATION | SD@http://reseller.media:25461/live/myra/myra/28244.ts@HTTP Error 403: Forbidden Retry 3
 BOXNATION | SD@http://highroller.space:25461/live/myra/myra/28243.ts@OK 200 Retry 1
-BOXNATION | SD@http://highroller.space:25461/live/myra/myra/28244.ts@OK 200 Retry 1
+BOXNATION | SD@http://highroller.space:25461/live/myra/myra/28244.ts@HTTP Error 403: Forbidden Retry 3
+BTSPORT ESPN | SD@http://reseller.media:25461/live/myra/myra/28252.ts@OK 200 Retry 1
 BTSPORT ESPN | SD@http://highroller.space:25461/live/myra/myra/28252.ts@OK 200 Retry 1
+BTSPORT1 | SD@http://reseller.media:25461/live/myra/myra/28260.ts@HTTP Error 403: Forbidden Retry 3
 BTSPORT1 | SD@http://highroller.space:25461/live/myra/myra/28260.ts@HTTP Error 403: Forbidden Retry 3
+BTSPORT1FHD | SD@http://reseller.media:25461/live/myra/myra/34116.ts@HTTP Error 403: Forbidden Retry 3
 BTSPORT1FHD | SD@http://highroller.space:25461/live/myra/myra/34116.ts@HTTP Error 403: Forbidden Retry 3
+BTSPORT1HD | SD@http://reseller.media:25461/live/myra/myra/28259.ts@OK 200 Retry 1
+BTSPORT1HD | SD@http://reseller.media:25461/live/myra/myra/28261.ts@HTTP Error 403: Forbidden Retry 3
 BTSPORT1HD | SD@http://highroller.space:25461/live/myra/myra/28259.ts@OK 200 Retry 1
 BTSPORT1HD | SD@http://highroller.space:25461/live/myra/myra/28261.ts@HTTP Error 403: Forbidden Retry 3
+BTSPORT2HD | SD@http://reseller.media:25461/live/myra/myra/28256.ts@HTTP Error 403: Forbidden Retry 3
 BTSPORT2HD | SD@http://highroller.space:25461/live/myra/myra/28256.ts@HTTP Error 403: Forbidden Retry 3
+BTSPORT3 | SD@http://reseller.media:25461/live/myra/myra/28254.ts@HTTP Error 403: Forbidden Retry 3
 BTSPORT3 | SD@http://highroller.space:25461/live/myra/myra/28254.ts@HTTP Error 403: Forbidden Retry 3
+BTSPORTESPN | SD@http://reseller.media:25461/live/myra/myra/28251.ts@OK 200 Retry 1
 BTSPORTESPN | SD@http://highroller.space:25461/live/myra/myra/28251.ts@OK 200 Retry 1
 CARTOON NETWORK | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/82277.ts@HTTP Error 401: Unauthorized Retry 3
 CBBC THREE | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/82328.ts@HTTP Error 401: Unauthorized Retry 3
-CBS ACTION | SD@http://p4.giffy.be:8080/live/dennis/dennis/30526.ts@HTTP Error 403: Forbidden Retry 3
+CBEEBIES | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/8162.ts@OK Error: same url Retry 1
+CBEEBIES | HD@http://s1.iptvforver.com:8000/live/suisse/suisse/8162.ts@OK Error: same url Retry 2
+CBS ACTION | SD@http://p4.giffy.be:8080/live/dennis/dennis/30526.ts@OK 200 Retry 1
+CBS ACTION | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/8263.ts@OK Error: same url Retry 1
+CBS ACTION | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/8263.ts@OK Error: same url Retry 1
 CBS ACTION | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/82266.ts@HTTP Error 401: Unauthorized Retry 3
 CBS DRAMA | SD@http://p4.giffy.be:8080/live/dennis/dennis/30525.ts@OK 200 Retry 1
+CBS DRAMA | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/8237.ts@OK Error: same url Retry 1
+CBS DRAMA | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/8237.ts@OK Error: same url Retry 1
 CBS DRAMA | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/82265.ts@HTTP Error 401: Unauthorized Retry 3
 CBS REALITY | SD@http://p4.giffy.be:8080/live/dennis/dennis/30524.ts@OK 200 Retry 1
+CBS REALITY | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/8262.ts@OK Error: same url Retry 1
+CBS REALITY | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/8262.ts@OK Error: same url Retry 1
 CBS REALITY | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/82264.ts@HTTP Error 401: Unauthorized Retry 3
+CHALLENGE | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/8264.ts@OK Error: same url Retry 1
+CHALLENGE | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/8264.ts@OK Error: same url Retry 1
 CHANNEL 14 | SD@http://p4.giffy.be:8080/live/dennis/dennis/30554.ts@OK 200 Retry 1
+CHANNEL 4 | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/8253.ts@OK Error: same url Retry 1
+CHANNEL 4 | HD@http://s1.iptvforver.com:8000/live/suisse/suisse/8253.ts@OK Error: same url Retry 1
+CHANNEL 4 | SD@http://reseller.media:25461/live/myra/myra/33833.ts@OK 200 Retry 1
 CHANNEL 4 | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/82259.ts@HTTP Error 401: Unauthorized Retry 3
+CHANNEL 5 | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/8254.ts@OK Error: same url Retry 1
+CHANNEL 5 | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/8254.ts@OK Error: same url Retry 1
 CHANNEL 5 | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/82324.ts@HTTP Error 401: Unauthorized Retry 3
+CHANNEL 5 STAR | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/8256.ts@OK Error: same url Retry 1
+CHANNEL 5 STAR | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/8256.ts@OK Error: same url Retry 1
+CHANNEL 5 USA | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/8255.ts@OK Error: same url Retry 1
+CHANNEL 5 USA | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/8255.ts@OK Error: same url Retry 1
+CNN | HD@http://reseller.media:25461/live/myra/myra/676.ts@HTTP Error 403: Forbidden Retry 3
+CNN | HD@http://highroller.space:25461/live/myra/myra/676.ts@HTTP Error 403: Forbidden Retry 3
 COLORS | SD@http://p4.giffy.be:8080/live/dennis/dennis/30272.ts@OK 200 Retry 1
 COLORS BANGLA | SD@http://p4.giffy.be:8080/live/dennis/dennis/30013.ts@HTTP Error 403: Forbidden Retry 3
 COLORS KANNADA | SD@http://p4.giffy.be:8080/live/dennis/dennis/31473.ts@HTTP Error 403: Forbidden Retry 3
-COLORS MARATHI | SD@http://p4.giffy.be:8080/live/dennis/dennis/31456.ts@OK 200 Retry 3
+COLORS MARATHI | SD@http://p4.giffy.be:8080/live/dennis/dennis/31456.ts@OK 200 Retry 1
+COMEDY CENTRAL | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/8240.ts@OK Error: same url Retry 1
+COMEDY CENTRAL | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/8240.ts@OK Error: same url Retry 1
 COMEDY CENTRAL | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/82305.ts@HTTP Error 401: Unauthorized Retry 3
+COMEDY CENTRAL EXTRA | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/8239.ts@HTTP Error 502: Bad Gateway Retry 3
+COMEDY CENTRAL EXTRA | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/8239.ts@HTTP Error 502: Bad Gateway Retry 3
+CRIME & INVESTIGATION | SD@http://reseller.media:25461/live/myra/myra/671.ts@HTTP Error 403: Forbidden Retry 3
+CRIME & INVESTIGATION | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/8238.ts@OK Error: same url Retry 2
+CRIME & INVESTIGATION | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/8238.ts@HTTP Error 502: Bad Gateway Retry 3
+CRIME &AMP | SD@http://highroller.space:25461/live/myra/myra/671.ts@HTTP Error 403: Forbidden Retry 3
 CRIME INVESTIGATION | SD@http://p4.giffy.be:8080/live/dennis/dennis/30504.ts@OK 200 Retry 1
 DAVE | HD@http://p4.giffy.be:8080/live/dennis/dennis/30560.ts@OK 200 Retry 1
 DAVE | SD@http://p4.giffy.be:8080/live/dennis/dennis/30511.ts@OK 200 Retry 1
+DAVE | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/8186.ts@HTTP Error 502: Bad Gateway Retry 3
+DAVE | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/8186.ts@OK Error: same url Retry 3
+DISCOVERY | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/8205.ts@HTTP Error 502: Bad Gateway Retry 3
+DISCOVERY | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/8205.ts@OK Error: same url Retry 3
+DISCOVERY CHANNEL | SD@http://reseller.media:25461/live/myra/myra/664.ts@HTTP Error 403: Forbidden Retry 3
+DISCOVERY CHANNEL | SD@http://highroller.space:25461/live/myra/myra/664.ts@HTTP Error 403: Forbidden Retry 3
+DISCOVERY HISTORY | SD@http://reseller.media:25461/live/myra/myra/663.ts@OK 200 Retry 1
+DISCOVERY HISTORY | SD@http://highroller.space:25461/live/myra/myra/663.ts@OK 200 Retry 1
 DISCOVERY HISTORY | SD@http://p4.giffy.be:8080/live/dennis/dennis/30538.ts@HTTP Error 403: Forbidden Retry 3
+DISCOVERY HISTORY | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/8221.ts@OK Error: same url Retry 1
+DISCOVERY HISTORY | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/8221.ts@OK Error: same url Retry 1
 DISCOVERY HOME & HEALTH | SD@http://p4.giffy.be:8080/live/dennis/dennis/30537.ts@OK 200 Retry 1
+DISCOVERY INVESTIGATION | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/8220.ts@OK Error: same url Retry 1
+DISCOVERY INVESTIGATION | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/8220.ts@OK Error: same url Retry 1
+DISCOVERY SCIENCE | SD@http://reseller.media:25461/live/myra/myra/662.ts@OK 200 Retry 1
+DISCOVERY SCIENCE | SD@http://highroller.space:25461/live/myra/myra/662.ts@OK 200 Retry 1
 DISCOVERY SCIENCE | SD@http://p4.giffy.be:8080/live/dennis/dennis/30536.ts@OK 200 Retry 1
+DISCOVERY SCIENCE | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/8236.ts@OK Error: same url Retry 1
+DISCOVERY SCIENCE | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/8236.ts@OK Error: same url Retry 1
+DISCOVERY SHED | SD@http://reseller.media:25461/live/myra/myra/661.ts@HTTP Error 403: Forbidden Retry 3
+DISCOVERY SHED | SD@http://highroller.space:25461/live/myra/myra/661.ts@HTTP Error 403: Forbidden Retry 3
 DISCOVERY SHED | SD@http://p4.giffy.be:8080/live/dennis/dennis/30535.ts@HTTP Error 403: Forbidden Retry 3
+DISCOVERY SHED | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/8225.ts@OK Error: same url Retry 1
+DISCOVERY SHED | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/8225.ts@OK Error: same url Retry 1
+DISCOVERY TURBO | SD@http://reseller.media:25461/live/myra/myra/660.ts@OK 200 Retry 1
+DISCOVERY TURBO | SD@http://highroller.space:25461/live/myra/myra/660.ts@OK 200 Retry 1
 DISCOVERY TURBO | SD@http://p4.giffy.be:8080/live/dennis/dennis/30534.ts@OK 200 Retry 1
+DISCOVERY TURBO | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/8224.ts@OK Error: same url Retry 1
+DISCOVERY TURBO | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/8224.ts@OK Error: same url Retry 1
+DISNEY CHANNEL | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/8228.ts@OK Error: same url Retry 1
+DISNEY CHANNEL | HD@http://s1.iptvforver.com:8000/live/suisse/suisse/8228.ts@OK Error: same url Retry 1
+DISNEY JUNIOR | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/8229.ts@OK Error: same url Retry 1
+DISNEY JUNIOR | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/8229.ts@OK Error: same url Retry 1
 DISNEY JUNIOR | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/82278.ts@HTTP Error 401: Unauthorized Retry 3
+DISNEY XD | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/8161.ts@OK Error: same url Retry 1
+DISNEY XD | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/8161.ts@OK Error: same url Retry 1
 DISNEY XD | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/82279.ts@HTTP Error 401: Unauthorized Retry 3
+DMAX | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/8226.ts@OK Error: same url Retry 1
+DMAX | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/8226.ts@OK Error: same url Retry 1
+DRAMA | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/8227.ts@OK Error: same url Retry 1
+DRAMA | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/8227.ts@OK Error: same url Retry 1
 DW ENGLISH | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/82250.ts@HTTP Error 401: Unauthorized Retry 3
 E4 | SD@http://p4.giffy.be:8080/live/dennis/dennis/30522.ts@HTTP Error 403: Forbidden Retry 3
+E4 | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/8185.ts@OK Error: same url Retry 1
+E4 | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/8185.ts@OK Error: same url Retry 1
+EDEN | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/8172.ts@HTTP Error 403: Forbidden Retry 3
+EDEN | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/8172.ts@HTTP Error 502: Bad Gateway Retry 3
 EDGE SPORT | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/82333.ts@HTTP Error 401: Unauthorized Retry 3
+EIR SPORT 1 | HD@http://reseller.media:25461/live/myra/myra/28238.ts@OK 200 Retry 1
 EIR SPORT 1 | HD@http://highroller.space:25461/live/myra/myra/28238.ts@OK 200 Retry 1
 EIR SPORT 1 | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/82335.ts@HTTP Error 401: Unauthorized Retry 3
+EIR SPORT 1 | SD@http://reseller.media:25461/live/myra/myra/28239.ts@HTTP Error 403: Forbidden Retry 3
 EIR SPORT 1 | SD@http://highroller.space:25461/live/myra/myra/28239.ts@HTTP Error 403: Forbidden Retry 3
-EIR SPORT 2 | SD@http://highroller.space:25461/live/myra/myra/28236.ts@OK 200 Retry 1
+EIR SPORT 1 | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/8233.ts@OK Error: same url Retry 3
+EIR SPORT 1 | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/8233.ts@OK Error: same url Retry 3
+EIR SPORT 2 | SD@http://reseller.media:25461/live/myra/myra/28236.ts@HTTP Error 403: Forbidden Retry 3
+EIR SPORT 2 | SD@http://highroller.space:25461/live/myra/myra/28236.ts@HTTP Error 403: Forbidden Retry 3
+EIR SPORTS 2 | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/8232.ts@OK Error: same url Retry 1
+EIR SPORTS 2 | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/8232.ts@OK Error: same url Retry 1
 ELEVEN SPORTS 1 | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/82332.ts@HTTP Error 401: Unauthorized Retry 3
 ETV | SD@http://p4.giffy.be:8080/live/dennis/dennis/30394.ts@HTTP Error 403: Forbidden Retry 3
+EURONEWS | SD@http://reseller.media:25461/live/myra/myra/643.ts@HTTP Error 403: Forbidden Retry 3
+EURONEWS | SD@http://highroller.space:25461/live/myra/myra/643.ts@HTTP Error 403: Forbidden Retry 3
+EURONEWS | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/8231.ts@OK Error: same url Retry 1
+EURONEWS | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/8231.ts@OK Error: same url Retry 1
+EUROSPORT 1 | HD@http://reseller.media:25461/live/myra/myra/28250.ts@OK 200 Retry 1
 EUROSPORT 1 | HD@http://highroller.space:25461/live/myra/myra/28250.ts@OK 200 Retry 1
+EUROSPORT 1 | SD@http://reseller.media:25461/live/myra/myra/28248.ts@OK 200 Retry 1
+EUROSPORT 1 | SD@http://reseller.media:25461/live/myra/myra/28249.ts@HTTP Error 403: Forbidden Retry 3
 EUROSPORT 1 | SD@http://highroller.space:25461/live/myra/myra/28248.ts@OK 200 Retry 1
 EUROSPORT 1 | SD@http://highroller.space:25461/live/myra/myra/28249.ts@HTTP Error 403: Forbidden Retry 3
+EUROSPORT 1 | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/8235.ts@OK Error: same url Retry 1
+EUROSPORT 1 | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/8235.ts@OK Error: same url Retry 1
+EUROSPORT 2 | SD@http://reseller.media:25461/live/myra/myra/28245.ts@OK 200 Retry 1
+EUROSPORT 2 | SD@http://reseller.media:25461/live/myra/myra/28247.ts@HTTP Error 403: Forbidden Retry 3
 EUROSPORT 2 | SD@http://highroller.space:25461/live/myra/myra/28245.ts@OK 200 Retry 1
 EUROSPORT 2 | SD@http://highroller.space:25461/live/myra/myra/28247.ts@HTTP Error 403: Forbidden Retry 3
+EUROSPORT 2 | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/8234.ts@OK Error: same url Retry 1
+EUROSPORT 2 | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/8234.ts@OK Error: same url Retry 1
 FILM 4 | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/82261.ts@HTTP Error 401: Unauthorized Retry 3
+FILM 4 | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/8184.ts@OK Error: same url Retry 1
+FILM 4 | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/8184.ts@OK Error: same url Retry 1
 FILM 4 | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/82260.ts@HTTP Error 401: Unauthorized Retry 3
+FOOD NETWORK | SD@http://reseller.media:25461/live/myra/myra/635.ts@HTTP Error 403: Forbidden Retry 3
+FOOD NETWORK | SD@http://highroller.space:25461/live/myra/myra/635.ts@HTTP Error 403: Forbidden Retry 3
 FOOD NETWORK | SD@http://p4.giffy.be:8080/live/dennis/dennis/30521.ts@HTTP Error 403: Forbidden Retry 3
+FOX | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/8222.ts@OK Error: same url Retry 1
+FOX | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/8222.ts@OK Error: same url Retry 1
 FOX | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/82308.ts@HTTP Error 401: Unauthorized Retry 3
 FOX | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/82309.ts@HTTP Error 401: Unauthorized Retry 3
+FOX NEWS | SD@http://reseller.media:25461/live/myra/myra/632.ts@HTTP Error 403: Forbidden Retry 3
+FOX NEWS | SD@http://highroller.space:25461/live/myra/myra/632.ts@HTTP Error 403: Forbidden Retry 3
+FOX SPORTS | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/8223.ts@OK Error: same url Retry 1
+FOX SPORTS | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/8223.ts@OK Error: same url Retry 1
 FOX VOD | SD@http://p4.giffy.be:8080/live/dennis/dennis/30520.ts@OK 200 Retry 1
+FRANCE 24 | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/8210.ts@OK Error: same url Retry 1
+FRANCE 24 | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/8210.ts@OK Error: same url Retry 1
 GOLD | SD@http://p4.giffy.be:8080/live/dennis/dennis/31525.ts@OK 200 Retry 1
+GOLD | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/8183.ts@HTTP Error 502: Bad Gateway Retry 3
+GOLD | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/8183.ts@OK Error: same url Retry 2
+H2 | SD@http://reseller.media:25461/live/myra/myra/624.ts@HTTP Error 403: Forbidden Retry 3
+H2 | SD@http://highroller.space:25461/live/myra/myra/624.ts@HTTP Error 403: Forbidden Retry 3
 HBO | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/82283.ts@HTTP Error 401: Unauthorized Retry 3
 HBO COMEDY | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/82284.ts@HTTP Error 401: Unauthorized Retry 3
 HISTORY | SD@http://p4.giffy.be:8080/live/dennis/dennis/30528.ts@OK 200 Retry 1
 HISTORY 1 | SD@http://p4.giffy.be:8080/live/dennis/dennis/30523.ts@OK 200 Retry 1
+HOME | SD@http://reseller.media:25461/live/myra/myra/620.ts@HTTP Error 403: Forbidden Retry 3
+HOME | SD@http://highroller.space:25461/live/myra/myra/620.ts@HTTP Error 403: Forbidden Retry 3
 HOME | SD@http://p4.giffy.be:8080/live/dennis/dennis/30527.ts@OK 200 Retry 1
+HOME | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/8219.ts@OK Error: same url Retry 2
+HOME | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/8219.ts@OK Error: same url Retry 1
+HOME & HEALTH | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/8218.ts@OK Error: same url Retry 1
+HOME & HEALTH | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/8218.ts@OK Error: same url Retry 2
+HORROR CHANNEL | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/8217.ts@HTTP Error 502: Bad Gateway Retry 3
+HORROR CHANNEL | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/8217.ts@HTTP Error 502: Bad Gateway Retry 3
 HUNTING CHANNEL | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/82249.ts@HTTP Error 401: Unauthorized Retry 3
 INSIGHT | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/82248.ts@HTTP Error 401: Unauthorized Retry 3
 INVESTIGATION DISCOVERY | SD@http://p4.giffy.be:8080/live/dennis/dennis/30533.ts@OK 200 Retry 1
 INVESTIGATION DISCOVERY | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/82247.ts@HTTP Error 401: Unauthorized Retry 3
+ITV 1 | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/8260.ts@OK Error: same url Retry 1
+ITV 1 | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/8260.ts@OK Error: same url Retry 1
 ITV 1 | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/82316.ts@HTTP Error 401: Unauthorized Retry 3
 ITV 2 | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/82315.ts@HTTP Error 401: Unauthorized Retry 3
+ITV 2 | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/8259.ts@OK Error: same url Retry 1
+ITV 2 | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/8259.ts@OK Error: same url Retry 1
+ITV 3 | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/8258.ts@OK Error: same url Retry 1
+ITV 3 | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/8258.ts@OK Error: same url Retry 1
 ITV 3 | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/82314.ts@HTTP Error 401: Unauthorized Retry 3
+ITV 4 | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/8257.ts@OK Error: same url Retry 1
+ITV 4 | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/8257.ts@OK Error: same url Retry 1
 ITV 4 | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/82313.ts@HTTP Error 401: Unauthorized Retry 3
 ITV ENCORE | SD@http://p4.giffy.be:8080/live/dennis/dennis/30555.ts@OK 200 Retry 1
 ITV ENCORE | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/82317.ts@HTTP Error 401: Unauthorized Retry 3
@@ -105,130 +256,334 @@ KIX ENG | SD@http://p4.giffy.be:8080/live/dennis/dennis/30505.ts@OK 200 Retry 1
 LIFE TIME | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/82306.ts@HTTP Error 401: Unauthorized Retry 3
 LIFETIME | SD@http://p4.giffy.be:8080/live/dennis/dennis/30506.ts@OK 200 Retry 1
 MAA MOVIES | SD@http://p4.giffy.be:8080/live/dennis/dennis/30383.ts@HTTP Error 403: Forbidden Retry 3
+MIO ELEVEN | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/8216.ts@HTTP Error 403: Forbidden Retry 3
+MIO ELEVEN | HD@http://s1.iptvforver.com:8000/live/suisse/suisse/8216.ts@HTTP Error 403: Forbidden Retry 3
+MIO ELEVEN SPORTS | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/8215.ts@OK Error: same url Retry 1
+MIO ELEVEN SPORTS | HD@http://s1.iptvforver.com:8000/live/suisse/suisse/8215.ts@OK Error: same url Retry 1
+MIO ELEVEN SPORTS 2 | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/8214.ts@OK Error: same url Retry 1
+MIO ELEVEN SPORTS 2 | HD@http://s1.iptvforver.com:8000/live/suisse/suisse/8214.ts@OK Error: same url Retry 3
 MORE4 | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/82325.ts@HTTP Error 401: Unauthorized Retry 3
 MOVIES 4 MEN | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/82268.ts@HTTP Error 401: Unauthorized Retry 3
 MOVIES24 | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/82267.ts@HTTP Error 401: Unauthorized Retry 3
 MOVIES4MAN1 | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/82269.ts@HTTP Error 401: Unauthorized Retry 3
 MTV | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/82244.ts@HTTP Error 401: Unauthorized Retry 3
+MTV | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/8213.ts@OK Error: same url Retry 3
+MTV | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/8213.ts@OK Error: same url Retry 1
 MTV BASE | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/82235.ts@HTTP Error 401: Unauthorized Retry 3
 MTV BASE | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/82241.ts@HTTP Error 401: Unauthorized Retry 3
 MTV CLASSIC | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/82236.ts@HTTP Error 401: Unauthorized Retry 3
-MTV DANCE | SD@http://p4.giffy.be:8080/live/dennis/dennis/30563.ts@HTTP Error 403: Forbidden Retry 3
+MTV DANCE | SD@http://p4.giffy.be:8080/live/dennis/dennis/30563.ts@OK 200 Retry 1
+MTV DANCE | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/8212.ts@OK Error: same url Retry 1
+MTV DANCE | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/8212.ts@OK Error: same url Retry 1
 MTV DANCE | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/82238.ts@HTTP Error 401: Unauthorized Retry 3
 MTV HITS | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/82234.ts@HTTP Error 401: Unauthorized Retry 3
 MTV HITS | SD@http://p4.giffy.be:8080/live/dennis/dennis/30562.ts@OK 200 Retry 1
+MTV HITS | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/8207.ts@OK Error: same url Retry 1
+MTV HITS | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/8207.ts@OK Error: same url Retry 1
 MTV HITS | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/82240.ts@HTTP Error 401: Unauthorized Retry 3
 MTV LOVE | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/82239.ts@HTTP Error 401: Unauthorized Retry 3
 MTV MUSIC | SD@http://p4.giffy.be:8080/live/dennis/dennis/30561.ts@OK 200 Retry 1
 MTV MUSIC | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/82242.ts@HTTP Error 401: Unauthorized Retry 3
+MTV ROCKS | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/8209.ts@OK Error: same url Retry 1
+MTV ROCKS | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/8209.ts@OK Error: same url Retry 1
 MTV ROCKS | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/82237.ts@HTTP Error 401: Unauthorized Retry 3
+MUTV | HD@http://reseller.media:25461/live/myra/myra/28242.ts@OK 200 Retry 1
 NATGEO | SD@http://p4.giffy.be:8080/live/dennis/dennis/30540.ts@OK 200 Retry 1
+NATIONAL GEOGRAPHIC | SD@http://reseller.media:25461/live/myra/myra/562.ts@HTTP Error 403: Forbidden Retry 3
+NATIONAL GEOGRAPHIC | SD@http://highroller.space:25461/live/myra/myra/562.ts@HTTP Error 403: Forbidden Retry 3
+NATIONAL GEOGRAPHIC CHANNEL | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/8160.ts@OK Error: same url Retry 1
+NATIONAL GEOGRAPHIC CHANNEL | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/8160.ts@OK Error: same url Retry 1
+NATIONAL GEOGRAPHIC WILD | SD@http://reseller.media:25461/live/myra/myra/561.ts@HTTP Error 403: Forbidden Retry 3
+NATIONAL GEOGRAPHIC WILD | SD@http://highroller.space:25461/live/myra/myra/561.ts@HTTP Error 403: Forbidden Retry 3
 NICK JR | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/82276.ts@HTTP Error 401: Unauthorized Retry 3
 NICK JR 1 | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/82273.ts@HTTP Error 401: Unauthorized Retry 3
 NICK JR PEPPA | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/82272.ts@HTTP Error 401: Unauthorized Retry 3
-NICKELODEON | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/82275.ts@<urlopen error timed out> Retry 3
+NICK JUNIOR TOO | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/8159.ts@OK Error: same url Retry 1
+NICK JUNIOR TOO | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/8159.ts@OK Error: same url Retry 1
+NICKELODEON | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/82275.ts@HTTP Error 401: Unauthorized Retry 3
+NICKTOONS | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/8158.ts@OK Error: same url Retry 1
+NICKTOONS | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/8182.ts@OK Error: same url Retry 1
+NICKTOONS | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/8158.ts@OK Error: same url Retry 1
+NICKTOONS | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/8182.ts@OK Error: same url Retry 1
 NICKTOONS | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/82274.ts@HTTP Error 401: Unauthorized Retry 3
-PICK | SD@http://p4.giffy.be:8080/live/dennis/dennis/30517.ts@OK 200 Retry 2
+NOLLYWOOD | SD@http://163.172.210.178:8000/live/5Lvyprs736H7ho/JlRopPjP12owqQ/828.ts@OK 200 Retry 1
+PICK | SD@http://p4.giffy.be:8080/live/dennis/dennis/30517.ts@OK 200 Retry 1
+PREMIER SPORTS | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/8206.ts@HTTP Error 502: Bad Gateway Retry 3
+PREMIER SPORTS | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/8206.ts@HTTP Error 502: Bad Gateway Retry 3
 PREMIER SPORTS | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/82334.ts@HTTP Error 401: Unauthorized Retry 3
 PTV PUNJABI | SD@http://p4.giffy.be:8080/live/dennis/dennis/30322.ts@HTTP Error 403: Forbidden Retry 3
 QUEST | SD@http://p4.giffy.be:8080/live/dennis/dennis/30507.ts@HTTP Error 403: Forbidden Retry 3
+RACING | HD@http://reseller.media:25461/live/myra/myra/28234.ts@OK 200 Retry 1
 RACING | SD@http://p4.giffy.be:8080/live/dennis/dennis/21725.ts@OK 200 Retry 1
+RACING | SD@http://reseller.media:25461/live/myra/myra/28233.ts@HTTP Error 403: Forbidden Retry 3
+RACING | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/8157.ts@OK Error: same url Retry 1
+RACING | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/8157.ts@HTTP Error 502: Bad Gateway Retry 3
 RAJ DIGITAL PLUS | SD@http://p4.giffy.be:8080/live/dennis/dennis/30428.ts@OK 200 Retry 1
+RT | SD@https://secure-streams.akamaized.net/rt-uk/index.m3u8@OK Error: same url Retry 1
 RTE | SD@http://p4.giffy.be:8080/live/dennis/dennis/30516.ts@OK 200 Retry 1
 RTE J.R | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/82320.ts@HTTP Error 401: Unauthorized Retry 3
-RTE NEWS | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/82323.ts@<urlopen error timed out> Retry 3
+RTE NEWS | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/82323.ts@HTTP Error 401: Unauthorized Retry 3
 RTE ONE | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/82321.ts@HTTP Error 401: Unauthorized Retry 3
+RTE TWO | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/8181.ts@OK Error: same url Retry 1
+RTE TWO | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/8181.ts@OK Error: same url Retry 1
 RTE TWO | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/82322.ts@HTTP Error 401: Unauthorized Retry 3
-RUPASHI BANGLA | SD@http://p4.giffy.be:8080/live/dennis/dennis/30009.ts@<urlopen error timed out> Retry 3
+RUPASHI BANGLA | SD@http://p4.giffy.be:8080/live/dennis/dennis/30009.ts@HTTP Error 403: Forbidden Retry 3
 RUSSIA TODAY NEWS | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/82246.ts@HTTP Error 401: Unauthorized Retry 3
 S4C | SD@http://p4.giffy.be:8080/live/dennis/dennis/30541.ts@OK 200 Retry 1
-SAB | SD@http://p4.giffy.be:8080/live/dennis/dennis/15546.ts@HTTP Error 403: Forbidden Retry 3
-SANGEET BANGLA | SD@http://p4.giffy.be:8080/live/dennis/dennis/30008.ts@OK 200 Retry 2
+SAB | SD@http://p4.giffy.be:8080/live/dennis/dennis/15546.ts@OK 200 Retry 1
+SANGEET BANGLA | SD@http://p4.giffy.be:8080/live/dennis/dennis/30008.ts@OK 200 Retry 1
 SET MAX | SD@http://p4.giffy.be:8080/live/dennis/dennis/30254.ts@OK 200 Retry 1
+SETANTA SPORTS | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/8180.ts@OK Error: same url Retry 1
+SETANTA SPORTS | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/8180.ts@HTTP Error 502: Bad Gateway Retry 3
+SKY 2 | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/8179.ts@OK Error: same url Retry 1
+SKY 2 | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/8179.ts@OK Error: same url Retry 1
 SKY ARTS 1 | SD@http://p4.giffy.be:8080/live/dennis/dennis/30503.ts@HTTP Error 403: Forbidden Retry 3
+SKY ARTS 1 | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/8178.ts@OK Error: same url Retry 1
+SKY ARTS 1 | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/8178.ts@OK Error: same url Retry 1
+SKY ATLANTIC | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/8177.ts@OK Error: same url Retry 1
+SKY ATLANTIC | HD@http://s1.iptvforver.com:8000/live/suisse/suisse/8177.ts@OK Error: same url Retry 1
 SKY ATLANTIC | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/82302.ts@HTTP Error 401: Unauthorized Retry 3
 SKY ATLANTIC | SD@http://p4.giffy.be:8080/live/dennis/dennis/30502.ts@OK 200 Retry 1
+SKY CINEMA ACTION & ADVENTURE | HD@http://reseller.media:25461/live/myra/myra/27679.ts@HTTP Error 403: Forbidden Retry 3
+SKY CINEMA ACTION &AMP | HD@http://highroller.space:25461/live/myra/myra/27679.ts@HTTP Error 403: Forbidden Retry 3
+SKY CINEMA ACTION&ADVENTURE | SD@http://reseller.media:25461/live/myra/myra/27678.ts@HTTP Error 403: Forbidden Retry 3
+SKY CINEMA ACTION&AMP | SD@http://highroller.space:25461/live/myra/myra/27678.ts@HTTP Error 403: Forbidden Retry 3
+SKY CINEMA BOX OFFICE 1 | SD@http://reseller.media:25461/live/myra/myra/27694.ts@HTTP Error 403: Forbidden Retry 3
+SKY CINEMA BOX OFFICE 1 | SD@http://highroller.space:25461/live/myra/myra/27694.ts@HTTP Error 403: Forbidden Retry 3
+SKY CINEMA BOX OFFICE 2 | SD@http://reseller.media:25461/live/myra/myra/27693.ts@HTTP Error 403: Forbidden Retry 3
+SKY CINEMA BOX OFFICE 2 | SD@http://highroller.space:25461/live/myra/myra/27693.ts@HTTP Error 403: Forbidden Retry 3
+SKY CINEMA BOX OFFICE 3 | SD@http://reseller.media:25461/live/myra/myra/27692.ts@HTTP Error 403: Forbidden Retry 3
+SKY CINEMA BOX OFFICE 3 | SD@http://highroller.space:25461/live/myra/myra/27692.ts@HTTP Error 403: Forbidden Retry 3
+SKY CINEMA BOX OFFICE 4 | SD@http://reseller.media:25461/live/myra/myra/27691.ts@HTTP Error 403: Forbidden Retry 3
+SKY CINEMA BOX OFFICE 4 | SD@http://highroller.space:25461/live/myra/myra/27691.ts@HTTP Error 403: Forbidden Retry 3
+SKY CINEMA COMEDY | SD@http://reseller.media:25461/live/myra/myra/27675.ts@HTTP Error 403: Forbidden Retry 3
+SKY CINEMA COMEDY | SD@http://reseller.media:25461/live/myra/myra/27677.ts@HTTP Error 403: Forbidden Retry 3
+SKY CINEMA COMEDY | SD@http://highroller.space:25461/live/myra/myra/27675.ts@OK 200 Retry 3
+SKY CINEMA COMEDY | SD@http://highroller.space:25461/live/myra/myra/27677.ts@OK 200 Retry 1
+SKY CINEMA CRIME & THRILLER | HD@http://reseller.media:25461/live/myra/myra/27673.ts@OK 200 Retry 1
+SKY CINEMA CRIME & THRILLER | SD@http://reseller.media:25461/live/myra/myra/27672.ts@OK 200 Retry 1
+SKY CINEMA CRIME &AMP | HD@http://highroller.space:25461/live/myra/myra/27673.ts@OK 200 Retry 1
+SKY CINEMA CRIME &AMP | SD@http://highroller.space:25461/live/myra/myra/27672.ts@OK 200 Retry 1
+SKY CINEMA DISNEY | HD@http://reseller.media:25461/live/myra/myra/27684.ts@OK 200 Retry 1
+SKY CINEMA DISNEY | HD@http://highroller.space:25461/live/myra/myra/27684.ts@OK 200 Retry 1
+SKY CINEMA DISNEY | SD@http://reseller.media:25461/live/myra/myra/27685.ts@OK 200 Retry 1
+SKY CINEMA DISNEY | SD@http://reseller.media:25461/live/myra/myra/27686.ts@OK 200 Retry 1
+SKY CINEMA DISNEY | SD@http://highroller.space:25461/live/myra/myra/27685.ts@OK 200 Retry 1
+SKY CINEMA DISNEY | SD@http://highroller.space:25461/live/myra/myra/27686.ts@HTTP Error 403: Forbidden Retry 3
+SKY CINEMA DRAMA & ROMANCE | SD@http://reseller.media:25461/live/myra/myra/27669.ts@HTTP Error 403: Forbidden Retry 3
+SKY CINEMA DRAMA & ROMANCE | SD@http://reseller.media:25461/live/myra/myra/27670.ts@HTTP Error 403: Forbidden Retry 3
+SKY CINEMA DRAMA &AMP | SD@http://highroller.space:25461/live/myra/myra/27669.ts@HTTP Error 403: Forbidden Retry 3
+SKY CINEMA DRAMA &AMP | SD@http://highroller.space:25461/live/myra/myra/27670.ts@HTTP Error 403: Forbidden Retry 3
+SKY CINEMA GREATS | HD@http://reseller.media:25461/live/myra/myra/27664.ts@HTTP Error 403: Forbidden Retry 3
+SKY CINEMA GREATS | HD@http://highroller.space:25461/live/myra/myra/27664.ts@HTTP Error 403: Forbidden Retry 3
+SKY CINEMA GREATS | SD@http://reseller.media:25461/live/myra/myra/27665.ts@HTTP Error 403: Forbidden Retry 3
+SKY CINEMA GREATS | SD@http://highroller.space:25461/live/myra/myra/27665.ts@HTTP Error 403: Forbidden Retry 3
+SKY CINEMA PREMIERE | HD@http://reseller.media:25461/live/myra/myra/27689.ts@HTTP Error 403: Forbidden Retry 3
+SKY CINEMA PREMIERE | HD@http://highroller.space:25461/live/myra/myra/27689.ts@HTTP Error 403: Forbidden Retry 3
+SKY CINEMA PREMIERE | SD@http://reseller.media:25461/live/myra/myra/27690.ts@HTTP Error 403: Forbidden Retry 3
+SKY CINEMA PREMIERE | SD@http://highroller.space:25461/live/myra/myra/27690.ts@HTTP Error 403: Forbidden Retry 3
+SKY CINEMA SCIFI HORROR | SD@http://reseller.media:25461/live/myra/myra/27668.ts@HTTP Error 403: Forbidden Retry 3
+SKY CINEMA SCIFI HORROR | SD@http://highroller.space:25461/live/myra/myra/27668.ts@HTTP Error 403: Forbidden Retry 3
+SKY CINEMA SELECT | HD@http://reseller.media:25461/live/myra/myra/27661.ts@HTTP Error 403: Forbidden Retry 3
+SKY CINEMA SELECT | HD@http://highroller.space:25461/live/myra/myra/27661.ts@HTTP Error 403: Forbidden Retry 3
+SKY CINEMA SELECT | SD@http://reseller.media:25461/live/myra/myra/27660.ts@HTTP Error 403: Forbidden Retry 3
+SKY CINEMA SELECT | SD@http://reseller.media:25461/live/myra/myra/27662.ts@HTTP Error 403: Forbidden Retry 3
+SKY CINEMA SELECT | SD@http://highroller.space:25461/live/myra/myra/27660.ts@HTTP Error 403: Forbidden Retry 3
+SKY CINEMA SELECT | SD@http://highroller.space:25461/live/myra/myra/27662.ts@HTTP Error 403: Forbidden Retry 3
+SKY COMEDY | HD@http://reseller.media:25461/live/myra/myra/27676.ts@timed out Retry 3
+SKY COMEDY | HD@http://highroller.space:25461/live/myra/myra/27676.ts@HTTP Error 403: Forbidden Retry 3
 SKY LIVING | SD@http://p4.giffy.be:8080/live/dennis/dennis/30489.ts@OK 200 Retry 1
 SKY LIVING | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/82281.ts@HTTP Error 401: Unauthorized Retry 3
 SKY MOTOGP | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/82245.ts@HTTP Error 401: Unauthorized Retry 3
+SKY MOVIES ACTION | SD@http://reseller.media:25461/live/myra/myra/27680.ts@HTTP Error 403: Forbidden Retry 3
+SKY MOVIES ACTION | SD@http://highroller.space:25461/live/myra/myra/27680.ts@HTTP Error 403: Forbidden Retry 3
 SKY MOVIES ACTION | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/82295.ts@HTTP Error 401: Unauthorized Retry 3
 SKY MOVIES ACTION & ADVENTURE | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/82298.ts@HTTP Error 401: Unauthorized Retry 3
 SKY MOVIES ACTION & ADVENTURE | SD@http://p4.giffy.be:8080/live/dennis/dennis/30501.ts@OK 200 Retry 1
+SKY MOVIES ACTION&ADVENTURE | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/8252.ts@OK Error: same url Retry 1
+SKY MOVIES ACTION&ADVENTURE | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/8252.ts@OK Error: same url Retry 1
 SKY MOVIES COMEDY | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/82293.ts@HTTP Error 401: Unauthorized Retry 3
-SKY MOVIES COMEDY | SD@http://p4.giffy.be:8080/live/dennis/dennis/30500.ts@HTTP Error 403: Forbidden Retry 3
+SKY MOVIES COMEDY | SD@http://p4.giffy.be:8080/live/dennis/dennis/30500.ts@OK 200 Retry 1
+SKY MOVIES COMEDY | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/8242.ts@OK Error: same url Retry 1
+SKY MOVIES COMEDY | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/8242.ts@OK Error: same url Retry 1
+SKY MOVIES CRIME & THRILLER | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/8251.ts@OK Error: same url Retry 1
+SKY MOVIES CRIME & THRILLER | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/8251.ts@OK Error: same url Retry 1
 SKY MOVIES CRIME &THRILLER | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/82290.ts@HTTP Error 401: Unauthorized Retry 3
 SKY MOVIES CRIMES & THRILLER | SD@http://p4.giffy.be:8080/live/dennis/dennis/30499.ts@OK 200 Retry 1
+SKY MOVIES DISNEY | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/8241.ts@OK Error: same url Retry 2
+SKY MOVIES DISNEY | HD@http://s1.iptvforver.com:8000/live/suisse/suisse/8241.ts@HTTP Error 502: Bad Gateway Retry 3
 SKY MOVIES DISNEY | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/82280.ts@HTTP Error 401: Unauthorized Retry 3
 SKY MOVIES DISNEY | SD@http://p4.giffy.be:8080/live/dennis/dennis/30498.ts@OK 200 Retry 1
 SKY MOVIES DRAMA | SD@http://p4.giffy.be:8080/live/dennis/dennis/30497.ts@OK 200 Retry 1
+SKY MOVIES DRAMA | SD@http://reseller.media:25461/live/myra/myra/27671.ts@OK 200 Retry 1
+SKY MOVIES DRAMA | SD@http://highroller.space:25461/live/myra/myra/27671.ts@OK 200 Retry 1
+SKY MOVIES DRAMA | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/8250.ts@OK Error: same url Retry 1
+SKY MOVIES DRAMA | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/8250.ts@OK Error: same url Retry 2
 SKY MOVIES DRAMA & ROMANCE | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/82291.ts@HTTP Error 401: Unauthorized Retry 3
 SKY MOVIES DRAMA & ROMANCE | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/82292.ts@HTTP Error 401: Unauthorized Retry 3
 SKY MOVIES FAMILY | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/82294.ts@HTTP Error 401: Unauthorized Retry 3
 SKY MOVIES FAMILY | SD@http://p4.giffy.be:8080/live/dennis/dennis/30496.ts@OK 200 Retry 1
+SKY MOVIES FAMILY | SD@http://reseller.media:25461/live/myra/myra/27681.ts@HTTP Error 403: Forbidden Retry 3
+SKY MOVIES FAMILY | SD@http://highroller.space:25461/live/myra/myra/27681.ts@HTTP Error 403: Forbidden Retry 3
+SKY MOVIES FAMILY | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/8249.ts@OK Error: same url Retry 1
+SKY MOVIES FAMILY | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/8249.ts@OK Error: same url Retry 1
 SKY MOVIES GREATS | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/82287.ts@HTTP Error 401: Unauthorized Retry 3
 SKY MOVIES HITS SHOWCASE | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/82297.ts@HTTP Error 401: Unauthorized Retry 3
+SKY MOVIES LIVING | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/8248.ts@OK Error: same url Retry 2
+SKY MOVIES LIVING | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/8248.ts@OK Error: same url Retry 1
+SKY MOVIES MODERN GRATES | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/8247.ts@OK Error: same url Retry 2
+SKY MOVIES MODERN GRATES | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/8247.ts@OK Error: same url Retry 2
 SKY MOVIES MODERN GREATS | SD@http://p4.giffy.be:8080/live/dennis/dennis/30495.ts@OK 200 Retry 1
 SKY MOVIES PREMIER | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/82300.ts@HTTP Error 401: Unauthorized Retry 3
 SKY MOVIES PREMIERE | SD@http://p4.giffy.be:8080/live/dennis/dennis/30494.ts@OK 200 Retry 1
+SKY MOVIES PREMIERE | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/8246.ts@OK Error: same url Retry 3
+SKY MOVIES PREMIERE | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/8246.ts@OK Error: same url Retry 1
 SKY MOVIES PREMIERE | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/82299.ts@HTTP Error 401: Unauthorized Retry 3
 SKY MOVIES SELECT | HD@http://p4.giffy.be:8080/live/dennis/dennis/30492.ts@OK 200 Retry 1
+SKY MOVIES SELECT | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/8245.ts@OK Error: same url Retry 2
+SKY MOVIES SELECT | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/8245.ts@OK Error: same url Retry 1
 SKY MOVIES SELECT | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/82286.ts@HTTP Error 401: Unauthorized Retry 3
 SKY MOVIES SHOWCASE | SD@http://p4.giffy.be:8080/live/dennis/dennis/30491.ts@OK 200 Retry 1
+SKY MOVIES SHOWCASE | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/8244.ts@OK Error: same url Retry 2
+SKY MOVIES SHOWCASE | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/8244.ts@OK Error: same url Retry 1
+SKY MOVIES SYFI-HORROR | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/8243.ts@OK Error: same url Retry 1
+SKY MOVIES SYFI-HORROR | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/8243.ts@OK Error: same url Retry 1
 SKY MOVIES THRILLER | SD@http://p4.giffy.be:8080/live/dennis/dennis/30490.ts@OK 200 Retry 1
+SKY MOVIES THRILLER | SD@http://reseller.media:25461/live/myra/myra/27674.ts@HTTP Error 403: Forbidden Retry 3
+SKY MOVIES THRILLER | SD@http://highroller.space:25461/live/myra/myra/27674.ts@HTTP Error 403: Forbidden Retry 3
+SKY MUTV | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/8174.ts@OK Error: same url Retry 1
+SKY MUTV | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/8174.ts@OK Error: same url Retry 1
 SKY NEWS | SD@http://p4.giffy.be:8080/live/dennis/dennis/31976.ts@OK 200 Retry 1
+SKY NEWS | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/8176.ts@OK Error: same url Retry 2
+SKY NEWS | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/8176.ts@OK Error: same url Retry 1
 SKY ONE | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/82304.ts@HTTP Error 401: Unauthorized Retry 3
+SKY ONE | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/8175.ts@OK Error: same url Retry 1
+SKY ONE | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/8175.ts@OK Error: same url Retry 1
 SKY SPORTS ACTION | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/82349.ts@HTTP Error 401: Unauthorized Retry 3
+SKY SPORTS ACTION | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/8202.ts@OK Error: same url Retry 1
+SKY SPORTS ACTION | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/8202.ts@OK Error: same url Retry 1
+SKY SPORTS ACTION FULLHD | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/8201.ts@OK Error: same url Retry 1
+SKY SPORTS ACTION FULLHD | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/8201.ts@OK Error: same url Retry 1
 SKY SPORTS ARENA | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/82348.ts@HTTP Error 401: Unauthorized Retry 3
+SKY SPORTS CRICKET | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/8197.ts@OK Error: same url Retry 1
+SKY SPORTS CRICKET | HD@http://s1.iptvforver.com:8000/live/suisse/suisse/8197.ts@OK Error: same url Retry 2
 SKY SPORTS CRICKET | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/82347.ts@HTTP Error 401: Unauthorized Retry 3
+SKY SPORTS CRICKET | SD@http://reseller.media:25461/live/myra/myra/28278.ts@HTTP Error 403: Forbidden Retry 3
 SKY SPORTS CRICKET | SD@http://highroller.space:25461/live/myra/myra/28278.ts@HTTP Error 403: Forbidden Retry 3
+SKY SPORTS CRICKET FULLHD | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/8196.ts@OK Error: same url Retry 2
+SKY SPORTS CRICKET FULLHD | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/8196.ts@OK Error: same url Retry 1
+SKY SPORTS DARTS FULLHD | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/8198.ts@OK Error: same url Retry 2
+SKY SPORTS DARTS FULLHD | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/8198.ts@OK Error: same url Retry 1
 SKY SPORTS F1 | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/82345.ts@HTTP Error 401: Unauthorized Retry 3
+SKY SPORTS F1 | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/8190.ts@OK Error: same url Retry 1
+SKY SPORTS F1 | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/8190.ts@OK Error: same url Retry 1
 SKY SPORTS FOOTBALL | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/82352.ts@HTTP Error 401: Unauthorized Retry 3
 SKY SPORTS GOLF | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/82346.ts@HTTP Error 401: Unauthorized Retry 3
+SKY SPORTS GOLF | SD@http://reseller.media:25461/live/myra/myra/28269.ts@HTTP Error 403: Forbidden Retry 3
+SKY SPORTS GOLF | SD@http://reseller.media:25461/live/myra/myra/28270.ts@HTTP Error 403: Forbidden Retry 3
 SKY SPORTS GOLF | SD@http://highroller.space:25461/live/myra/myra/28269.ts@HTTP Error 403: Forbidden Retry 3
 SKY SPORTS GOLF | SD@http://highroller.space:25461/live/myra/myra/28270.ts@HTTP Error 403: Forbidden Retry 3
+SKY SPORTS GOLF | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/8189.ts@OK Error: same url Retry 1
+SKY SPORTS GOLF | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/8189.ts@OK Error: same url Retry 1
+SKY SPORTS GOLF FHD | SD@http://reseller.media:25461/live/myra/myra/28271.ts@HTTP Error 403: Forbidden Retry 3
 SKY SPORTS GOLF FHD | SD@http://highroller.space:25461/live/myra/myra/28271.ts@HTTP Error 403: Forbidden Retry 3
+SKY SPORTS GOLF FULLHD | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/8195.ts@OK Error: same url Retry 2
+SKY SPORTS GOLF FULLHD | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/8195.ts@OK Error: same url Retry 1
 SKY SPORTS MAIN EVENT | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/82353.ts@HTTP Error 401: Unauthorized Retry 3
-SKY SPORTS MAIN EVENT | SD@http://highroller.space:25461/live/myra/myra/28289.ts@HTTP Error 403: Forbidden Retry 3
-SKY SPORTS MAINEVENT | SD@http://highroller.space:25461/live/myra/myra/28288.ts@OK 200 Retry 1
+SKY SPORTS MAIN EVENT | SD@http://reseller.media:25461/live/myra/myra/28289.ts@OK 200 Retry 1
+SKY SPORTS MAIN EVENT | SD@http://highroller.space:25461/live/myra/myra/28289.ts@OK 200 Retry 1
+SKY SPORTS MAIN EVENT | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/8194.ts@OK Error: same url Retry 1
+SKY SPORTS MAIN EVENT | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/8194.ts@OK Error: same url Retry 1
+SKY SPORTS MAIN EVENT FULLHD | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/8193.ts@OK Error: same url Retry 1
+SKY SPORTS MAIN EVENT FULLHD | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/8193.ts@OK Error: same url Retry 3
+SKY SPORTS MAINEVENT | SD@http://reseller.media:25461/live/myra/myra/28288.ts@HTTP Error 403: Forbidden Retry 3
+SKY SPORTS MAINEVENT | SD@http://highroller.space:25461/live/myra/myra/28288.ts@HTTP Error 403: Forbidden Retry 3
 SKY SPORTS MIX | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/82354.ts@HTTP Error 401: Unauthorized Retry 3
+SKY SPORTS MIX | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/8200.ts@OK Error: same url Retry 1
+SKY SPORTS MIX | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/8200.ts@OK Error: same url Retry 1
+SKY SPORTS MIX FULLHD | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/8199.ts@OK Error: same url Retry 2
+SKY SPORTS MIX FULLHD | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/8199.ts@OK Error: same url Retry 1
 SKY SPORTS NEWS | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/82355.ts@HTTP Error 401: Unauthorized Retry 3
+SKY SPORTS NEWS | SD@http://reseller.media:25461/live/myra/myra/28295.ts@HTTP Error 403: Forbidden Retry 3
 SKY SPORTS NEWS | SD@http://highroller.space:25461/live/myra/myra/28295.ts@HTTP Error 403: Forbidden Retry 3
+SKY SPORTS NEWS | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/8203.ts@OK Error: same url Retry 1
+SKY SPORTS NEWS | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/8203.ts@OK Error: same url Retry 1
 SKY SPORTS PREMIER LEAGUE | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/82351.ts@HTTP Error 401: Unauthorized Retry 3
+SKY SPORTS PREMIER LEAGUE | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/8192.ts@OK Error: same url Retry 1
+SKY SPORTS PREMIER LEAGUE | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/8192.ts@OK Error: same url Retry 2
+SKY SPORTS PREMIER LEAGUE FULLHD | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/8191.ts@OK Error: same url Retry 3
+SKY SPORTS PREMIER LEAGUE FULLHD | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/8191.ts@OK Error: same url Retry 2
 SKY SPORTS PREMIER LEAGUE IRELAND | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/82350.ts@HTTP Error 401: Unauthorized Retry 3
 SKY THRILLER | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/82289.ts@HTTP Error 401: Unauthorized Retry 3
 SKY TWO | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/82303.ts@HTTP Error 401: Unauthorized Retry 3
+SKYCINEMAFAMILY | SD@http://reseller.media:25461/live/myra/myra/27683.ts@HTTP Error 401: Unauthorized Retry 3
+SKYCINEMAFAMILY | SD@http://highroller.space:25461/live/myra/myra/27683.ts@HTTP Error 401: Unauthorized Retry 3
+SKYCINEMAFAMILYHD | SD@http://reseller.media:25461/live/myra/myra/27682.ts@HTTP Error 401: Unauthorized Retry 3
+SKYCINEMAFAMILYHD | SD@http://highroller.space:25461/live/myra/myra/27682.ts@HTTP Error 401: Unauthorized Retry 3
+SKYCINEMAPREMIERE | SD@http://reseller.media:25461/live/myra/myra/27688.ts@HTTP Error 401: Unauthorized Retry 3
+SKYCINEMAPREMIERE | SD@http://highroller.space:25461/live/myra/myra/27688.ts@HTTP Error 401: Unauthorized Retry 3
 SKYSELECT | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/82285.ts@HTTP Error 401: Unauthorized Retry 3
 SKYSHOWCASE | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/82296.ts@HTTP Error 401: Unauthorized Retry 3
-SKYSPORTSACTIONFHD | SD@http://highroller.space:25461/live/myra/myra/28272.ts@OK 200 Retry 1
-SKYSPORTSACTIONHD | SD@http://highroller.space:25461/live/myra/myra/28275.ts@HTTP Error 403: Forbidden Retry 3
-SKYSPORTSACTIONSD | SD@http://highroller.space:25461/live/myra/myra/28273.ts@HTTP Error 403: Forbidden Retry 3
-SKYSPORTSAREANAFHD | SD@http://highroller.space:25461/live/myra/myra/28285.ts@HTTP Error 403: Forbidden Retry 3
-SKYSPORTSARENA | SD@http://highroller.space:25461/live/myra/myra/28283.ts@HTTP Error 403: Forbidden Retry 3
-SKYSPORTSARENAHD | SD@http://highroller.space:25461/live/myra/myra/28284.ts@HTTP Error 403: Forbidden Retry 3
-SKYSPORTSCRICKET | SD@http://highroller.space:25461/live/myra/myra/28277.ts@OK 200 Retry 1
-SKYSPORTSCRICKETFHD | SD@http://highroller.space:25461/live/myra/myra/34114.ts@HTTP Error 403: Forbidden Retry 3
-SKYSPORTSCRICKETSD | SD@http://highroller.space:25461/live/myra/myra/28276.ts@OK 200 Retry 1
-SKYSPORTSF1FHD | SD@http://highroller.space:25461/live/myra/myra/34119.ts@HTTP Error 403: Forbidden Retry 3
-SKYSPORTSF1HD | SD@http://highroller.space:25461/live/myra/myra/28266.ts@HTTP Error 403: Forbidden Retry 3
-SKYSPORTSF1HD | SD@http://highroller.space:25461/live/myra/myra/28268.ts@HTTP Error 403: Forbidden Retry 3
-SKYSPORTSFOOTBALL | SD@http://highroller.space:25461/live/myra/myra/28281.ts@OK 200 Retry 1
-SKYSPORTSFOOTBALL | SD@http://highroller.space:25461/live/myra/myra/28282.ts@HTTP Error 403: Forbidden Retry 3
-SKYSPORTSFOOTBALLFHD | SD@http://highroller.space:25461/live/myra/myra/34113.ts@HTTP Error 403: Forbidden Retry 3
-SKYSPORTSFOOTBALLSD | SD@http://highroller.space:25461/live/myra/myra/28279.ts@OK 200 Retry 1
-SKYSPORTSMAINEVENTFHD | SD@http://highroller.space:25461/live/myra/myra/28286.ts@OK 200 Retry 1
-SKYSPORTSMAINEVENTHD | SD@http://highroller.space:25461/live/myra/myra/28287.ts@HTTP Error 403: Forbidden Retry 3
-SKYSPORTSMIXFHD | SD@http://highroller.space:25461/live/myra/myra/28290.ts@OK 200 Retry 1
-SKYSPORTSMIXHD | SD@http://highroller.space:25461/live/myra/myra/28292.ts@OK 200 Retry 1
-SKYSPORTSNEWS | SD@http://highroller.space:25461/live/myra/myra/28296.ts@HTTP Error 403: Forbidden Retry 3
-SKYSPORTSNEWSSD | SD@http://highroller.space:25461/live/myra/myra/28293.ts@HTTP Error 403: Forbidden Retry 3
-SKYSPORTSNEWSSD | SD@http://highroller.space:25461/live/myra/myra/28294.ts@HTTP Error 403: Forbidden Retry 3
-SKYSPORTSPREMIERLEAGUE | SD@http://highroller.space:25461/live/myra/myra/28264.ts@HTTP Error 403: Forbidden Retry 3
-SKYSPORTSPREMIERLEAGUEFHD | SD@http://highroller.space:25461/live/myra/myra/34115.ts@HTTP Error 403: Forbidden Retry 3
-SKYSPORTSPREMIERLEAGUEHD | SD@http://highroller.space:25461/live/myra/myra/28262.ts@OK 200 Retry 1
-SKYSPORTSPREMIERLEAGUEHD | SD@http://highroller.space:25461/live/myra/myra/28265.ts@HTTP Error 403: Forbidden Retry 3
-SKYSPORTSPREMIERLEAGUESD | SD@http://highroller.space:25461/live/myra/myra/28263.ts@HTTP Error 403: Forbidden Retry 3
+SKYSPORTSACTIONFHD | SD@http://reseller.media:25461/live/myra/myra/28272.ts@HTTP Error 401: Unauthorized Retry 3
+SKYSPORTSACTIONFHD | SD@http://highroller.space:25461/live/myra/myra/28272.ts@HTTP Error 401: Unauthorized Retry 3
+SKYSPORTSACTIONHD | SD@http://reseller.media:25461/live/myra/myra/28275.ts@HTTP Error 401: Unauthorized Retry 3
+SKYSPORTSACTIONHD | SD@http://highroller.space:25461/live/myra/myra/28275.ts@HTTP Error 401: Unauthorized Retry 3
+SKYSPORTSACTIONSD | SD@http://reseller.media:25461/live/myra/myra/28273.ts@HTTP Error 401: Unauthorized Retry 3
+SKYSPORTSACTIONSD | SD@http://highroller.space:25461/live/myra/myra/28273.ts@HTTP Error 401: Unauthorized Retry 3
+SKYSPORTSAREANAFHD | SD@http://reseller.media:25461/live/myra/myra/28285.ts@HTTP Error 401: Unauthorized Retry 3
+SKYSPORTSAREANAFHD | SD@http://highroller.space:25461/live/myra/myra/28285.ts@HTTP Error 401: Unauthorized Retry 3
+SKYSPORTSARENA | SD@http://reseller.media:25461/live/myra/myra/28283.ts@HTTP Error 401: Unauthorized Retry 3
+SKYSPORTSARENA | SD@http://highroller.space:25461/live/myra/myra/28283.ts@HTTP Error 401: Unauthorized Retry 3
+SKYSPORTSARENAHD | SD@http://reseller.media:25461/live/myra/myra/28284.ts@HTTP Error 401: Unauthorized Retry 3
+SKYSPORTSARENAHD | SD@http://highroller.space:25461/live/myra/myra/28284.ts@HTTP Error 401: Unauthorized Retry 3
+SKYSPORTSCRICKET | SD@http://reseller.media:25461/live/myra/myra/28277.ts@HTTP Error 401: Unauthorized Retry 3
+SKYSPORTSCRICKET | SD@http://highroller.space:25461/live/myra/myra/28277.ts@<urlopen error timed out> Retry 3
+SKYSPORTSCRICKETFHD | SD@http://reseller.media:25461/live/myra/myra/34114.ts@<urlopen error timed out> Retry 3
+SKYSPORTSCRICKETFHD | SD@http://highroller.space:25461/live/myra/myra/34114.ts@<urlopen error timed out> Retry 3
+SKYSPORTSCRICKETSD | SD@http://reseller.media:25461/live/myra/myra/28276.ts@<urlopen error timed out> Retry 3
+SKYSPORTSCRICKETSD | SD@http://highroller.space:25461/live/myra/myra/28276.ts@<urlopen error timed out> Retry 3
+SKYSPORTSF1FHD | SD@http://reseller.media:25461/live/myra/myra/34119.ts@<urlopen error timed out> Retry 3
+SKYSPORTSF1FHD | SD@http://highroller.space:25461/live/myra/myra/34119.ts@<urlopen error timed out> Retry 3
+SKYSPORTSF1HD | SD@http://reseller.media:25461/live/myra/myra/28266.ts@<urlopen error timed out> Retry 3
+SKYSPORTSF1HD | SD@http://reseller.media:25461/live/myra/myra/28268.ts@<urlopen error timed out> Retry 3
+SKYSPORTSF1HD | SD@http://highroller.space:25461/live/myra/myra/28266.ts@<urlopen error timed out> Retry 3
+SKYSPORTSF1HD | SD@http://highroller.space:25461/live/myra/myra/28268.ts@<urlopen error timed out> Retry 3
+SKYSPORTSFOOTBALL | SD@http://reseller.media:25461/live/myra/myra/28281.ts@<urlopen error timed out> Retry 3
+SKYSPORTSFOOTBALL | SD@http://reseller.media:25461/live/myra/myra/28282.ts@<urlopen error timed out> Retry 3
+SKYSPORTSFOOTBALL | SD@http://highroller.space:25461/live/myra/myra/28281.ts@<urlopen error timed out> Retry 3
+SKYSPORTSFOOTBALL | SD@http://highroller.space:25461/live/myra/myra/28282.ts@<urlopen error timed out> Retry 3
+SKYSPORTSFOOTBALLFHD | SD@http://reseller.media:25461/live/myra/myra/34113.ts@<urlopen error timed out> Retry 3
+SKYSPORTSFOOTBALLFHD | SD@http://highroller.space:25461/live/myra/myra/34113.ts@<urlopen error timed out> Retry 3
+SKYSPORTSFOOTBALLSD | SD@http://reseller.media:25461/live/myra/myra/28279.ts@<urlopen error timed out> Retry 3
+SKYSPORTSFOOTBALLSD | SD@http://highroller.space:25461/live/myra/myra/28279.ts@<urlopen error timed out> Retry 3
+SKYSPORTSMAINEVENTFHD | SD@http://reseller.media:25461/live/myra/myra/28286.ts@<urlopen error timed out> Retry 3
+SKYSPORTSMAINEVENTFHD | SD@http://highroller.space:25461/live/myra/myra/28286.ts@<urlopen error timed out> Retry 3
+SKYSPORTSMAINEVENTHD | SD@http://reseller.media:25461/live/myra/myra/28287.ts@<urlopen error timed out> Retry 3
+SKYSPORTSMAINEVENTHD | SD@http://highroller.space:25461/live/myra/myra/28287.ts@<urlopen error timed out> Retry 3
+SKYSPORTSMIXFHD | SD@http://reseller.media:25461/live/myra/myra/28290.ts@<urlopen error timed out> Retry 3
+SKYSPORTSMIXFHD | SD@http://highroller.space:25461/live/myra/myra/28290.ts@<urlopen error timed out> Retry 3
+SKYSPORTSMIXHD | SD@http://reseller.media:25461/live/myra/myra/28292.ts@<urlopen error timed out> Retry 3
+SKYSPORTSMIXHD | SD@http://highroller.space:25461/live/myra/myra/28292.ts@<urlopen error timed out> Retry 3
+SKYSPORTSNEWS | SD@http://reseller.media:25461/live/myra/myra/28296.ts@<urlopen error timed out> Retry 3
+SKYSPORTSNEWS | SD@http://highroller.space:25461/live/myra/myra/28296.ts@<urlopen error timed out> Retry 3
+SKYSPORTSNEWSSD | SD@http://reseller.media:25461/live/myra/myra/28293.ts@<urlopen error timed out> Retry 3
+SKYSPORTSNEWSSD | SD@http://reseller.media:25461/live/myra/myra/28294.ts@<urlopen error timed out> Retry 3
+SKYSPORTSNEWSSD | SD@http://highroller.space:25461/live/myra/myra/28293.ts@<urlopen error timed out> Retry 3
+SKYSPORTSNEWSSD | SD@http://highroller.space:25461/live/myra/myra/28294.ts@<urlopen error timed out> Retry 3
+SKYSPORTSPREMIERLEAGUE | SD@http://reseller.media:25461/live/myra/myra/28264.ts@<urlopen error timed out> Retry 3
+SKYSPORTSPREMIERLEAGUE | SD@http://highroller.space:25461/live/myra/myra/28264.ts@<urlopen error timed out> Retry 3
+SKYSPORTSPREMIERLEAGUEFHD | SD@http://reseller.media:25461/live/myra/myra/34115.ts@<urlopen error timed out> Retry 3
+SKYSPORTSPREMIERLEAGUEFHD | SD@http://highroller.space:25461/live/myra/myra/34115.ts@<urlopen error timed out> Retry 3
+SKYSPORTSPREMIERLEAGUEHD | SD@http://reseller.media:25461/live/myra/myra/28262.ts@<urlopen error timed out> Retry 3
+SKYSPORTSPREMIERLEAGUEHD | SD@http://reseller.media:25461/live/myra/myra/28265.ts@<urlopen error timed out> Retry 3
+SKYSPORTSPREMIERLEAGUEHD | SD@http://highroller.space:25461/live/myra/myra/28262.ts@<urlopen error timed out> Retry 3
+SKYSPORTSPREMIERLEAGUEHD | SD@http://highroller.space:25461/live/myra/myra/28265.ts@<urlopen error timed out> Retry 3
+SKYSPORTSPREMIERLEAGUESD | SD@http://reseller.media:25461/live/myra/myra/28263.ts@<urlopen error timed out> Retry 3
+SKYSPORTSPREMIERLEAGUESD | SD@http://highroller.space:25461/live/myra/myra/28263.ts@<urlopen error timed out> Retry 3
 SONY MAX | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/82254.ts@HTTP Error 401: Unauthorized Retry 3
 SONY MOVIE | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/82251.ts@HTTP Error 401: Unauthorized Retry 3
+SONY MOVIES | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/8173.ts@OK Error: same url Retry 1
+SONY MOVIES | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/8173.ts@OK Error: same url Retry 1
 SONY SAB | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/82252.ts@HTTP Error 401: Unauthorized Retry 3
 STAR GOLD | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/82255.ts@HTTP Error 401: Unauthorized Retry 3
 STAR JALSHA | SD@http://p4.giffy.be:8080/live/dennis/dennis/30006.ts@HTTP Error 403: Forbidden Retry 3
@@ -239,13 +594,33 @@ TCM FILM | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/82307.ts@HTTP
 TLC | SD@http://p4.giffy.be:8080/live/dennis/dennis/30510.ts@OK 200 Retry 1
 TLC-IRELAND | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/82311.ts@HTTP Error 401: Unauthorized Retry 3
 TRAVEL | SD@http://p4.giffy.be:8080/live/dennis/dennis/30529.ts@OK 200 Retry 1
+TRAVEL CHANNEL | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/8171.ts@OK Error: same url Retry 1
+TRAVEL CHANNEL | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/8171.ts@OK Error: same url Retry 1
+TRUE ENTERTAINMENT | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/8170.ts@OK Error: same url Retry 1
+TRUE ENTERTAINMENT | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/8170.ts@OK Error: same url Retry 1
+TRUE MOVIES | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/8169.ts@OK Error: same url Retry 1
+TRUE MOVIES | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/8169.ts@OK Error: same url Retry 1
 TRUE MOVIES 1 | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/82263.ts@HTTP Error 401: Unauthorized Retry 3
+TRUE MOVIES 2 | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/8168.ts@OK Error: same url Retry 1
+TRUE MOVIES 2 | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/8168.ts@OK Error: same url Retry 1
 TRUE MOVIES 2 | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/82262.ts@HTTP Error 401: Unauthorized Retry 3
 TV5 | SD@http://p4.giffy.be:8080/live/dennis/dennis/30508.ts@OK 200 Retry 1
 UNIVERSAL | SD@http://p4.giffy.be:8080/live/dennis/dennis/30564.ts@OK 200 Retry 1
+UNIVERSAL | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/8167.ts@OK Error: same url Retry 1
+UNIVERSAL | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/8167.ts@OK Error: same url Retry 1
+UTV | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/8155.ts@OK Error: same url Retry 2
+UTV | HD@http://s1.iptvforver.com:8000/live/suisse/suisse/8155.ts@OK Error: same url Retry 1
 VH1 | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/82243.ts@HTTP Error 401: Unauthorized Retry 3
 VIVA | SD@http://p4.giffy.be:8080/live/dennis/dennis/30509.ts@OK 200 Retry 1
+VIVA | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/8166.ts@OK Error: same url Retry 1
+VIVA | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/8166.ts@HTTP Error 502: Bad Gateway Retry 3
+WATCH | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/8165.ts@OK Error: same url Retry 2
+WATCH | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/8165.ts@OK Error: same url Retry 3
 WATCH | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/82312.ts@HTTP Error 401: Unauthorized Retry 3
+WWE NETWORK | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/8164.ts@OK Error: same url Retry 2
+WWE NETWORK | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/8164.ts@HTTP Error 502: Bad Gateway Retry 3
+YESTERDAY | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/8163.ts@OK Error: same url Retry 2
+YESTERDAY | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/8163.ts@OK Error: same url Retry 2
 ZEE BANGLA | SD@http://p4.giffy.be:8080/live/dennis/dennis/30002.ts@HTTP Error 403: Forbidden Retry 3
 ZEE CINEMA | SD@http://p4.giffy.be:8080/live/dennis/dennis/30251.ts@OK 200 Retry 1
 ZEE MARATHI | SD@http://p4.giffy.be:8080/live/dennis/dennis/31450.ts@OK 200 Retry 1
