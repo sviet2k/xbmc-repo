@@ -1,622 +1,128 @@
-13 EME RUE | SD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5682.ts@HTTP Error 401: Unauthorized Retry 3
-13E RUE | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/80570.ts@HTTP Error 401: Unauthorized Retry 3
-13EME RUE | HD@http://89.38.98.85:8080/live/ali01/ali01/8092.ts@HTTP Error 401: Unauthorized Retry 3
-13EME RUE | HD@http://89.38.98.85:8080/live/salam/salam/8092.ts@HTTP Error 401: Unauthorized Retry 3
-13EME RUE | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/7864.ts@OK 200 Retry 1
-13EME RUE | HD@http://s1.iptvforver.com:8000/live/suisse/suisse/7864.ts@OK 200 Retry 1
-13EME RUE FHD | SD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5730.ts@HTTP Error 401: Unauthorized Retry 3
-6 TER | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/80569.ts@HTTP Error 401: Unauthorized Retry 3
-6TER | HD@http://89.38.98.85:8080/live/ali01/ali01/8091.ts@HTTP Error 401: Unauthorized Retry 3
-6TER | HD@http://89.38.98.85:8080/live/salam/salam/8091.ts@HTTP Error 401: Unauthorized Retry 3
-6TER | HD@http://p4.giffy.be:8080/live/dennis/dennis/31762.ts@OK 200 Retry 1
-6TER | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/7868.ts@OK 200 Retry 1
-6TER | HD@http://s1.iptvforver.com:8000/live/suisse/suisse/7868.ts@OK 200 Retry 1
-6TER | HD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5681.ts@HTTP Error 401: Unauthorized Retry 3
-A LA CARTE 1 | HD@http://89.38.98.85:8080/live/ali01/ali01/8090.ts@HTTP Error 401: Unauthorized Retry 3
-A LA CARTE 1 | HD@http://89.38.98.85:8080/live/salam/salam/8090.ts@HTTP Error 401: Unauthorized Retry 3
-A LA CARTE 1 | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/80568.ts@HTTP Error 401: Unauthorized Retry 3
-A LA CARTE 2 | HD@http://89.38.98.85:8080/live/ali01/ali01/8089.ts@HTTP Error 401: Unauthorized Retry 3
-A LA CARTE 2 | HD@http://89.38.98.85:8080/live/salam/salam/8089.ts@HTTP Error 401: Unauthorized Retry 3
-A LA CARTE 2 | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/80567.ts@HTTP Error 401: Unauthorized Retry 3
-A LA CARTE 3 | HD@http://89.38.98.85:8080/live/ali01/ali01/8088.ts@HTTP Error 401: Unauthorized Retry 3
-A LA CARTE 3 | HD@http://89.38.98.85:8080/live/salam/salam/8088.ts@HTTP Error 401: Unauthorized Retry 3
-A LA CARTE 3 | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/80566.ts@HTTP Error 401: Unauthorized Retry 3
-A LA CARTE 4 | HD@http://89.38.98.85:8080/live/ali01/ali01/8087.ts@HTTP Error 401: Unauthorized Retry 3
-A LA CARTE 4 | HD@http://89.38.98.85:8080/live/salam/salam/8087.ts@HTTP Error 401: Unauthorized Retry 3
-A LA CARTE 4 | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/80565.ts@HTTP Error 401: Unauthorized Retry 3
-A LA CARTE 5 | HD@http://89.38.98.85:8080/live/ali01/ali01/8086.ts@HTTP Error 401: Unauthorized Retry 3
-A LA CARTE 5 | HD@http://89.38.98.85:8080/live/salam/salam/8086.ts@HTTP Error 401: Unauthorized Retry 3
-A LA CARTE 5 | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/80564.ts@HTTP Error 401: Unauthorized Retry 3
-A LA CARTE 6 | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/80563.ts@HTTP Error 401: Unauthorized Retry 3
-A LA CARTE 7 | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/80562.ts@HTTP Error 401: Unauthorized Retry 3
-AB MOTEURS | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/7846.ts@OK 200 Retry 1
-AB MOTEURS | HD@http://s1.iptvforver.com:8000/live/suisse/suisse/7846.ts@HTTP Error 502: Bad Gateway Retry 3
-AB1 | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/80561.ts@HTTP Error 401: Unauthorized Retry 3
-AB1 | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/7845.ts@OK 200 Retry 3
-AB1 | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/7845.ts@OK 200 Retry 1
-AB1 FHD | SD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5729.ts@HTTP Error 401: Unauthorized Retry 3
-AB3 | HD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5728.ts@HTTP Error 401: Unauthorized Retry 3
-AB3 | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/7856.ts@OK 200 Retry 2
-AB3 | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/7856.ts@OK 200 Retry 2
-ACTION | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/7862.ts@HTTP Error 502: Bad Gateway Retry 3
-ACTION | HD@http://s1.iptvforver.com:8000/live/suisse/suisse/7862.ts@OK 200 Retry 3
-ACTION | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/80560.ts@HTTP Error 401: Unauthorized Retry 3
-ALSACE 20 | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/7837.ts@OK 200 Retry 1
-ALSACE 20 | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/7837.ts@HTTP Error 502: Bad Gateway Retry 3
-ALSACE 20 | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/80559.ts@HTTP Error 401: Unauthorized Retry 3
-ANIMAUX | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/7839.ts@HTTP Error 502: Bad Gateway Retry 3
-ANIMAUX | HD@http://s1.iptvforver.com:8000/live/suisse/suisse/7839.ts@HTTP Error 502: Bad Gateway Retry 3
-ANIMAUX | HD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5680.ts@HTTP Error 401: Unauthorized Retry 3
-ANIMAUX | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/80558.ts@HTTP Error 401: Unauthorized Retry 3
-ANTENNE CENTRE | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/80557.ts@HTTP Error 401: Unauthorized Retry 3
-ANTENNE REUNION | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/80556.ts@HTTP Error 401: Unauthorized Retry 3
-ARTE | HD@http://89.38.98.85:8080/live/ali01/ali01/8085.ts@HTTP Error 401: Unauthorized Retry 3
-ARTE | HD@http://89.38.98.85:8080/live/salam/salam/8085.ts@HTTP Error 401: Unauthorized Retry 3
-ARTE | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/7873.ts@OK 200 Retry 3
-ARTE | HD@http://s1.iptvforver.com:8000/live/suisse/suisse/7873.ts@HTTP Error 502: Bad Gateway Retry 3
-ARTE | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/80555.ts@HTTP Error 401: Unauthorized Retry 3
-BABY TV | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/7791.ts@HTTP Error 502: Bad Gateway Retry 3
-BABY TV | HD@http://s1.iptvforver.com:8000/live/suisse/suisse/7791.ts@HTTP Error 502: Bad Gateway Retry 3
-BABY TV | SD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5679.ts@HTTP Error 401: Unauthorized Retry 3
-BEIN 2 | SD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5429.ts@HTTP Error 401: Unauthorized Retry 3
-BEIN 3 | SD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5428.ts@HTTP Error 401: Unauthorized Retry 3
-BEIN 4 | SD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5427.ts@HTTP Error 401: Unauthorized Retry 3
-BEIN 5 | SD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5426.ts@HTTP Error 401: Unauthorized Retry 3
-BEIN 6 | SD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5425.ts@HTTP Error 401: Unauthorized Retry 3
-BEIN 7 | SD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5424.ts@HTTP Error 401: Unauthorized Retry 3
-BEIN 8 | SD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5423.ts@HTTP Error 401: Unauthorized Retry 3
-BEIN SPORT HD14 | SD@http://89.38.98.85:8080/live/ali01/ali01/2555.ts@HTTP Error 401: Unauthorized Retry 3
-BEIN SPORT HD15 | SD@http://89.38.98.85:8080/live/ali01/ali01/4763.ts@HTTP Error 401: Unauthorized Retry 3
-BEIN SPORT HD16 | SD@http://89.38.98.85:8080/live/ali01/ali01/4762.ts@HTTP Error 401: Unauthorized Retry 3
-BEIN SPORTS 1 | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/7781.ts@OK 200 Retry 1
-BEIN SPORTS 1 | HD@http://s1.iptvforver.com:8000/live/suisse/suisse/7781.ts@OK 200 Retry 1
-BEIN SPORTS 1 | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/80554.ts@HTTP Error 401: Unauthorized Retry 3
-BEIN SPORTS 1 | HD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5678.ts@HTTP Error 401: Unauthorized Retry 3
-BEIN SPORTS 2 | HD@http://89.38.98.85:8080/live/ali01/ali01/8084.ts@HTTP Error 401: Unauthorized Retry 3
-BEIN SPORTS 2 | HD@http://89.38.98.85:8080/live/salam/salam/8084.ts@HTTP Error 401: Unauthorized Retry 3
-BEIN SPORTS 2 | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/7780.ts@OK 200 Retry 2
-BEIN SPORTS 2 | HD@http://s1.iptvforver.com:8000/live/suisse/suisse/7780.ts@OK 200 Retry 1
-BEIN SPORTS 2 | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/80553.ts@HTTP Error 401: Unauthorized Retry 3
-BEIN SPORTS 2 | HD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5677.ts@HTTP Error 401: Unauthorized Retry 3
-BEIN SPORTS 3 | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/7779.ts@OK 200 Retry 2
-BEIN SPORTS 3 | HD@http://s1.iptvforver.com:8000/live/suisse/suisse/7779.ts@OK 200 Retry 1
-BEIN SPORTS 3 | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/80552.ts@HTTP Error 401: Unauthorized Retry 3
-BEIN SPORTS 3 | HD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5676.ts@HTTP Error 401: Unauthorized Retry 3
-BEIN SPORTS MAX 10 | SD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5675.ts@HTTP Error 401: Unauthorized Retry 3
-BEIN SPORTS MAX 7 | SD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5674.ts@HTTP Error 401: Unauthorized Retry 3
-BEIN SPORTS MAX 8 | SD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5673.ts@HTTP Error 401: Unauthorized Retry 3
-BEIN SPORTS MAX 9 | SD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5672.ts@HTTP Error 401: Unauthorized Retry 3
-BEIN-SPORT-1 | HD@http://classeiptv.es:25300/live/mmesebtinoufissa/6bKStQi1b9/14786.ts@<urlopen error timed out> Retry 3
-BEIN-SPORT-2 | HD@http://classeiptv.es:25300/live/mmesebtinoufissa/6bKStQi1b9/14785.ts@<urlopen error timed out> Retry 3
-BEIN-SPORT-3 | HD@http://classeiptv.es:25300/live/mmesebtinoufissa/6bKStQi1b9/14784.ts@<urlopen error timed out> Retry 3
-BEINSPORT 1 | SD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5430.ts@HTTP Error 401: Unauthorized Retry 3
-BEINSPORT 2HD | SD@http://p4.giffy.be:8080/live/dennis/dennis/31766.ts@OK 200 Retry 1
-BEINSPORT 3HD | SD@http://p4.giffy.be:8080/live/dennis/dennis/31765.ts@OK 200 Retry 2
-BERBERE JEUNESSE | SD@http://89.38.98.85:8080/live/ali01/ali01/8083.ts@HTTP Error 401: Unauthorized Retry 3
-BERBERE JEUNESSE | SD@http://89.38.98.85:8080/live/salam/salam/8083.ts@HTTP Error 401: Unauthorized Retry 3
-BERBERE MUSIC | SD@http://89.38.98.85:8080/live/ali01/ali01/8082.ts@HTTP Error 401: Unauthorized Retry 3
-BERBERE MUSIC | SD@http://89.38.98.85:8080/live/salam/salam/8082.ts@HTTP Error 401: Unauthorized Retry 3
-BERBERE TELEVISION | SD@http://89.38.98.85:8080/live/ali01/ali01/8081.ts@HTTP Error 401: Unauthorized Retry 3
-BERBERE TELEVISION | SD@http://89.38.98.85:8080/live/salam/salam/8081.ts@HTTP Error 401: Unauthorized Retry 3
-BET | SD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5671.ts@HTTP Error 401: Unauthorized Retry 3
-BET ETOILE | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/7858.ts@OK 200 Retry 2
-BET ETOILE | HD@http://s1.iptvforver.com:8000/live/suisse/suisse/7858.ts@OK 200 Retry 3
-BFM BUSINESS | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/7827.ts@HTTP Error 502: Bad Gateway Retry 3
-BFM BUSINESS | HD@http://s1.iptvforver.com:8000/live/suisse/suisse/7827.ts@HTTP Error 502: Bad Gateway Retry 3
-BFM BUSINESS | SD@http://89.38.98.85:8080/live/ali01/ali01/8080.ts@HTTP Error 401: Unauthorized Retry 3
-BFM BUSINESS | SD@http://89.38.98.85:8080/live/salam/salam/8080.ts@HTTP Error 401: Unauthorized Retry 3
-BFM SPORT | SD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5670.ts@HTTP Error 401: Unauthorized Retry 3
-BFM TV | SD@http://89.38.98.85:8080/live/ali01/ali01/8079.ts@HTTP Error 401: Unauthorized Retry 3
-BFM TV | SD@http://89.38.98.85:8080/live/salam/salam/8079.ts@HTTP Error 401: Unauthorized Retry 3
-BFM TV | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/7826.ts@OK 200 Retry 3
-BFM TV | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/7826.ts@HTTP Error 403: Forbidden Retry 3
-BFM TV | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/80551.ts@HTTP Error 401: Unauthorized Retry 3
-BOING | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/7793.ts@HTTP Error 403: Forbidden Retry 3
-BOING | HD@http://s1.iptvforver.com:8000/live/suisse/suisse/7793.ts@HTTP Error 403: Forbidden Retry 3
-BOING | HD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5669.ts@HTTP Error 401: Unauthorized Retry 3
-BOING | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/80550.ts@HTTP Error 401: Unauthorized Retry 3
-BOING FRANCE | SD@http://89.38.98.85:8080/live/ali01/ali01/8078.ts@HTTP Error 401: Unauthorized Retry 3
-BOING FRANCE | SD@http://89.38.98.85:8080/live/salam/salam/8078.ts@HTTP Error 401: Unauthorized Retry 3
-BOOMERANG | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/80549.ts@HTTP Error 401: Unauthorized Retry 3
-BOOMERANG | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/7785.ts@HTTP Error 403: Forbidden Retry 3
-BOOMERANG | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/7785.ts@HTTP Error 403: Forbidden Retry 3
-BOOMERANG | SD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5668.ts@HTTP Error 401: Unauthorized Retry 3
-BOOMERANG FRANCE | HD@http://89.38.98.85:8080/live/salam/salam/8077.ts@HTTP Error 401: Unauthorized Retry 3
-BRAVA FHD | SD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5727.ts@HTTP Error 401: Unauthorized Retry 3
-C 8 | HD@http://89.38.98.85:8080/live/ali01/ali01/8076.ts@HTTP Error 401: Unauthorized Retry 3
-C 8 | HD@http://89.38.98.85:8080/live/salam/salam/8076.ts@HTTP Error 401: Unauthorized Retry 3
-C NEWS | SD@http://89.38.98.85:8080/live/ali01/ali01/8075.ts@HTTP Error 401: Unauthorized Retry 3
-C NEWS | SD@http://89.38.98.85:8080/live/salam/salam/8075.ts@HTTP Error 401: Unauthorized Retry 3
-C NEWS / ITELE | SD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5667.ts@HTTP Error 401: Unauthorized Retry 3
-C STAR | HD@http://89.38.98.85:8080/live/ali01/ali01/8074.ts@HTTP Error 401: Unauthorized Retry 3
-C STAR | HD@http://89.38.98.85:8080/live/salam/salam/8074.ts@HTTP Error 401: Unauthorized Retry 3
-C STAR | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/7871.ts@OK 200 Retry 1
-C STAR | HD@http://s1.iptvforver.com:8000/live/suisse/suisse/7871.ts@HTTP Error 502: Bad Gateway Retry 3
-C STAR | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/80548.ts@HTTP Error 401: Unauthorized Retry 3
-C8 | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/7870.ts@OK 200 Retry 2
-C8 | HD@http://s1.iptvforver.com:8000/live/suisse/suisse/7870.ts@OK 200 Retry 1
-C8 | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/80547.ts@HTTP Error 401: Unauthorized Retry 3
-CANAL | HD@http://89.38.98.85:8080/live/salam/salam/8070.ts@HTTP Error 401: Unauthorized Retry 3
-CANAL | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/80543.ts@HTTP Error 401: Unauthorized Retry 3
-CANAL | HD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5663.ts@HTTP Error 401: Unauthorized Retry 3
-CANAL CINEMA | HD@http://89.38.98.85:8080/live/salam/salam/8071.ts@<urlopen error timed out> Retry 3
-CANAL CINEMA | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/80546.ts@HTTP Error 401: Unauthorized Retry 3
-CANAL D | HD@http://89.38.98.85:8080/live/salam/salam/8073.ts@HTTP Error 401: Unauthorized Retry 3
-CANAL DECALE | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/80545.ts@HTTP Error 401: Unauthorized Retry 3
-CANAL FAMILY | HD@http://89.38.98.85:8080/live/salam/salam/8069.ts@HTTP Error 401: Unauthorized Retry 3
-CANAL FAMILY | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/80544.ts@HTTP Error 401: Unauthorized Retry 3
-CANAL J | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/80540.ts@HTTP Error 401: Unauthorized Retry 3
-CANAL J | SD@http://89.38.98.85:8080/live/salam/salam/8067.ts@HTTP Error 401: Unauthorized Retry 3
-CANAL PLAY 1 | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/80539.ts@HTTP Error 401: Unauthorized Retry 3
-CANAL PLAY 2 | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/80538.ts@HTTP Error 401: Unauthorized Retry 3
-CANAL PLAY 3 | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/80537.ts@HTTP Error 401: Unauthorized Retry 3
-CANAL PLAY 4 | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/80536.ts@HTTP Error 401: Unauthorized Retry 3
-CANAL PLAY 5 | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/80535.ts@HTTP Error 401: Unauthorized Retry 3
-CANAL PLAY 6 | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/80534.ts@HTTP Error 401: Unauthorized Retry 3
-CANAL PLAY 7 | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/80533.ts@HTTP Error 401: Unauthorized Retry 3
-CANAL SAVOIR | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/80532.ts@HTTP Error 401: Unauthorized Retry 3
-CANAL SERIE | HD@http://89.38.98.85:8080/live/salam/salam/8068.ts@HTTP Error 401: Unauthorized Retry 3
-CANAL SERIES | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/80542.ts@HTTP Error 401: Unauthorized Retry 3
-CANAL SERIES | HD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5662.ts@HTTP Error 401: Unauthorized Retry 3
-CANAL SPORT | HD@http://89.38.98.85:8080/live/salam/salam/8072.ts@HTTP Error 401: Unauthorized Retry 3
-CANAL SPORT | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/80541.ts@HTTP Error 401: Unauthorized Retry 3
-CANAL&NBSP | HD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5664.ts@HTTP Error 401: Unauthorized Retry 3
-CANAL&NBSP | HD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5666.ts@HTTP Error 401: Unauthorized Retry 3
-CANAL&NBSP | HD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5726.ts@HTTP Error 401: Unauthorized Retry 3
-CANAL&NBSP | SD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5665.ts@HTTP Error 401: Unauthorized Retry 3
-CANAL&NBSP | SD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5721.ts@HTTP Error 401: Unauthorized Retry 3
-CANAL&NBSP | SD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5722.ts@HTTP Error 401: Unauthorized Retry 3
-CANAL&NBSP | SD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5723.ts@HTTP Error 401: Unauthorized Retry 3
-CANAL&NBSP | SD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5724.ts@HTTP Error 401: Unauthorized Retry 3
-CANAL&NBSP | SD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5725.ts@HTTP Error 401: Unauthorized Retry 3
-CARTOON NETWORK | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/80531.ts@HTTP Error 401: Unauthorized Retry 3
-CARTOON NETWORK | SD@http://89.38.98.85:8080/live/salam/salam/8066.ts@HTTP Error 401: Unauthorized Retry 3
-CH | HD@http://89.38.98.85:8080/live/salam/salam/8065.ts@HTTP Error 401: Unauthorized Retry 3
-CHASSE & PECHE | SD@http://89.38.98.85:8080/live/salam/salam/7589.ts@HTTP Error 401: Unauthorized Retry 3
-CHERIE 25 | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/80529.ts@HTTP Error 401: Unauthorized Retry 3
-CINE CLASSIC | HD@http://89.38.98.85:8080/live/salam/salam/8062.ts@HTTP Error 401: Unauthorized Retry 3
-CINE CLASSIC | SD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5661.ts@HTTP Error 401: Unauthorized Retry 3
-CINE CLASSIC FHD | SD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5716.ts@HTTP Error 401: Unauthorized Retry 3
-CINE CLUB | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/80528.ts@HTTP Error 401: Unauthorized Retry 3
-CINE EMOTION | HD@http://89.38.98.85:8080/live/salam/salam/8061.ts@HTTP Error 401: Unauthorized Retry 3
-CINE EMOTION | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/80527.ts@HTTP Error 401: Unauthorized Retry 3
-CINE EMOTION | SD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5660.ts@HTTP Error 401: Unauthorized Retry 3
-CINE FAMIZ | HD@http://89.38.98.85:8080/live/salam/salam/8060.ts@HTTP Error 401: Unauthorized Retry 3
-CINE FAMIZ | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/80526.ts@HTTP Error 401: Unauthorized Retry 3
-CINE FAMIZ | SD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5659.ts@HTTP Error 401: Unauthorized Retry 3
-CINE FRISSON | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/80525.ts@HTTP Error 401: Unauthorized Retry 3
-CINE FRISSON | SD@http://89.38.98.85:8080/live/salam/salam/8064.ts@HTTP Error 401: Unauthorized Retry 3
-CINE FRISSON | SD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5658.ts@HTTP Error 401: Unauthorized Retry 3
-CINE FX | SD@http://89.38.98.85:8080/live/salam/salam/8059.ts@HTTP Error 401: Unauthorized Retry 3
-CINE FX | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/80524.ts@HTTP Error 401: Unauthorized Retry 3
-CINE FX | SD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5657.ts@HTTP Error 401: Unauthorized Retry 3
-CINE FX FHD | SD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5715.ts@HTTP Error 401: Unauthorized Retry 3
-CINE POLAR | SD@http://89.38.98.85:8080/live/salam/salam/8058.ts@HTTP Error 401: Unauthorized Retry 3
-CINE POLAR | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/80523.ts@HTTP Error 401: Unauthorized Retry 3
-CINE POLAR | SD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5656.ts@HTTP Error 401: Unauthorized Retry 3
-CINE PREMIER | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/80522.ts@HTTP Error 401: Unauthorized Retry 3
-CINE PREMIER | SD@http://89.38.98.85:8080/live/salam/salam/8063.ts@HTTP Error 401: Unauthorized Retry 3
-CINE&NBSP | SD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5717.ts@HTTP Error 401: Unauthorized Retry 3
-CINE&NBSP | SD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5718.ts@HTTP Error 401: Unauthorized Retry 3
-CINE&NBSP | SD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5719.ts@HTTP Error 401: Unauthorized Retry 3
-CINE&NBSP | SD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5720.ts@HTTP Error 401: Unauthorized Retry 3
-COMEDIE | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/7842.ts@timed out Retry 3
-COMEDIE | HD@http://s1.iptvforver.com:8000/live/suisse/suisse/7842.ts@OK 200 Retry 1
-COMEDIE | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/80521.ts@HTTP Error 401: Unauthorized Retry 3
-COMEDIE | SD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5655.ts@HTTP Error 401: Unauthorized Retry 3
-COMEDIE&NBSP | SD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5714.ts@HTTP Error 401: Unauthorized Retry 3
-CPAC | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/80520.ts@HTTP Error 401: Unauthorized Retry 3
-CSTAR FHD | SD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5713.ts@HTTP Error 401: Unauthorized Retry 3
-DISCOVERY | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/7834.ts@timed out Retry 3
-DISCOVERY | HD@http://s1.iptvforver.com:8000/live/suisse/suisse/7834.ts@OK 200 Retry 1
-DISCOVERY | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/80519.ts@HTTP Error 401: Unauthorized Retry 3
-DISCOVERY | HD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5654.ts@HTTP Error 401: Unauthorized Retry 3
-DISCOVERY CHANNEL | HD@http://89.38.98.85:8080/live/ali01/ali01/8056.ts@HTTP Error 401: Unauthorized Retry 3
-DISCOVERY CHANNEL | HD@http://89.38.98.85:8080/live/salam/salam/8056.ts@HTTP Error 401: Unauthorized Retry 3
-DISCOVERY INVESTIGATION | HD@http://89.38.98.85:8080/live/salam/salam/8055.ts@HTTP Error 401: Unauthorized Retry 3
-DISCOVERY SCIENCE | HD@http://89.38.98.85:8080/live/salam/salam/8054.ts@HTTP Error 401: Unauthorized Retry 3
-DISCOVERY SCIENCE | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/7833.ts@OK 200 Retry 2
-DISCOVERY SCIENCE | HD@http://s1.iptvforver.com:8000/live/suisse/suisse/7833.ts@OK 200 Retry 1
-DISCOVERY SCIENCE | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/80518.ts@HTTP Error 401: Unauthorized Retry 3
-DISCOVERY SCIENCE | HD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5653.ts@timed out Retry 3
-DISNEY CHANNEL | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/7795.ts@OK 200 Retry 1
-DISNEY CHANNEL | HD@http://s1.iptvforver.com:8000/live/suisse/suisse/7795.ts@OK 200 Retry 1
-DISNEY CHANNEL | SD@http://89.38.98.85:8080/live/salam/salam/8053.ts@HTTP Error 401: Unauthorized Retry 3
-DISNEY CHANNEL | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/80517.ts@HTTP Error 401: Unauthorized Retry 3
-DISNEY CHANNEL | SD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5652.ts@HTTP Error 401: Unauthorized Retry 3
-DISNEY CHANNEL 1 | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/7796.ts@OK 200 Retry 1
-DISNEY CHANNEL 1 | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/7796.ts@OK 200 Retry 1
-DISNEY CHANNEL&NBSP | HD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5651.ts@HTTP Error 401: Unauthorized Retry 3
-DISNEY CINEMA | HD@http://89.38.98.85:8080/live/salam/salam/8052.ts@HTTP Error 401: Unauthorized Retry 3
-DISNEY CINEMA | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/80516.ts@HTTP Error 401: Unauthorized Retry 3
-DISNEY CINEMA | SD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5650.ts@HTTP Error 401: Unauthorized Retry 3
-DISNEY JUNIOR | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/7797.ts@OK 200 Retry 1
-DISNEY JUNIOR | HD@http://s1.iptvforver.com:8000/live/suisse/suisse/7797.ts@OK 200 Retry 1
-DISNEY JUNIOR | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/80515.ts@HTTP Error 401: Unauthorized Retry 3
-DISNEY JUNIOR | HD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5649.ts@HTTP Error 401: Unauthorized Retry 3
-DISNEY JUNIOR | SD@http://89.38.98.85:8080/live/salam/salam/8051.ts@HTTP Error 401: Unauthorized Retry 3
-DISNEY XD | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/7794.ts@OK 200 Retry 1
-DISNEY XD | HD@http://s1.iptvforver.com:8000/live/suisse/suisse/7794.ts@OK 200 Retry 1
-DISNEY XD | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/80514.ts@HTTP Error 401: Unauthorized Retry 3
-DISNEY XD | SD@http://89.38.98.85:8080/live/salam/salam/8050.ts@HTTP Error 401: Unauthorized Retry 3
-E! ENTERTAINMENT | HD@http://89.38.98.85:8080/live/ali01/ali01/8049.ts@HTTP Error 401: Unauthorized Retry 3
-E! ENTERTAINMENT | HD@http://89.38.98.85:8080/live/salam/salam/8049.ts@HTTP Error 401: Unauthorized Retry 3
-ELLE GIRL | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/7841.ts@OK 200 Retry 1
-ELLE GIRL | HD@http://s1.iptvforver.com:8000/live/suisse/suisse/7841.ts@OK 200 Retry 1
-ENORME TV | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/80513.ts@HTTP Error 401: Unauthorized Retry 3
-EQUIDIA LIFE | HD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5648.ts@HTTP Error 401: Unauthorized Retry 3
-EQUIDIA LIFE | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/7789.ts@OK 200 Retry 1
-EQUIDIA LIFE | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/7789.ts@OK 200 Retry 1
-EQUIDIA LIVE | HD@http://89.38.98.85:8080/live/ali01/ali01/8048.ts@HTTP Error 401: Unauthorized Retry 3
-EQUIDIA LIVE | HD@http://89.38.98.85:8080/live/salam/salam/8048.ts@HTTP Error 401: Unauthorized Retry 3
-EQUIDIA LIVE | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/7788.ts@timed out Retry 3
-EQUIDIA LIVE | HD@http://s1.iptvforver.com:8000/live/suisse/suisse/7788.ts@OK 200 Retry 2
-EQUIDIA LIVE | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/80512.ts@HTTP Error 401: Unauthorized Retry 3
-EQUIDIA LIVE | SD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5647.ts@HTTP Error 401: Unauthorized Retry 3
-EQUIPE 21 | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/80491.ts@HTTP Error 401: Unauthorized Retry 3
-EQUIPE 21 | HD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5638.ts@HTTP Error 401: Unauthorized Retry 3
-EURONEWS | SD@http://89.38.98.85:8080/live/ali01/ali01/8047.ts@HTTP Error 401: Unauthorized Retry 3
-EURONEWS | SD@http://89.38.98.85:8080/live/salam/salam/8047.ts@HTTP Error 401: Unauthorized Retry 3
-EURONEWS | SD@http://p4.giffy.be:8080/live/dennis/dennis/31753.ts@OK 200 Retry 1
-EURONEWS | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/80511.ts@HTTP Error 401: Unauthorized Retry 3
-EURONEWS | SD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5646.ts@HTTP Error 401: Unauthorized Retry 3
-EUROSPORT 1 | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/80510.ts@HTTP Error 401: Unauthorized Retry 3
-EUROSPORT 1 | SD@http://89.38.98.85:8080/live/ali01/ali01/8046.ts@HTTP Error 401: Unauthorized Retry 3
-EUROSPORT 1 | SD@http://89.38.98.85:8080/live/salam/salam/8046.ts@HTTP Error 401: Unauthorized Retry 3
-EUROSPORT 1 | SD@http://p4.giffy.be:8080/live/dennis/dennis/31764.ts@OK 200 Retry 1
-EUROSPORT 2 | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/80509.ts@HTTP Error 401: Unauthorized Retry 3
-EUROSPORT 2 | HD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5645.ts@HTTP Error 401: Unauthorized Retry 3
-EUROSPORT 2 | SD@http://p4.giffy.be:8080/live/dennis/dennis/31763.ts@OK 200 Retry 1
-EXTREME SPORTS | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/7775.ts@OK 200 Retry 1
-EXTREME SPORTS | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/7775.ts@OK 200 Retry 2
-FOOT 24 | SD@http://89.38.98.85:8080/live/ali01/ali01/8045.ts@HTTP Error 401: Unauthorized Retry 3
-FOOT 24 | SD@http://89.38.98.85:8080/live/salam/salam/8045.ts@HTTP Error 401: Unauthorized Retry 3
-FOOT 24 | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/80508.ts@HTTP Error 401: Unauthorized Retry 3
-FOOT 24/24 | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/7777.ts@OK 200 Retry 2
-FOOT 24/24 | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/7777.ts@OK 200 Retry 1
-FOOT&NBSP | SD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5712.ts@HTTP Error 401: Unauthorized Retry 3
-FRANCE 02 | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/7881.ts@OK 200 Retry 3
-FRANCE 02 | HD@http://s1.iptvforver.com:8000/live/suisse/suisse/7881.ts@OK 200 Retry 2
-FRANCE 03 | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/7880.ts@HTTP Error 502: Bad Gateway Retry 3
-FRANCE 03 | HD@http://s1.iptvforver.com:8000/live/suisse/suisse/7880.ts@OK 200 Retry 1
-FRANCE 04 | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/7879.ts@OK 200 Retry 1
-FRANCE 04 | HD@http://s1.iptvforver.com:8000/live/suisse/suisse/7879.ts@OK 200 Retry 1
-FRANCE 2 | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/80507.ts@HTTP Error 401: Unauthorized Retry 3
-FRANCE 2 | SD@http://89.38.98.85:8080/live/ali01/ali01/8044.ts@HTTP Error 401: Unauthorized Retry 3
-FRANCE 2 | SD@http://89.38.98.85:8080/live/salam/salam/8044.ts@HTTP Error 401: Unauthorized Retry 3
-FRANCE 2 | SD@http://p4.giffy.be:8080/live/dennis/dennis/31772.ts@OK 200 Retry 1
-FRANCE 2&NBSP | SD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5711.ts@HTTP Error 401: Unauthorized Retry 3
-FRANCE 24 | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/80506.ts@HTTP Error 401: Unauthorized Retry 3
-FRANCE 24 | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/7820.ts@OK 200 Retry 1
-FRANCE 24 | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/7820.ts@OK 200 Retry 1
-FRANCE 24 NEWS | SD@http://89.38.98.85:8080/live/ali01/ali01/8043.ts@HTTP Error 401: Unauthorized Retry 3
-FRANCE 24 NEWS | SD@http://89.38.98.85:8080/live/salam/salam/8043.ts@HTTP Error 401: Unauthorized Retry 3
-FRANCE 3 | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/80505.ts@HTTP Error 401: Unauthorized Retry 3
-FRANCE 3 | SD@http://89.38.98.85:8080/live/ali01/ali01/8042.ts@HTTP Error 401: Unauthorized Retry 3
-FRANCE 3 | SD@http://89.38.98.85:8080/live/salam/salam/8042.ts@HTTP Error 401: Unauthorized Retry 3
-FRANCE 3 | SD@http://p4.giffy.be:8080/live/dennis/dennis/31771.ts@OK 200 Retry 1
-FRANCE 3 FHD | SD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5710.ts@HTTP Error 401: Unauthorized Retry 3
-FRANCE 4 | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/80504.ts@HTTP Error 401: Unauthorized Retry 3
-FRANCE 4 | SD@http://89.38.98.85:8080/live/ali01/ali01/8041.ts@HTTP Error 401: Unauthorized Retry 3
-FRANCE 4 | SD@http://89.38.98.85:8080/live/salam/salam/8041.ts@HTTP Error 401: Unauthorized Retry 3
-FRANCE 4 | SD@http://p4.giffy.be:8080/live/dennis/dennis/31770.ts@OK 200 Retry 1
-FRANCE 4 FHD | SD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5709.ts@HTTP Error 401: Unauthorized Retry 3
-FRANCE 5 | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/7878.ts@OK 200 Retry 2
-FRANCE 5 | HD@http://s1.iptvforver.com:8000/live/suisse/suisse/7878.ts@OK 200 Retry 1
-FRANCE 5 | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/80503.ts@HTTP Error 401: Unauthorized Retry 3
-FRANCE 5 | SD@http://89.38.98.85:8080/live/ali01/ali01/8040.ts@HTTP Error 401: Unauthorized Retry 3
-FRANCE 5 | SD@http://89.38.98.85:8080/live/salam/salam/8040.ts@HTTP Error 401: Unauthorized Retry 3
-FRANCE 5 | SD@http://p4.giffy.be:8080/live/dennis/dennis/31769.ts@OK 200 Retry 1
-FRANCE 5 FHD | SD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5708.ts@HTTP Error 401: Unauthorized Retry 3
-FRANCE INFO | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/7876.ts@HTTP Error 502: Bad Gateway Retry 3
-FRANCE INFO | HD@http://s1.iptvforver.com:8000/live/suisse/suisse/7876.ts@OK 200 Retry 1
-FRANCE O | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/7877.ts@OK 200 Retry 3
-FRANCE O | HD@http://s1.iptvforver.com:8000/live/suisse/suisse/7877.ts@OK 200 Retry 1
-FRANCE O | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/80502.ts@HTTP Error 401: Unauthorized Retry 3
-FRANCE O | SD@http://89.38.98.85:8080/live/ali01/ali01/8039.ts@HTTP Error 401: Unauthorized Retry 3
-FRANCE O | SD@http://89.38.98.85:8080/live/salam/salam/8039.ts@HTTP Error 401: Unauthorized Retry 3
-FRANCE O | SD@http://p4.giffy.be:8080/live/dennis/dennis/31768.ts@OK 200 Retry 1
-GAME ONE | HD@http://89.38.98.85:8080/live/ali01/ali01/8038.ts@HTTP Error 401: Unauthorized Retry 3
-GAME ONE | HD@http://89.38.98.85:8080/live/salam/salam/8038.ts@HTTP Error 401: Unauthorized Retry 3
-GAME ONE | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/7790.ts@OK 200 Retry 1
-GAME ONE | HD@http://s1.iptvforver.com:8000/live/suisse/suisse/7790.ts@OK 200 Retry 1
-GAME ONE | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/80501.ts@HTTP Error 401: Unauthorized Retry 3
-GOLF | HD@http://89.38.98.85:8080/live/ali01/ali01/8037.ts@HTTP Error 401: Unauthorized Retry 3
-GOLF | HD@http://89.38.98.85:8080/live/salam/salam/8037.ts@HTTP Error 401: Unauthorized Retry 3
-GOLF | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/7774.ts@OK 200 Retry 2
-GOLF | HD@http://s1.iptvforver.com:8000/live/suisse/suisse/7774.ts@OK 200 Retry 1
-GOLF | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/80500.ts@HTTP Error 401: Unauthorized Retry 3
-GOLF PLUS | HD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5644.ts@HTTP Error 401: Unauthorized Retry 3
-GONG | HD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5643.ts@HTTP Error 401: Unauthorized Retry 3
-GONG BASE | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/80499.ts@HTTP Error 401: Unauthorized Retry 3
-GRAND LILLE TV | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/80498.ts@HTTP Error 401: Unauthorized Retry 3
-GULLI | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/7803.ts@OK 200 Retry 1
-GULLI | HD@http://s1.iptvforver.com:8000/live/suisse/suisse/7803.ts@OK 200 Retry 1
-GULLI | SD@http://89.38.98.85:8080/live/ali01/ali01/8036.ts@HTTP Error 401: Unauthorized Retry 3
-GULLI | SD@http://89.38.98.85:8080/live/salam/salam/8036.ts@HTTP Error 401: Unauthorized Retry 3
-GULLI | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/80497.ts@HTTP Error 401: Unauthorized Retry 3
-GULLI | SD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5642.ts@HTTP Error 401: Unauthorized Retry 3
-HD1 | HD@http://89.38.98.85:8080/live/ali01/ali01/8035.ts@HTTP Error 401: Unauthorized Retry 3
-HD1 | HD@http://89.38.98.85:8080/live/salam/salam/8035.ts@HTTP Error 401: Unauthorized Retry 3
-HD1 | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/80496.ts@HTTP Error 401: Unauthorized Retry 3
-HD1 | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/7848.ts@OK 200 Retry 1
-HD1 | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/7848.ts@OK 200 Retry 1
-HD1 FHD | SD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5707.ts@HTTP Error 401: Unauthorized Retry 3
-HISTOIRE | HD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5641.ts@HTTP Error 401: Unauthorized Retry 3
-HISTOIRE | SD@http://89.38.98.85:8080/live/ali01/ali01/8034.ts@HTTP Error 401: Unauthorized Retry 3
-HISTOIRE | SD@http://89.38.98.85:8080/live/salam/salam/8034.ts@HTTP Error 401: Unauthorized Retry 3
-HISTOIRE | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/80495.ts@HTTP Error 401: Unauthorized Retry 3
-I TELE | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/80494.ts@HTTP Error 401: Unauthorized Retry 3
-I24 | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/7832.ts@OK 200 Retry 1
-I24 | HD@http://s1.iptvforver.com:8000/live/suisse/suisse/7832.ts@OK 200 Retry 1
-IL TV | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/7838.ts@OK 200 Retry 1
-IL TV | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/7838.ts@OK 200 Retry 1
-IL TV | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/80493.ts@HTTP Error 401: Unauthorized Retry 3
-IL TV | SD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5640.ts@HTTP Error 401: Unauthorized Retry 3
-INFOSPORT | SD@http://89.38.98.85:8080/live/ali01/ali01/8033.ts@HTTP Error 401: Unauthorized Retry 3
-INFOSPORT | SD@http://89.38.98.85:8080/live/salam/salam/8033.ts@HTTP Error 401: Unauthorized Retry 3
-INFOSPORT | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/7787.ts@OK 200 Retry 1
-INFOSPORT | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/80492.ts@HTTP Error 401: Unauthorized Retry 3
-INFOSPORT&NBSP | SD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5706.ts@HTTP Error 401: Unauthorized Retry 3
-ITELE | SD@http://p4.giffy.be:8080/live/dennis/dennis/31752.ts@OK 200 Retry 1
-J ONE | HD@http://89.38.98.85:8080/live/ali01/ali01/8032.ts@HTTP Error 401: Unauthorized Retry 3
-J ONE | HD@http://89.38.98.85:8080/live/salam/salam/8032.ts@HTTP Error 401: Unauthorized Retry 3
-J-ONE | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/7792.ts@OK 200 Retry 2
-J-ONE | HD@http://s1.iptvforver.com:8000/live/suisse/suisse/7792.ts@OK 200 Retry 1
-KTO | SD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5639.ts@HTTP Error 401: Unauthorized Retry 3
-LA CHAINE NORMANDE | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/80490.ts@HTTP Error 401: Unauthorized Retry 3
-LA CHAINE NORMANDIE | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/7819.ts@OK 200 Retry 1
-LA CHAINE NORMANDIE | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/7819.ts@OK 200 Retry 1
-LA TELE | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/80489.ts@HTTP Error 401: Unauthorized Retry 3
-LCI | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/80488.ts@HTTP Error 401: Unauthorized Retry 3
-LCI | SD@http://89.38.98.85:8080/live/ali01/ali01/8030.ts@HTTP Error 401: Unauthorized Retry 3
-LCI | SD@http://89.38.98.85:8080/live/salam/salam/8030.ts@HTTP Error 401: Unauthorized Retry 3
-LCP | HD@http://p4.giffy.be:8080/live/dennis/dennis/31751.ts@OK 200 Retry 1
-LCP | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/80487.ts@HTTP Error 401: Unauthorized Retry 3
-M6 | HD@http://89.38.98.85:8080/live/ali01/ali01/8029.ts@HTTP Error 401: Unauthorized Retry 3
-M6 | HD@http://89.38.98.85:8080/live/salam/salam/8029.ts@HTTP Error 401: Unauthorized Retry 3
-M6 | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/7874.ts@OK 200 Retry 2
-M6 | HD@http://s1.iptvforver.com:8000/live/suisse/suisse/7874.ts@OK 200 Retry 1
-M6 | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/80486.ts@HTTP Error 401: Unauthorized Retry 3
-M6 FHD | SD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5705.ts@HTTP Error 401: Unauthorized Retry 3
-M6 MUSIC | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/7824.ts@OK 200 Retry 1
-M6 MUSIC | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/7824.ts@OK 200 Retry 1
-M6 MUSIC | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/80485.ts@HTTP Error 401: Unauthorized Retry 3
-M6 MUSIC HITS | SD@http://p4.giffy.be:8080/live/dennis/dennis/31759.ts@OK 200 Retry 1
-MA TELE FRANCE | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/80484.ts@HTTP Error 401: Unauthorized Retry 3
-MANGA | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/7802.ts@OK 200 Retry 1
-MANGA | HD@http://s1.iptvforver.com:8000/live/suisse/suisse/7802.ts@OK 200 Retry 2
-MANGA | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/80483.ts@HTTP Error 401: Unauthorized Retry 3
-MCM TOP FHD | SD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5704.ts@HTTP Error 401: Unauthorized Retry 3
-MEZZO LIVE&NBSP | SD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5703.ts@HTTP Error 401: Unauthorized Retry 3
-MIRABELLE TV | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/80482.ts@HTTP Error 401: Unauthorized Retry 3
-MONACO INFO | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/80481.ts@timed out Retry 3
-MOTORS TV | SD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5637.ts@HTTP Error 401: Unauthorized Retry 3
-MOTORSPORT TV FULLHD | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/7776.ts@HTTP Error 502: Bad Gateway Retry 3
-MOTORSPORT TV FULLHD | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/7776.ts@HTTP Error 502: Bad Gateway Retry 3
-MOTORVISION | SD@http://89.38.98.85:8080/live/salam/salam/7590.ts@HTTP Error 401: Unauthorized Retry 3
-MTV BASE | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/7823.ts@HTTP Error 502: Bad Gateway Retry 3
-MTV BASE | HD@http://s1.iptvforver.com:8000/live/suisse/suisse/7823.ts@OK 200 Retry 1
-MTV HITS | SD@http://p4.giffy.be:8080/live/dennis/dennis/31760.ts@OK 200 Retry 1
-MTV HITS | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/80480.ts@HTTP Error 401: Unauthorized Retry 3
-MTV MUSIC | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/7822.ts@OK 200 Retry 1
-MTV MUSIC | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/7822.ts@OK 200 Retry 1
-NAT GEO WILD | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/80479.ts@HTTP Error 401: Unauthorized Retry 3
-NATIONAL GEO | HD@http://89.38.98.85:8080/live/salam/salam/8028.ts@HTTP Error 401: Unauthorized Retry 3
-NATIONAL GEO | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/7853.ts@OK 200 Retry 1
-NATIONAL GEO | HD@http://s1.iptvforver.com:8000/live/suisse/suisse/7853.ts@OK 200 Retry 1
-NATIONAL GEO WILD | HD@http://89.38.98.85:8080/live/salam/salam/8027.ts@HTTP Error 401: Unauthorized Retry 3
-NATIONAL GEO WILD | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/7852.ts@OK 200 Retry 1
-NATIONAL GEO WILD | HD@http://s1.iptvforver.com:8000/live/suisse/suisse/7852.ts@OK 200 Retry 1
-NATIONAL GEOGRAPHIC | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/80478.ts@HTTP Error 401: Unauthorized Retry 3
-NICKELODEON | HD@http://89.38.98.85:8080/live/salam/salam/8026.ts@HTTP Error 401: Unauthorized Retry 3
-NICKELODEON | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/7801.ts@OK 200 Retry 1
-NICKELODEON | HD@http://s1.iptvforver.com:8000/live/suisse/suisse/7801.ts@OK 200 Retry 1
-NICKELODEON | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/80477.ts@HTTP Error 401: Unauthorized Retry 3
-NICKELODEON JUNIOR | SD@http://89.38.98.85:8080/live/salam/salam/8025.ts@HTTP Error 401: Unauthorized Retry 3
-NRJ | HD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5636.ts@HTTP Error 401: Unauthorized Retry 3
-NRJ 12 | HD@http://89.38.98.85:8080/live/ali01/ali01/8024.ts@HTTP Error 401: Unauthorized Retry 3
-NRJ 12 | HD@http://89.38.98.85:8080/live/salam/salam/8024.ts@HTTP Error 401: Unauthorized Retry 3
-NRJ 12 | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/80476.ts@HTTP Error 401: Unauthorized Retry 3
-NRJ 12 | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/7849.ts@OK 200 Retry 1
-NRJ 12 | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/7849.ts@OK 200 Retry 2
-NRJ HIT | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/7821.ts@HTTP Error 502: Bad Gateway Retry 3
-NRJ HIT | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/7821.ts@HTTP Error 502: Bad Gateway Retry 3
-NRJ HITS | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/80475.ts@HTTP Error 401: Unauthorized Retry 3
-NRJ12 | SD@http://p4.giffy.be:8080/live/dennis/dennis/31761.ts@OK 200 Retry 1
-NT1 | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/7866.ts@OK 200 Retry 2
-NT1 | HD@http://s1.iptvforver.com:8000/live/suisse/suisse/7866.ts@OK 200 Retry 1
-NT1 | SD@http://p4.giffy.be:8080/live/dennis/dennis/31756.ts@OK 200 Retry 1
-NT1 | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/80474.ts@HTTP Error 401: Unauthorized Retry 3
-NUM | SD@http://89.38.98.85:8080/live/ali01/ali01/8023.ts@HTTP Error 401: Unauthorized Retry 3
-NUM | SD@http://89.38.98.85:8080/live/salam/salam/8023.ts@HTTP Error 401: Unauthorized Retry 3
-NUMERO 23 | HD@http://p4.giffy.be:8080/live/dennis/dennis/31758.ts@OK 200 Retry 1
-NUMERO 23 | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/7854.ts@HTTP Error 502: Bad Gateway Retry 3
-NUMERO 23 | HD@http://s1.iptvforver.com:8000/live/suisse/suisse/7854.ts@HTTP Error 502: Bad Gateway Retry 3
-NUMERO 23 | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/80473.ts@HTTP Error 401: Unauthorized Retry 3
-NUMERO 23 | SD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5635.ts@HTTP Error 401: Unauthorized Retry 3
-NUMERO 23 FHD | SD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5702.ts@HTTP Error 401: Unauthorized Retry 3
-OCS CHOC | HD@http://89.38.98.85:8080/live/ali01/ali01/8022.ts@HTTP Error 401: Unauthorized Retry 3
-OCS CHOC | HD@http://89.38.98.85:8080/live/salam/salam/8022.ts@HTTP Error 401: Unauthorized Retry 3
-OCS CHOC | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/7807.ts@OK 200 Retry 1
-OCS CHOC | HD@http://s1.iptvforver.com:8000/live/suisse/suisse/7807.ts@OK 200 Retry 1
-OCS CHOC | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/80472.ts@HTTP Error 401: Unauthorized Retry 3
-OCS CHOC | HD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5634.ts@HTTP Error 401: Unauthorized Retry 3
-OCS CHOC FHD | SD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5701.ts@HTTP Error 401: Unauthorized Retry 3
-OCS CITY | HD@http://89.38.98.85:8080/live/ali01/ali01/8021.ts@HTTP Error 401: Unauthorized Retry 3
-OCS CITY | HD@http://89.38.98.85:8080/live/salam/salam/8021.ts@HTTP Error 401: Unauthorized Retry 3
-OCS CITY | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/7806.ts@HTTP Error 403: Forbidden Retry 3
-OCS CITY | HD@http://s1.iptvforver.com:8000/live/suisse/suisse/7806.ts@HTTP Error 403: Forbidden Retry 3
-OCS CITY | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/80471.ts@HTTP Error 401: Unauthorized Retry 3
-OCS CITY | SD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5633.ts@HTTP Error 401: Unauthorized Retry 3
-OCS CITY FHD | SD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5700.ts@HTTP Error 401: Unauthorized Retry 3
-OCS GEANT | HD@http://89.38.98.85:8080/live/ali01/ali01/8020.ts@HTTP Error 401: Unauthorized Retry 3
-OCS GEANT | HD@http://89.38.98.85:8080/live/salam/salam/8020.ts@HTTP Error 401: Unauthorized Retry 3
-OCS GEANT | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/7808.ts@timed out Retry 3
-OCS GEANT | HD@http://s1.iptvforver.com:8000/live/suisse/suisse/7808.ts@OK 200 Retry 1
-OCS GEANT FHD | SD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5699.ts@HTTP Error 401: Unauthorized Retry 3
-OCS GEANTS | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/80470.ts@HTTP Error 401: Unauthorized Retry 3
-OCS GEANTS | HD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5632.ts@HTTP Error 401: Unauthorized Retry 3
-OCS MAX | HD@http://89.38.98.85:8080/live/ali01/ali01/8019.ts@HTTP Error 401: Unauthorized Retry 3
-OCS MAX | HD@http://89.38.98.85:8080/live/salam/salam/8019.ts@HTTP Error 401: Unauthorized Retry 3
-OCS MAX | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/7805.ts@OK 200 Retry 1
-OCS MAX | HD@http://s1.iptvforver.com:8000/live/suisse/suisse/7805.ts@HTTP Error 502: Bad Gateway Retry 3
-OCS MAX | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/80469.ts@HTTP Error 401: Unauthorized Retry 3
-OCS MAX | SD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5631.ts@HTTP Error 401: Unauthorized Retry 3
-OCS MAX&NBSP | SD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5698.ts@HTTP Error 401: Unauthorized Retry 3
-PARAMOUNT CHANNEL | HD@http://89.38.98.85:8080/live/ali01/ali01/8018.ts@HTTP Error 401: Unauthorized Retry 3
-PARAMOUNT CHANNEL | HD@http://89.38.98.85:8080/live/salam/salam/8018.ts@HTTP Error 401: Unauthorized Retry 3
-PARAMOUNT CHANNEL | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/80468.ts@HTTP Error 401: Unauthorized Retry 3
-PARAMOUNT CHANNEL | HD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5630.ts@HTTP Error 401: Unauthorized Retry 3
-PARAMOUNT CHANNEL | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/7851.ts@OK 200 Retry 2
-PARAMOUNT CHANNEL | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/7851.ts@OK 200 Retry 1
-PARIS PREMIERE | HD@http://89.38.98.85:8080/live/ali01/ali01/8017.ts@HTTP Error 401: Unauthorized Retry 3
-PARIS PREMIERE | HD@http://89.38.98.85:8080/live/salam/salam/8017.ts@HTTP Error 401: Unauthorized Retry 3
-PARIS PREMIERE | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/7847.ts@OK 200 Retry 1
-PARIS PREMIERE | HD@http://s1.iptvforver.com:8000/live/suisse/suisse/7847.ts@HTTP Error 502: Bad Gateway Retry 3
-PARIS PREMIERE | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/80467.ts@HTTP Error 401: Unauthorized Retry 3
-PIWI | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/7800.ts@HTTP Error 502: Bad Gateway Retry 3
-PIWI | HD@http://s1.iptvforver.com:8000/live/suisse/suisse/7800.ts@HTTP Error 502: Bad Gateway Retry 3
-PIWI | HD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5629.ts@HTTP Error 401: Unauthorized Retry 3
-PIWI | SD@http://89.38.98.85:8080/live/salam/salam/8016.ts@HTTP Error 401: Unauthorized Retry 3
-PIWI | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/80466.ts@HTTP Error 401: Unauthorized Retry 3
-PLANET A&E | HD@http://89.38.98.85:8080/live/ali01/ali01/8015.ts@HTTP Error 401: Unauthorized Retry 3
-PLANET A&E | HD@http://89.38.98.85:8080/live/salam/salam/8015.ts@HTTP Error 401: Unauthorized Retry 3
-PLANETE | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/7828.ts@OK 200 Retry 2
-PLANETE | HD@http://s1.iptvforver.com:8000/live/suisse/suisse/7828.ts@OK 200 Retry 1
-PLANETE | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/80465.ts@HTTP Error 401: Unauthorized Retry 3
-PLANETE A&E | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/7830.ts@OK 200 Retry 2
-PLANETE A&E | HD@http://s1.iptvforver.com:8000/live/suisse/suisse/7830.ts@OK 200 Retry 1
-PLANETE A&E | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/80464.ts@HTTP Error 401: Unauthorized Retry 3
-PLANETE CI | HD@http://89.38.98.85:8080/live/ali01/ali01/8014.ts@HTTP Error 401: Unauthorized Retry 3
-PLANETE CI | HD@http://89.38.98.85:8080/live/salam/salam/8014.ts@HTTP Error 401: Unauthorized Retry 3
-PLANETE CI | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/80463.ts@HTTP Error 401: Unauthorized Retry 3
-PLANETE CI | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/7829.ts@OK 200 Retry 2
-PLANETE CI | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/7829.ts@OK 200 Retry 2
-PLANETE&NBSP | SD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5695.ts@HTTP Error 401: Unauthorized Retry 3
-PLANETE&NBSP | SD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5696.ts@HTTP Error 401: Unauthorized Retry 3
-PLANETE&NBSP | SD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5697.ts@HTTP Error 401: Unauthorized Retry 3
-QUIPE 21 | SD@http://89.38.98.85:8080/live/ali01/ali01/8031.ts@HTTP Error 401: Unauthorized Retry 3
-QUIPE 21 | SD@http://89.38.98.85:8080/live/salam/salam/8031.ts@HTTP Error 401: Unauthorized Retry 3
-RMC D | SD@http://89.38.98.85:8080/live/ali01/ali01/8013.ts@HTTP Error 401: Unauthorized Retry 3
-RMC D | SD@http://89.38.98.85:8080/live/salam/salam/8013.ts@HTTP Error 401: Unauthorized Retry 3
-RMC DECOUVERTE | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/80462.ts@HTTP Error 401: Unauthorized Retry 3
-RTL 9 | HD@http://89.38.98.85:8080/live/ali01/ali01/8012.ts@HTTP Error 401: Unauthorized Retry 3
-RTL 9 | HD@http://89.38.98.85:8080/live/salam/salam/8012.ts@HTTP Error 401: Unauthorized Retry 3
-RTL9 | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/7872.ts@OK 200 Retry 2
-RTL9 | HD@http://s1.iptvforver.com:8000/live/suisse/suisse/7872.ts@OK 200 Retry 1
-RTL9 | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/80461.ts@HTTP Error 401: Unauthorized Retry 3
-RTS DEUX | HD@http://89.38.98.85:8080/live/ali01/ali01/8011.ts@HTTP Error 401: Unauthorized Retry 3
-RTS DEUX | HD@http://89.38.98.85:8080/live/salam/salam/8011.ts@HTTP Error 401: Unauthorized Retry 3
-RTS UN | HD@http://89.38.98.85:8080/live/ali01/ali01/8010.ts@HTTP Error 401: Unauthorized Retry 3
-RTS UN | HD@http://89.38.98.85:8080/live/salam/salam/8010.ts@HTTP Error 401: Unauthorized Retry 3
-SCIENCE & VIE | SD@http://89.38.98.85:8080/live/salam/salam/7423.ts@HTTP Error 401: Unauthorized Retry 3
-SCIENCE & VIE | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/80460.ts@HTTP Error 401: Unauthorized Retry 3
-SEASON | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/7825.ts@OK 200 Retry 1
-SEASON | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/7825.ts@OK 200 Retry 3
-SEASONS | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/80459.ts@HTTP Error 401: Unauthorized Retry 3
-SERIE CLUB | HD@http://89.38.98.85:8080/live/ali01/ali01/8009.ts@HTTP Error 401: Unauthorized Retry 3
-SERIE CLUB | HD@http://89.38.98.85:8080/live/salam/salam/8009.ts@HTTP Error 401: Unauthorized Retry 3
-SERIE CLUB | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/7860.ts@OK 200 Retry 2
-SERIE CLUB | HD@http://s1.iptvforver.com:8000/live/suisse/suisse/7860.ts@OK 200 Retry 1
-SERIE CLUB | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/80458.ts@HTTP Error 401: Unauthorized Retry 3
-SFR SPORT 01 | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/7783.ts@OK 200 Retry 3
-SFR SPORT 01 | HD@http://s1.iptvforver.com:8000/live/suisse/suisse/7783.ts@HTTP Error 502: Bad Gateway Retry 3
-SFR SPORT 01 FULLHD | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/7773.ts@OK 200 Retry 3
-SFR SPORT 01 FULLHD | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/7773.ts@OK 200 Retry 1
-SFR SPORT 02 | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/7782.ts@OK 200 Retry 1
-SFR SPORT 02 | HD@http://s1.iptvforver.com:8000/live/suisse/suisse/7782.ts@OK 200 Retry 1
-SFR SPORT 02 FULLHD | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/7772.ts@OK 200 Retry 2
-SFR SPORT 02 FULLHD | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/7772.ts@OK 200 Retry 2
-SFR SPORT 03 | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/7778.ts@OK 200 Retry 3
-SFR SPORT 03 | HD@http://s1.iptvforver.com:8000/live/suisse/suisse/7778.ts@OK 200 Retry 1
-SFR SPORT 03 FULLHD | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/7771.ts@OK 200 Retry 1
-SFR SPORT 03 FULLHD | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/7771.ts@OK 200 Retry 1
-SFR SPORT 05 | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/7770.ts@OK 200 Retry 2
-SFR SPORT 05 | HD@http://s1.iptvforver.com:8000/live/suisse/suisse/7770.ts@OK 200 Retry 1
-SFR SPORT 05 FULLHD | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/7769.ts@OK 200 Retry 2
-SFR SPORT 05 FULLHD | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/7769.ts@OK 200 Retry 1
-SFR SPORT 1 | HD@http://89.38.98.85:8080/live/ali01/ali01/8008.ts@HTTP Error 401: Unauthorized Retry 3
-SFR SPORT 1 | HD@http://89.38.98.85:8080/live/salam/salam/8008.ts@HTTP Error 401: Unauthorized Retry 3
-SFR SPORT 3 | HD@http://89.38.98.85:8080/live/ali01/ali01/8007.ts@HTTP Error 401: Unauthorized Retry 3
-SFR SPORT 3 | HD@http://89.38.98.85:8080/live/salam/salam/8007.ts@HTTP Error 401: Unauthorized Retry 3
-SFR SPORT 5 | HD@http://89.38.98.85:8080/live/ali01/ali01/8006.ts@HTTP Error 401: Unauthorized Retry 3
-SFR SPORT 5 | HD@http://89.38.98.85:8080/live/salam/salam/8006.ts@HTTP Error 401: Unauthorized Retry 3
-SYFY | HD@http://89.38.98.85:8080/live/ali01/ali01/8005.ts@HTTP Error 401: Unauthorized Retry 3
-SYFY | HD@http://89.38.98.85:8080/live/salam/salam/8005.ts@HTTP Error 401: Unauthorized Retry 3
-SYFY | HD@http://p4.giffy.be:8080/live/dennis/dennis/31757.ts@OK 200 Retry 1
-SYFY | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/80457.ts@HTTP Error 401: Unauthorized Retry 3
-SYFY | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/7863.ts@OK 200 Retry 2
-SYFY | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/7863.ts@HTTP Error 502: Bad Gateway Retry 3
-TCM CINEMA | HD@http://89.38.98.85:8080/live/ali01/ali01/8004.ts@HTTP Error 401: Unauthorized Retry 3
-TCM CINEMA | HD@http://89.38.98.85:8080/live/salam/salam/8004.ts@HTTP Error 401: Unauthorized Retry 3
-TCM CINEMA | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/7855.ts@OK 200 Retry 2
-TCM CINEMA | HD@http://s1.iptvforver.com:8000/live/suisse/suisse/7855.ts@OK 200 Retry 1
-TCM CINEMA | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/80456.ts@HTTP Error 401: Unauthorized Retry 3
-TELETOON | HD@http://89.38.98.85:8080/live/ali01/ali01/8003.ts@HTTP Error 401: Unauthorized Retry 3
-TELETOON | HD@http://89.38.98.85:8080/live/salam/salam/8003.ts@HTTP Error 401: Unauthorized Retry 3
-TELETOON | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/80455.ts@HTTP Error 401: Unauthorized Retry 3
-TELETOON | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/7798.ts@OK 200 Retry 3
-TELETOON | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/7798.ts@HTTP Error 502: Bad Gateway Retry 3
-TEVA | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/7861.ts@HTTP Error 502: Bad Gateway Retry 3
-TEVA | HD@http://s1.iptvforver.com:8000/live/suisse/suisse/7861.ts@OK 200 Retry 2
-TEVA | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/80454.ts@HTTP Error 401: Unauthorized Retry 3
-TF1 | HD@http://89.38.98.85:8080/live/ali01/ali01/8001.ts@HTTP Error 401: Unauthorized Retry 3
-TF1 | HD@http://89.38.98.85:8080/live/salam/salam/8001.ts@HTTP Error 401: Unauthorized Retry 3
-TF1 | HD@http://p4.giffy.be:8080/live/dennis/dennis/31773.ts@OK 200 Retry 1
-TF1 | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/7875.ts@OK 200 Retry 2
-TF1 | HD@http://s1.iptvforver.com:8000/live/suisse/suisse/7875.ts@OK 200 Retry 1
-TF1 | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/80453.ts@HTTP Error 401: Unauthorized Retry 3
-TIJI | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/7799.ts@OK 200 Retry 1
-TIJI | HD@http://s1.iptvforver.com:8000/live/suisse/suisse/7799.ts@OK 200 Retry 1
-TIJI MY | HD@http://89.38.98.85:8080/live/salam/salam/7587.ts@HTTP Error 401: Unauthorized Retry 3
-TMC | HD@http://89.38.98.85:8080/live/ali01/ali01/8000.ts@HTTP Error 401: Unauthorized Retry 3
-TMC | HD@http://89.38.98.85:8080/live/salam/salam/8000.ts@HTTP Error 401: Unauthorized Retry 3
-TMC | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/7857.ts@OK 200 Retry 1
-TMC | HD@http://s1.iptvforver.com:8000/live/suisse/suisse/7857.ts@OK 200 Retry 1
-TMC | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/80452.ts@HTTP Error 401: Unauthorized Retry 3
-TMC | SD@http://p4.giffy.be:8080/live/dennis/dennis/31755.ts@OK 200 Retry 2
-TOUTE L | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/7836.ts@OK 200 Retry 2
-TOUTE L | HD@http://s1.iptvforver.com:8000/live/suisse/suisse/7836.ts@OK 200 Retry 1
-TOUTE L | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/80451.ts@timed out Retry 3
-TOUTE L HISTOIRE | SD@http://89.38.98.85:8080/live/salam/salam/7416.ts@HTTP Error 401: Unauthorized Retry 3
-TRACE GOSPEL | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/7784.ts@HTTP Error 502: Bad Gateway Retry 3
-TRACE GOSPEL | HD@http://s1.iptvforver.com:8000/live/suisse/suisse/7784.ts@OK 200 Retry 1
-TRACE URBAN | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/7843.ts@OK 200 Retry 3
-TRACE URBAN | HD@http://s1.iptvforver.com:8000/live/suisse/suisse/7843.ts@OK 200 Retry 1
-TREK | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/7869.ts@timed out Retry 3
-TREK | HD@http://s1.iptvforver.com:8000/live/suisse/suisse/7869.ts@OK 200 Retry 2
-TREK MY | SD@http://89.38.98.85:8080/live/salam/salam/7593.ts@<urlopen error timed out> Retry 3
-TV BREIZH | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/80450.ts@HTTP Error 401: Unauthorized Retry 3
-TV5 EUROPE | SD@http://89.38.98.85:8080/live/ali01/ali01/7999.ts@HTTP Error 401: Unauthorized Retry 3
-TV5 EUROPE | SD@http://89.38.98.85:8080/live/salam/salam/7999.ts@timed out Retry 3
-TV5 MONDE AMERIQUE LATINE | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/80449.ts@HTTP Error 401: Unauthorized Retry 3
-TV5 MONDE EUROPE | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/80448.ts@HTTP Error 401: Unauthorized Retry 3
-TV5 MONDE INFO | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/80447.ts@HTTP Error 401: Unauthorized Retry 3
-TV7 BORDEAUX | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/80446.ts@HTTP Error 401: Unauthorized Retry 3
-TVA MONTREAL | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/80445.ts@HTTP Error 401: Unauthorized Retry 3
-TVBREIZH | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/7844.ts@OK 200 Retry 1
-TVBREIZH | HD@http://s1.iptvforver.com:8000/live/suisse/suisse/7844.ts@OK 200 Retry 1
-TVM3 | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/7859.ts@OK 200 Retry 1
-TVM3 | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/7859.ts@OK 200 Retry 1
-USHUAIA | HD@http://89.38.98.85:8080/live/ali01/ali01/7998.ts@HTTP Error 401: Unauthorized Retry 3
-USHUAIA | HD@http://89.38.98.85:8080/live/salam/salam/7998.ts@HTTP Error 401: Unauthorized Retry 3
-USHUAIA TV | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/80444.ts@HTTP Error 401: Unauthorized Retry 3
-USHUAIA TV | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/7835.ts@HTTP Error 502: Bad Gateway Retry 3
-USHUAIA TV | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/7835.ts@HTTP Error 502: Bad Gateway Retry 3
-VA | HD@http://89.38.98.85:8080/live/ali01/ali01/8002.ts@HTTP Error 401: Unauthorized Retry 3
-VA | HD@http://89.38.98.85:8080/live/salam/salam/8002.ts@HTTP Error 401: Unauthorized Retry 3
-VOYAGE | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/7831.ts@OK 200 Retry 1
-VOYAGE | HD@http://s1.iptvforver.com:8000/live/suisse/suisse/7831.ts@OK 200 Retry 1
-VOYAGE | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/80443.ts@HTTP Error 401: Unauthorized Retry 3
-VOYAGE | SD@http://89.38.98.85:8080/live/ali01/ali01/7997.ts@HTTP Error 401: Unauthorized Retry 3
-VOYAGE | SD@http://89.38.98.85:8080/live/salam/salam/7997.ts@HTTP Error 401: Unauthorized Retry 3
-W9 | HD@http://89.38.98.85:8080/live/ali01/ali01/7996.ts@HTTP Error 401: Unauthorized Retry 3
-W9 | HD@http://89.38.98.85:8080/live/salam/salam/7996.ts@HTTP Error 401: Unauthorized Retry 3
-W9 | HD@http://s1.iptvforver.com:8000/live/gareth/gareth/7867.ts@OK 200 Retry 1
-W9 | HD@http://s1.iptvforver.com:8000/live/suisse/suisse/7867.ts@OK 200 Retry 1
-W9 | HD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/80442.ts@HTTP Error 401: Unauthorized Retry 3
-WEO | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/80441.ts@HTTP Error 401: Unauthorized Retry 3
-WEO FULLHD | SD@http://s1.iptvforver.com:8000/live/gareth/gareth/7786.ts@OK 200 Retry 2
-WEO FULLHD | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/7786.ts@OK 200 Retry 1
-ZOUZOU | SD@http://en-joy.co:8000/live/carmine2017/6t6tt67ygt6yg/80440.ts@HTTP Error 401: Unauthorized Retry 3
+13 RUE | HD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9883.ts@[COLOR green]OK 200 Retry 2[/COLOR]
+6TER | HD@http://p4.giffy.be:8080/live/dennis/dennis/31762.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+6TER | HD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9882.ts@[COLOR green]OK 200 Retry 2[/COLOR]
+A LA CARTE 1 | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9881.ts@[COLOR green]OK Same url Retry 2[/COLOR]
+A LA CARTE 2 | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9880.ts@[COLOR green]OK Same url Retry 1[/COLOR]
+A LA CARTE 3 | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9879.ts@[COLOR green]OK Same url Retry 3[/COLOR]
+A LA CARTE 4 | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9878.ts@[COLOR green]OK Same url Retry 1[/COLOR]
+A LA CARTE 5 | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9877.ts@[COLOR green]OK Same url Retry 1[/COLOR]
+A LA CARTE 6 | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9876.ts@[COLOR green]OK Same url Retry 2[/COLOR]
+A LA CARTE 7 | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9875.ts@[COLOR red]timed out Retry 3[/COLOR]
+ACTION | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9874.ts@[COLOR red] Bad Gateway Retry 3[/COLOR]
+ANIMAUX | HD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9873.ts@[COLOR green]OK 200 Retry 3[/COLOR]
+BEIN MAX 10 | HD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9872.ts@[COLOR red]timed out Retry 3[/COLOR]
+BEIN MAX 8 | HD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9871.ts@[COLOR red] Bad Gateway Retry 3[/COLOR]
+BEIN MAX 9 | HD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9870.ts@[COLOR red] Bad Gateway Retry 3[/COLOR]
+BEIN SPORT 1 | HD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9869.ts@[COLOR green]OK 200 Retry 3[/COLOR]
+BEIN SPORT 2 | HD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9868.ts@[COLOR green]OK 200 Retry 2[/COLOR]
+BEIN SPORT 3 | HD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9867.ts@[COLOR green]OK 200 Retry 2[/COLOR]
+BEIN SPORTS MAX 4 | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9866.ts@[COLOR green]OK 200 Retry 2[/COLOR]
+BEIN SPORTS MAX 5 | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9865.ts@[COLOR green]OK 200 Retry 2[/COLOR]
+BEIN SPORTS MAX 6 | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9864.ts@[COLOR green]OK 200 Retry 2[/COLOR]
+BEIN SPORTS MAX 7 | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9863.ts@[COLOR red] Bad Gateway Retry 3[/COLOR]
+BEIN-SPORT-1 | HD@http://classeiptv.es:25300/live/mmesebtinoufissa/6bKStQi1b9/14786.ts@[COLOR red]<urlopen error timed out> Retry 3[/COLOR]
+BEIN-SPORT-2 | HD@http://classeiptv.es:25300/live/mmesebtinoufissa/6bKStQi1b9/14785.ts@[COLOR red]<urlopen error timed out> Retry 3[/COLOR]
+BEIN-SPORT-3 | HD@http://classeiptv.es:25300/live/mmesebtinoufissa/6bKStQi1b9/14784.ts@[COLOR red]<urlopen error timed out> Retry 3[/COLOR]
+BEINSPORT 2HD | SD@http://p4.giffy.be:8080/live/dennis/dennis/31766.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+BEINSPORT 3HD | SD@http://p4.giffy.be:8080/live/dennis/dennis/31765.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+BFM | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9862.ts@[COLOR green]OK Same url Retry 1[/COLOR]
+C STAR | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9860.ts@[COLOR green]OK Same url Retry 1[/COLOR]
+C STAR | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9861.ts@[COLOR green]OK Same url Retry 1[/COLOR]
+C8 | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9859.ts@[COLOR green]OK Same url Retry 2[/COLOR]
+CANAL | HD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9849.ts@[COLOR green]OK Same url Retry 1[/COLOR]
+CANAL | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9858.ts@[COLOR green]OK Same url Retry 1[/COLOR]
+CANAL CINEMA | HD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9855.ts@[COLOR green]OK Same url Retry 1[/COLOR]
+CANAL CINEMA | HD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9856.ts@[COLOR green]OK Same url Retry 1[/COLOR]
+CANAL CLASSIC | HD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9854.ts@[COLOR green]OK Same url Retry 1[/COLOR]
+CANAL DECALE | HD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9853.ts@[COLOR green]OK Same url Retry 1[/COLOR]
+CANAL FAMIZ | HD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9851.ts@[COLOR green]OK Same url Retry 1[/COLOR]
+CANAL FAMIZ | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9852.ts@[COLOR green]OK Same url Retry 1[/COLOR]
+CANAL FRISSON | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9850.ts@[COLOR green]OK Same url Retry 1[/COLOR]
+CANAL SERIES | HD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9857.ts@[COLOR green]OK Same url Retry 1[/COLOR]
+CANAL SPORT | HD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9847.ts@[COLOR green]OK Same url Retry 1[/COLOR]
+CANAL SPORT | HD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9848.ts@[COLOR green]OK Same url Retry 1[/COLOR]
+CARTOON NETWORK | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9846.ts@[COLOR green]OK Same url Retry 1[/COLOR]
+CHASSE & PECHE | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9845.ts@[COLOR green]OK Same url Retry 1[/COLOR]
+CHERIE 25 | HD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9844.ts@[COLOR green]OK Same url Retry 1[/COLOR]
+CINE EMOTION | HD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9842.ts@[COLOR green]OK Same url Retry 1[/COLOR]
+CINE EMOTION | HD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9843.ts@[COLOR green]OK Same url Retry 1[/COLOR]
+CINE EMOTION | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9840.ts@[COLOR green]OK Same url Retry 1[/COLOR]
+CINE FX | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9839.ts@[COLOR green]OK Same url Retry 1[/COLOR]
+CINE POLAR | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9838.ts@[COLOR green]OK Same url Retry 1[/COLOR]
+CINE PREMIER | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9837.ts@[COLOR green]OK 200 Retry 2[/COLOR]
+CINE PREMIER | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9841.ts@[COLOR green]OK 200 Retry 3[/COLOR]
+COMEDIE PLUS | HD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9836.ts@[COLOR green]OK 200 Retry 2[/COLOR]
+DISCOVERY | HD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9835.ts@[COLOR green]OK 200 Retry 2[/COLOR]
+DISCOVERY SCIENCE | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9834.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+DISNEY CHANEL | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9833.ts@[COLOR green]OK 200 Retry 3[/COLOR]
+DISNEY CINEMA | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9832.ts@[COLOR green]OK 200 Retry 2[/COLOR]
+DISNEY JUNIOR | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9831.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+DISNEY XD | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9830.ts@[COLOR green]OK 200 Retry 3[/COLOR]
+EQUIDA LIVE | HD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9828.ts@[COLOR green]OK 200 Retry 2[/COLOR]
+EQUIPE 21 | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9815.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+EURONEWS | SD@http://p4.giffy.be:8080/live/dennis/dennis/31753.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+EUROSPORT 1 | SD@http://p4.giffy.be:8080/live/dennis/dennis/31764.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+EUROSPORT 2 | SD@http://p4.giffy.be:8080/live/dennis/dennis/31763.ts@[COLOR red] Forbidden Retry 3[/COLOR]
+FOOT | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9827.ts@[COLOR green]OK 200 Retry 2[/COLOR]
+FRANCE 2 | SD@http://p4.giffy.be:8080/live/dennis/dennis/31772.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+FRANCE 2 | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9826.ts@[COLOR green]OK 200 Retry 2[/COLOR]
+FRANCE 24 | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9825.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+FRANCE 3 | SD@http://p4.giffy.be:8080/live/dennis/dennis/31771.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+FRANCE 3 | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9824.ts@[COLOR green]OK 200 Retry 3[/COLOR]
+FRANCE 4 | SD@http://p4.giffy.be:8080/live/dennis/dennis/31770.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+FRANCE 4 | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9823.ts@[COLOR green]OK 200 Retry 3[/COLOR]
+FRANCE 5 | SD@http://p4.giffy.be:8080/live/dennis/dennis/31769.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+FRANCE 5 | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9822.ts@[COLOR green]OK 200 Retry 2[/COLOR]
+FRANCE O | SD@http://p4.giffy.be:8080/live/dennis/dennis/31768.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+FRANCE O | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9821.ts@[COLOR green]OK 200 Retry 2[/COLOR]
+GAME ONE | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9820.ts@[COLOR green]OK 200 Retry 2[/COLOR]
+GULLI | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9819.ts@[COLOR green]OK 200 Retry 2[/COLOR]
+HD1 | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9818.ts@[COLOR green]OK 200 Retry 2[/COLOR]
+INFOSPORT | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9817.ts@[COLOR green]OK Same url Retry 2[/COLOR]
+ITELE | SD@http://p4.giffy.be:8080/live/dennis/dennis/31752.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+KOMBAT SPORT | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9816.ts@[COLOR green]OK Same url Retry 2[/COLOR]
+LCP | HD@http://p4.giffy.be:8080/live/dennis/dennis/31751.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+M6 | HD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9814.ts@[COLOR red] Bad Gateway Retry 3[/COLOR]
+M6 MUSIC | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9813.ts@[COLOR red] Bad Gateway Retry 3[/COLOR]
+M6 MUSIC HITS | SD@http://p4.giffy.be:8080/live/dennis/dennis/31759.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+MANGAS | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9812.ts@[COLOR red] Bad Gateway Retry 3[/COLOR]
+MTV HITS | SD@http://p4.giffy.be:8080/live/dennis/dennis/31760.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+NAT GEO | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9811.ts@[COLOR green]OK 200 Retry 2[/COLOR]
+NATIONAL GEO WILD | HD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9810.ts@[COLOR green]OK Same url Retry 2[/COLOR]
+NATIONAL GEOGRAPHIQUE | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9809.ts@[COLOR green]OK Same url Retry 2[/COLOR]
+NRJ12 | SD@http://p4.giffy.be:8080/live/dennis/dennis/31761.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+NT1 | SD@http://p4.giffy.be:8080/live/dennis/dennis/31756.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+NT1 | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9808.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+NUMERO 23 | HD@http://p4.giffy.be:8080/live/dennis/dennis/31758.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+NUMERO 23 | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9807.ts@[COLOR green]OK 200 Retry 2[/COLOR]
+OCS CHOC | HD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9806.ts@[COLOR green]OK 200 Retry 2[/COLOR]
+OCS CITY | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9805.ts@[COLOR green]OK 200 Retry 2[/COLOR]
+OCS GEANTS | HD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9804.ts@[COLOR green]OK Same url Retry 2[/COLOR]
+OCS MAX | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9803.ts@[COLOR green]OK Same url Retry 2[/COLOR]
+OLTV | HD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9802.ts@[COLOR green]OK Same url Retry 2[/COLOR]
+OSC CITY | HD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9801.ts@[COLOR green]OK 200 Retry 2[/COLOR]
+PARAMOUNT | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9800.ts@[COLOR red] Bad Gateway Retry 3[/COLOR]
+PARIS PREMIERE | HD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9799.ts@[COLOR red] Bad Gateway Retry 3[/COLOR]
+PIWI | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9798.ts@[COLOR green]OK 200 Retry 2[/COLOR]
+PLANET A&E | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9797.ts@[COLOR green]OK 200 Retry 2[/COLOR]
+PLANETE CI | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9796.ts@[COLOR green]OK 200 Retry 2[/COLOR]
+RMC | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9795.ts@[COLOR green]OK 200 Retry 2[/COLOR]
+RTL 9 | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9794.ts@[COLOR red] Bad Gateway Retry 3[/COLOR]
+RTS DEUX | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9793.ts@[COLOR green]OK 200 Retry 3[/COLOR]
+RTS UN | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9792.ts@[COLOR red] Bad Gateway Retry 3[/COLOR]
+SFR SPORT 1 | HD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9791.ts@[COLOR red]timed out Retry 3[/COLOR]
+SFR SPORT 2HD | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9790.ts@[COLOR red] Bad Gateway Retry 3[/COLOR]
+SFR SPORT 3 | HD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9789.ts@[COLOR green]OK 200 Retry 2[/COLOR]
+SFR SPORT 5 | HD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9788.ts@[COLOR green]OK 200 Retry 2[/COLOR]
+SYFY | HD@http://p4.giffy.be:8080/live/dennis/dennis/31757.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+SYFY | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9787.ts@[COLOR green]OK 200 Retry 2[/COLOR]
+TELETOON | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9786.ts@[COLOR green]OK 200 Retry 2[/COLOR]
+TEVA | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9785.ts@[COLOR green]OK 200 Retry 2[/COLOR]
+TF1 | HD@http://p4.giffy.be:8080/live/dennis/dennis/31773.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+TF1 | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9784.ts@[COLOR green]OK 200 Retry 2[/COLOR]
+TMC | SD@http://p4.giffy.be:8080/live/dennis/dennis/31755.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+TMC | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9783.ts@[COLOR green]OK 200 Retry 2[/COLOR]
+TV BREIZH | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9782.ts@[COLOR green]OK 200 Retry 2[/COLOR]
+USHUAIA TV | HD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9781.ts@[COLOR green]OK 200 Retry 2[/COLOR]
+VOYAGE | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9780.ts@[COLOR red] Bad Gateway Retry 3[/COLOR]
+W9 | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9779.ts@[COLOR green]OK 200 Retry 2[/COLOR]
