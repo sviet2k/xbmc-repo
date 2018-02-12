@@ -1,194 +1,204 @@
-A&E | HD@http://p4.giffy.be:8080/live/dennis/dennis/22583.ts@OK 200 Retry 2
-A&E | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/9957.ts@OK 200 Retry 1
-ACTION | HD@http://p4.giffy.be:8080/live/dennis/dennis/31527.ts@HTTP Error 403: Forbidden Retry 3
-AMC | SD@http://p4.giffy.be:8080/live/dennis/dennis/29969.ts@OK 200 Retry 2
-ANIMAL PLANET | HD@http://p4.giffy.be:8080/live/dennis/dennis/21103.ts@OK 200 Retry 1
-BBC EARTH | HD@http://p4.giffy.be:8080/live/dennis/dennis/26163.ts@OK 200 Retry 1
-BEINSPORTS CANADA | SD@http://p4.giffy.be:8080/live/dennis/dennis/36570.ts@OK 200 Retry 2
-BET | SD@http://p4.giffy.be:8080/live/dennis/dennis/31528.ts@OK 200 Retry 1
-BNN | SD@http://p4.giffy.be:8080/live/dennis/dennis/31299.ts@OK 200 Retry 1
-BRAVO | HD@http://p4.giffy.be:8080/live/dennis/dennis/29962.ts@OK 200 Retry 1
-CARTOON NETWORK | SD@http://p4.giffy.be:8080/live/dennis/dennis/21995.ts@OK 200 Retry 1
-CBC | HD@http://reseller.media:25461/live/myra/myra/36162.ts@HTTP Error 403: Forbidden Retry 3
-CBC CALGARY | HD@http://p4.giffy.be:8080/live/dennis/dennis/22580.ts@HTTP Error 403: Forbidden Retry 3
-CBC EAST | HD@http://p4.giffy.be:8080/live/dennis/dennis/16517.ts@OK 200 Retry 1
-CBC EDMONTON | SD@http://p4.giffy.be:8080/live/dennis/dennis/31960.ts@HTTP Error 403: Forbidden Retry 3
-CBC MONTREAL | SD@http://p4.giffy.be:8080/live/dennis/dennis/31336.ts@HTTP Error 403: Forbidden Retry 3
-CBC NEWS EDMONTON | HD@http://p4.giffy.be:8080/live/dennis/dennis/20723.ts@HTTP Error 403: Forbidden Retry 3
-CBC NEWS NETWORK | HD@http://p4.giffy.be:8080/live/dennis/dennis/28635.ts@OK 200 Retry 1
-CBC VANCOUVER | HD@http://p4.giffy.be:8080/live/dennis/dennis/22591.ts@HTTP Error 403: Forbidden Retry 3
-CBS | HD@http://reseller.media:25461/live/myra/myra/36161.ts@HTTP Error 403: Forbidden Retry 3
-CITY CALGARY | HD@http://p4.giffy.be:8080/live/dennis/dennis/26565.ts@HTTP Error 403: Forbidden Retry 3
-CITY FHD | SD@http://reseller.media:25461/live/myra/myra/36160.ts@HTTP Error 403: Forbidden Retry 3
-CITY MTL | SD@http://p4.giffy.be:8080/live/dennis/dennis/31606.ts@HTTP Error 403: Forbidden Retry 3
-CITY TV EAST | SD@http://p4.giffy.be:8080/live/dennis/dennis/20712.ts@OK 200 Retry 1
-CITY VANCOUVER | HD@http://p4.giffy.be:8080/live/dennis/dennis/27765.ts@OK 200 Retry 1
-CMT | SD@http://p4.giffy.be:8080/live/dennis/dennis/31582.ts@OK 200 Retry 1
-CNN | HD@http://p4.giffy.be:8080/live/dennis/dennis/20916.ts@OK 200 Retry 1
-CNN | HD@http://p4.giffy.be:8080/live/dennis/dennis/36574.ts@OK 200 Retry 1
-COMEDY | HD@http://p4.giffy.be:8080/live/dennis/dennis/21109.ts@OK 200 Retry 2
-COTTAGE LIFE | HD@http://p4.giffy.be:8080/live/dennis/dennis/26077.ts@OK 200 Retry 1
-CP 24 | HD@http://reseller.media:25461/live/myra/myra/36159.ts@HTTP Error 403: Forbidden Retry 3
-CP24 | HD@http://p4.giffy.be:8080/live/dennis/dennis/20725.ts@OK 200 Retry 1
-CTV | HD@http://s1.iptvforver.com:8000/live/suisse/suisse/9956.ts@HTTP Error 502: Bad Gateway Retry 3
-CTV CALGARY | HD@http://p4.giffy.be:8080/live/dennis/dennis/22592.ts@OK 200 Retry 1
-CTV EAST | HD@http://p4.giffy.be:8080/live/dennis/dennis/21510.ts@OK 200 Retry 1
-CTV EDMONTON | HD@http://p4.giffy.be:8080/live/dennis/dennis/22590.ts@HTTP Error 403: Forbidden Retry 3
-CTV FHD | SD@http://reseller.media:25461/live/myra/myra/36158.ts@HTTP Error 403: Forbidden Retry 3
-CTV NEWS | SD@http://p4.giffy.be:8080/live/dennis/dennis/31446.ts@OK 200 Retry 1
-CW | HD@http://reseller.media:25461/live/myra/myra/36157.ts@HTTP Error 403: Forbidden Retry 3
-CW | HD@http://s1.iptvforver.com:8000/live/suisse/suisse/9955.ts@OK 200 Retry 1
-DISCOVERY | HD@http://p4.giffy.be:8080/live/dennis/dennis/21102.ts@OK 200 Retry 1
-DISNEY | HD@http://p4.giffy.be:8080/live/dennis/dennis/20728.ts@OK 200 Retry 1
-DISNEY | SD@http://p4.giffy.be:8080/live/dennis/dennis/20719.ts@HTTP Error 403: Forbidden Retry 3
-DISNEY JR | SD@http://p4.giffy.be:8080/live/dennis/dennis/20727.ts@OK 200 Retry 1
-DIY | HD@http://p4.giffy.be:8080/live/dennis/dennis/31529.ts@OK 200 Retry 1
-DTOUR | SD@http://p4.giffy.be:8080/live/dennis/dennis/31337.ts@OK 200 Retry 1
-F ADDIK TV | SD@http://p4.giffy.be:8080/live/dennis/dennis/35509.ts@OK 200 Retry 1
-F ARTV | SD@http://p4.giffy.be:8080/live/dennis/dennis/35508.ts@OK 200 Retry 1
-F CANAL D | SD@http://p4.giffy.be:8080/live/dennis/dennis/35507.ts@OK 200 Retry 1
-F CANAL SAVOIR | SD@http://p4.giffy.be:8080/live/dennis/dennis/35506.ts@OK 200 Retry 1
-F CASA | SD@http://p4.giffy.be:8080/live/dennis/dennis/35505.ts@OK 200 Retry 1
-F CBC MONTREAL | SD@http://p4.giffy.be:8080/live/dennis/dennis/35504.ts@OK 200 Retry 1
-F CINEPOP | SD@http://p4.giffy.be:8080/live/dennis/dennis/35503.ts@OK 200 Retry 1
-F CPAC FRENCH | SD@http://p4.giffy.be:8080/live/dennis/dennis/35502.ts@OK 200 Retry 1
-F DISNEY FRENCH | SD@http://p4.giffy.be:8080/live/dennis/dennis/35501.ts@OK 200 Retry 1
-F FRISIN | SD@http://p4.giffy.be:8080/live/dennis/dennis/35500.ts@HTTP Error 403: Forbidden Retry 3
-F HISTORIO | SD@http://p4.giffy.be:8080/live/dennis/dennis/35471.ts@OK 200 Retry 1
-F ICI MONTREAL | SD@http://p4.giffy.be:8080/live/dennis/dennis/35470.ts@OK 200 Retry 1
-F ICI VANCOUVER | SD@http://p4.giffy.be:8080/live/dennis/dennis/35469.ts@OK 200 Retry 1
-F LCN | SD@http://p4.giffy.be:8080/live/dennis/dennis/35499.ts@OK 200 Retry 1
-F MAGIO | SD@http://p4.giffy.be:8080/live/dennis/dennis/35498.ts@OK 200 Retry 1
-F MAX | SD@http://p4.giffy.be:8080/live/dennis/dennis/35495.ts@OK 200 Retry 1
-F METEO | SD@http://p4.giffy.be:8080/live/dennis/dennis/35497.ts@OK 200 Retry 1
-F MOI CIE | SD@http://p4.giffy.be:8080/live/dennis/dennis/35496.ts@OK 200 Retry 1
-F MUSIQUE PLUS | SD@http://p4.giffy.be:8080/live/dennis/dennis/35494.ts@OK 200 Retry 1
-F PRISE | SD@http://p4.giffy.be:8080/live/dennis/dennis/35493.ts@OK 200 Retry 1
-F RDI | SD@http://p4.giffy.be:8080/live/dennis/dennis/35492.ts@OK 200 Retry 1
-F RDS | SD@http://p4.giffy.be:8080/live/dennis/dennis/35491.ts@OK 200 Retry 1
-F RDS 2 | SD@http://p4.giffy.be:8080/live/dennis/dennis/35490.ts@OK 200 Retry 1
-F SERIS | SD@http://p4.giffy.be:8080/live/dennis/dennis/35489.ts@OK 200 Retry 1
-F SUPER ECRAN 1 | SD@http://p4.giffy.be:8080/live/dennis/dennis/35488.ts@OK 200 Retry 1
-F SUPER ECRAN 2 | SD@http://p4.giffy.be:8080/live/dennis/dennis/35487.ts@OK 200 Retry 1
-F SUPER ECRAN 3 | SD@http://p4.giffy.be:8080/live/dennis/dennis/35486.ts@OK 200 Retry 1
-F SUPER ECRAN 4 | SD@http://p4.giffy.be:8080/live/dennis/dennis/35485.ts@OK 200 Retry 1
-F TELE QUEBEC | SD@http://p4.giffy.be:8080/live/dennis/dennis/35484.ts@OK 200 Retry 1
-F TELE TOON FRENCH | SD@http://p4.giffy.be:8080/live/dennis/dennis/35483.ts@OK 200 Retry 1
-F TV5 QUEBEC | SD@http://p4.giffy.be:8080/live/dennis/dennis/35482.ts@OK 200 Retry 1
-F TVA GATINEAU | SD@http://p4.giffy.be:8080/live/dennis/dennis/35481.ts@OK 200 Retry 1
-F TVA MONTREAL | SD@http://p4.giffy.be:8080/live/dennis/dennis/35480.ts@HTTP Error 502: Bad Gateway Retry 3
-F TVA QUEBEC | SD@http://p4.giffy.be:8080/live/dennis/dennis/35479.ts@HTTP Error 502: Bad Gateway Retry 3
-F TVA SPORTS | SD@http://p4.giffy.be:8080/live/dennis/dennis/35478.ts@OK 200 Retry 1
-F V MONTREAL | SD@http://p4.giffy.be:8080/live/dennis/dennis/35477.ts@OK 200 Retry 3
-F VIE | SD@http://p4.giffy.be:8080/live/dennis/dennis/35476.ts@OK 200 Retry 1
-F VRAK TV | SD@http://p4.giffy.be:8080/live/dennis/dennis/35475.ts@OK 200 Retry 1
-F YOOPA | SD@http://p4.giffy.be:8080/live/dennis/dennis/35474.ts@OK 200 Retry 1
-F Z TELE | SD@http://p4.giffy.be:8080/live/dennis/dennis/35473.ts@OK 200 Retry 1
-F ZESTE | SD@http://p4.giffy.be:8080/live/dennis/dennis/35472.ts@OK 200 Retry 1
-FAMILY | HD@http://p4.giffy.be:8080/live/dennis/dennis/20731.ts@OK 200 Retry 1
-FAMILY JR | SD@http://p4.giffy.be:8080/live/dennis/dennis/20708.ts@HTTP Error 403: Forbidden Retry 3
-FOOD NETWORK | HD@http://p4.giffy.be:8080/live/dennis/dennis/29963.ts@OK 200 Retry 1
-FOX | HD@http://reseller.media:25461/live/myra/myra/36155.ts@HTTP Error 403: Forbidden Retry 3
-FOX | HD@http://s1.iptvforver.com:8000/live/suisse/suisse/9961.ts@HTTP Error 502: Bad Gateway Retry 3
-FOX EAST | SD@http://p4.giffy.be:8080/live/dennis/dennis/27768.ts@OK 200 Retry 1
-FX | HD@http://p4.giffy.be:8080/live/dennis/dennis/21097.ts@OK 200 Retry 1
-FXX | HD@http://p4.giffy.be:8080/live/dennis/dennis/29966.ts@OK 200 Retry 1
-GLOBAL | HD@http://s1.iptvforver.com:8000/live/suisse/suisse/9954.ts@HTTP Error 502: Bad Gateway Retry 3
-GLOBAL BC | HD@http://p4.giffy.be:8080/live/dennis/dennis/20720.ts@OK 200 Retry 1
-GLOBAL CALGARY | HD@http://p4.giffy.be:8080/live/dennis/dennis/22593.ts@HTTP Error 403: Forbidden Retry 3
-GLOBAL EAST | HD@http://p4.giffy.be:8080/live/dennis/dennis/22581.ts@OK 200 Retry 1
-GLOBAL FHD | SD@http://reseller.media:25461/live/myra/myra/36154.ts@HTTP Error 403: Forbidden Retry 3
-GR | SD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5307.ts@HTTP Error 401: Unauthorized Retry 3
-GR | SD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5310.ts@HTTP Error 401: Unauthorized Retry 3
-GR | SD@http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5311.ts@HTTP Error 401: Unauthorized Retry 3
-GUSTO | HD@http://p4.giffy.be:8080/live/dennis/dennis/20710.ts@OK 200 Retry 1
-HBO | HD@http://reseller.media:25461/live/myra/myra/36152.ts@HTTP Error 403: Forbidden Retry 3
-HBO | HD@http://s1.iptvforver.com:8000/live/suisse/suisse/9952.ts@OK 200 Retry 2
-HBO 2 | SD@http://reseller.media:25461/live/myra/myra/36153.ts@HTTP Error 403: Forbidden Retry 3
-HBO 2 | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/9953.ts@HTTP Error 502: Bad Gateway Retry 3
-HBO EAST | SD@http://p4.giffy.be:8080/live/dennis/dennis/31594.ts@OK 200 Retry 1
-HBO WEST | HD@http://p4.giffy.be:8080/live/dennis/dennis/26162.ts@OK 200 Retry 1
-HGTV | HD@http://p4.giffy.be:8080/live/dennis/dennis/21107.ts@OK 200 Retry 1
-HGTV | HD@http://reseller.media:25461/live/myra/myra/36151.ts@HTTP Error 403: Forbidden Retry 3
-HGTV | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/9951.ts@OK 200 Retry 3
-HIFI | HD@http://p4.giffy.be:8080/live/dennis/dennis/36576.ts@OK 200 Retry 1
-HISTORY | HD@http://p4.giffy.be:8080/live/dennis/dennis/21106.ts@OK 200 Retry 1
-HLN | HD@http://reseller.media:25461/live/myra/myra/36150.ts@HTTP Error 403: Forbidden Retry 3
-HLN | HD@http://s1.iptvforver.com:8000/live/suisse/suisse/9950.ts@OK 200 Retry 2
-ID | HD@http://p4.giffy.be:8080/live/dennis/dennis/31596.ts@OK 200 Retry 1
-LIFETIME | HD@http://p4.giffy.be:8080/live/dennis/dennis/21094.ts@OK 200 Retry 2
-LOVE NATURE | HD@http://p4.giffy.be:8080/live/dennis/dennis/21505.ts@HTTP Error 403: Forbidden Retry 3
-ME TV | HD@http://reseller.media:25461/live/myra/myra/36149.ts@HTTP Error 403: Forbidden Retry 3
-MOVIES | HD@http://reseller.media:25461/live/myra/myra/36148.ts@HTTP Error 403: Forbidden Retry 3
-MSNBC | HD@http://s1.iptvforver.com:8000/live/suisse/suisse/9948.ts@HTTP Error 502: Bad Gateway Retry 3
-MSNBC | SD@http://p4.giffy.be:8080/live/dennis/dennis/36575.ts@OK 200 Retry 1
-MUCHMUSIC | HD@http://p4.giffy.be:8080/live/dennis/dennis/29964.ts@OK 200 Retry 1
-NAT GEO | HD@http://p4.giffy.be:8080/live/dennis/dennis/21105.ts@OK 200 Retry 1
-NAT GEO WILD | HD@http://p4.giffy.be:8080/live/dennis/dennis/21104.ts@HTTP Error 403: Forbidden Retry 3
-NBA TV | HD@http://p4.giffy.be:8080/live/dennis/dennis/36568.ts@OK 200 Retry 1
-NBA TV | SD@http://p4.giffy.be:8080/live/dennis/dennis/20715.ts@OK 200 Retry 1
-NBC FHD | SD@http://reseller.media:25461/live/myra/myra/36147.ts@<urlopen error timed out> Retry 3
-OLN | SD@http://p4.giffy.be:8080/live/dennis/dennis/36569.ts@OK 200 Retry 1
-OMNI 1 | HD@http://p4.giffy.be:8080/live/dennis/dennis/22585.ts@OK 200 Retry 1
-OMNI 2 | HD@http://p4.giffy.be:8080/live/dennis/dennis/22586.ts@OK 200 Retry 1
-OUT TV | SD@http://p4.giffy.be:8080/live/dennis/dennis/20705.ts@OK 200 Retry 1
-OWN | HD@http://p4.giffy.be:8080/live/dennis/dennis/26454.ts@OK 200 Retry 1
-OWN | HD@http://reseller.media:25461/live/myra/myra/36146.ts@HTTP Error 403: Forbidden Retry 3
-OWN | HD@http://s1.iptvforver.com:8000/live/suisse/suisse/9946.ts@OK 200 Retry 2
-PBS | HD@http://reseller.media:25461/live/myra/myra/36144.ts@HTTP Error 403: Forbidden Retry 3
-PBS | HD@http://s1.iptvforver.com:8000/live/suisse/suisse/9945.ts@HTTP Error 502: Bad Gateway Retry 3
-PBS FHD | SD@http://reseller.media:25461/live/myra/myra/36145.ts@HTTP Error 403: Forbidden Retry 3
-PBS PLUS FHD | SD@http://reseller.media:25461/live/myra/myra/36143.ts@HTTP Error 403: Forbidden Retry 3
-PEACHTREE | SD@http://p4.giffy.be:8080/live/dennis/dennis/30891.ts@OK 200 Retry 1
-PT | SD@http://p4.giffy.be:8080/live/dennis/dennis/36462.ts@OK 200 Retry 1
-PT | SD@http://p4.giffy.be:8080/live/dennis/dennis/36464.ts@OK 200 Retry 1
-PT | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/9286.ts@OK 200 Retry 1
-RDS2 | HD@http://p4.giffy.be:8080/live/dennis/dennis/36567.ts@OK 200 Retry 1
-SHOWCASE | SD@http://p4.giffy.be:8080/live/dennis/dennis/32499.ts@OK 200 Retry 1
-SLICE | HD@http://p4.giffy.be:8080/live/dennis/dennis/21095.ts@OK 200 Retry 1
-SLICE | HD@http://reseller.media:25461/live/myra/myra/36142.ts@HTTP Error 403: Forbidden Retry 3
-SLICE | HD@http://s1.iptvforver.com:8000/live/suisse/suisse/9944.ts@OK 200 Retry 1
-SMITHSONIAN | HD@http://p4.giffy.be:8080/live/dennis/dennis/31674.ts@OK 200 Retry 1
-SN ONE | SD@http://reseller.media:25461/live/myra/myra/36141.ts@HTTP Error 403: Forbidden Retry 3
-SPACE | SD@http://p4.giffy.be:8080/live/dennis/dennis/30892.ts@OK 200 Retry 1
-SPIKE / PARAMOUNT | HD@http://p4.giffy.be:8080/live/dennis/dennis/31531.ts@OK 200 Retry 1
-SPORTS NET 360 | HD@http://reseller.media:25461/live/myra/myra/36140.ts@HTTP Error 403: Forbidden Retry 3
-SPORTS NET EAST | HD@http://reseller.media:25461/live/myra/myra/36139.ts@HTTP Error 403: Forbidden Retry 3
-SPORTS NET ONE | HD@http://reseller.media:25461/live/myra/myra/36138.ts@HTTP Error 403: Forbidden Retry 3
-SPORTS NET ONTARIO | HD@http://reseller.media:25461/live/myra/myra/36137.ts@HTTP Error 403: Forbidden Retry 3
-SPORTS NET PACIFIC | HD@http://reseller.media:25461/live/myra/myra/36136.ts@HTTP Error 403: Forbidden Retry 3
-SPORTS NET PACIFIC | HD@http://s1.iptvforver.com:8000/live/suisse/suisse/9960.ts@HTTP Error 403: Forbidden Retry 3
-SPORTS NET WEST | HD@http://reseller.media:25461/live/myra/myra/36135.ts@HTTP Error 403: Forbidden Retry 3
-SPORTS NET WEST | HD@http://s1.iptvforver.com:8000/live/suisse/suisse/9959.ts@HTTP Error 403: Forbidden Retry 3
-SPORTS NET WORLD | HD@http://reseller.media:25461/live/myra/myra/36134.ts@HTTP Error 403: Forbidden Retry 3
-SPORTS NET WORLD HD | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/9958.ts@HTTP Error 403: Forbidden Retry 3
-SUPER CH1 | HD@http://p4.giffy.be:8080/live/dennis/dennis/26078.ts@OK 200 Retry 1
-SUPER CH3 | HD@http://p4.giffy.be:8080/live/dennis/dennis/26079.ts@OK 200 Retry 1
-SUPER ECRAN 1 | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/9935.ts@HTTP Error 403: Forbidden Retry 3
-SUPER ECRAN 2 | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/9934.ts@HTTP Error 403: Forbidden Retry 3
-TLC | HD@http://p4.giffy.be:8080/live/dennis/dennis/36571.ts@OK 200 Retry 1
-TLC | HD@http://reseller.media:25461/live/myra/myra/36133.ts@HTTP Error 403: Forbidden Retry 3
-TLC | HD@http://s1.iptvforver.com:8000/live/suisse/suisse/9943.ts@HTTP Error 502: Bad Gateway Retry 3
-TMN 1 | SD@http://p4.giffy.be:8080/live/dennis/dennis/21114.ts@OK 200 Retry 1
-TMN 2 | HD@http://p4.giffy.be:8080/live/dennis/dennis/21113.ts@HTTP Error 403: Forbidden Retry 3
-TMN 3 | HD@http://p4.giffy.be:8080/live/dennis/dennis/29968.ts@OK 200 Retry 1
-TREEHOUSE | HD@http://p4.giffy.be:8080/live/dennis/dennis/20732.ts@OK 200 Retry 1
-TSNET 360 | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/9942.ts@HTTP Error 502: Bad Gateway Retry 3
-TSNET EEAST | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/9941.ts@HTTP Error 502: Bad Gateway Retry 3
-TSNET ONE | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/9940.ts@HTTP Error 502: Bad Gateway Retry 3
-TSNET ONTARIO | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/9939.ts@timed out Retry 3
-TSNET WEST | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/9938.ts@HTTP Error 502: Bad Gateway Retry 3
-TSNET WORLD | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/9937.ts@HTTP Error 502: Bad Gateway Retry 3
-TURNER CLASSIC MOVIES | SD@http://p4.giffy.be:8080/live/dennis/dennis/31533.ts@OK 200 Retry 1
-TVA SPORTS | SD@http://p4.giffy.be:8080/live/dennis/dennis/36573.ts@OK 200 Retry 1
-TVA SPORTS2 | SD@http://p4.giffy.be:8080/live/dennis/dennis/36572.ts@OK 200 Retry 1
-TVO | SD@http://p4.giffy.be:8080/live/dennis/dennis/20709.ts@OK 200 Retry 1
-US | HD@http://89.38.98.85:8080/live/ali01/ali01/9754.ts@HTTP Error 401: Unauthorized Retry 3
-US | HD@http://89.38.98.85:8080/live/ali01/ali01/9755.ts@HTTP Error 401: Unauthorized Retry 3
-US | HD@http://89.38.98.85:8080/live/ali01/ali01/9756.ts@HTTP Error 401: Unauthorized Retry 3
-US | HD@http://89.38.98.85:8080/live/ali01/ali01/9757.ts@HTTP Error 401: Unauthorized Retry 3
-US | HD@http://89.38.98.85:8080/live/ali01/ali01/9758.ts@HTTP Error 401: Unauthorized Retry 3
-VELOCITY | HD@http://p4.giffy.be:8080/live/dennis/dennis/22587.ts@OK 200 Retry 1
-WORLD | HD@http://reseller.media:25461/live/myra/myra/36132.ts@HTTP Error 403: Forbidden Retry 3
-WORLD FISHING NETWORK | SD@http://s1.iptvforver.com:8000/live/suisse/suisse/9947.ts@OK 200 Retry 2
-YTV | HD@http://p4.giffy.be:8080/live/dennis/dennis/20730.ts@OK 200 Retry 1
+A&E | HD@http://p4.giffy.be:8080/live/dennis/dennis/22583.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+A&E | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9685.ts@[COLOR green]OK 200 Retry 2[/COLOR]
+ACTION | HD@http://p4.giffy.be:8080/live/dennis/dennis/31527.ts@[COLOR red] Forbidden Retry 3[/COLOR]
+AHC | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9684.ts@[COLOR red] Bad Gateway Retry 3[/COLOR]
+AMC | SD@http://p4.giffy.be:8080/live/dennis/dennis/29969.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+AMC | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9683.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+ANIMAL PLANET | HD@http://p4.giffy.be:8080/live/dennis/dennis/21103.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+ANIMAL PLANET | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9682.ts@[COLOR red]timed out Retry 3[/COLOR]
+BBC EARTH | HD@http://p4.giffy.be:8080/live/dennis/dennis/26163.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+BBC KIDS 1 | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9681.ts@[COLOR red] Bad Gateway Retry 3[/COLOR]
+BEINSPORTS CANADA | SD@http://p4.giffy.be:8080/live/dennis/dennis/36570.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+BET | SD@http://p4.giffy.be:8080/live/dennis/dennis/31528.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+BNN | SD@http://p4.giffy.be:8080/live/dennis/dennis/31299.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+BRAVO | HD@http://p4.giffy.be:8080/live/dennis/dennis/29962.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+BRAVO | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9680.ts@[COLOR green]OK 200 Retry 3[/COLOR]
+CARTOON NETWORK | SD@http://p4.giffy.be:8080/live/dennis/dennis/21995.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+CARTOON NETWORK | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9676.ts@[COLOR red]timed out Retry 3[/COLOR]
+CBC CALGARY | HD@http://p4.giffy.be:8080/live/dennis/dennis/22580.ts@[COLOR red] Not Acceptable Retry 3[/COLOR]
+CBC EAST | HD@http://p4.giffy.be:8080/live/dennis/dennis/16517.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+CBC EDMONTON | SD@http://p4.giffy.be:8080/live/dennis/dennis/31960.ts@[COLOR red] Not Acceptable Retry 3[/COLOR]
+CBC MONTREAL | SD@http://p4.giffy.be:8080/live/dennis/dennis/31336.ts@[COLOR red] Not Acceptable Retry 3[/COLOR]
+CBC NEWS EDMONTON | HD@http://p4.giffy.be:8080/live/dennis/dennis/20723.ts@[COLOR red] Not Acceptable Retry 3[/COLOR]
+CBC NEWS NETWORK | HD@http://p4.giffy.be:8080/live/dennis/dennis/28635.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+CBC VANCOUVER | HD@http://p4.giffy.be:8080/live/dennis/dennis/22591.ts@[COLOR red] Forbidden Retry 3[/COLOR]
+CHET TV | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9679.ts@[COLOR green]OK 200 Retry 2[/COLOR]
+CI | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9678.ts@[COLOR green]OK 200 Retry 2[/COLOR]
+CITY CALGARY | HD@http://p4.giffy.be:8080/live/dennis/dennis/26565.ts@[COLOR red] Not Acceptable Retry 3[/COLOR]
+CITY MTL | SD@http://p4.giffy.be:8080/live/dennis/dennis/31606.ts@[COLOR red] Forbidden Retry 3[/COLOR]
+CITY TV | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9677.ts@[COLOR red] Bad Gateway Retry 3[/COLOR]
+CITY TV EAST | SD@http://p4.giffy.be:8080/live/dennis/dennis/20712.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+CITY VANCOUVER | HD@http://p4.giffy.be:8080/live/dennis/dennis/27765.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+CMT | SD@http://p4.giffy.be:8080/live/dennis/dennis/31582.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+CNBC | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9675.ts@[COLOR red] Bad Gateway Retry 3[/COLOR]
+CNN | HD@http://p4.giffy.be:8080/live/dennis/dennis/20916.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+CNN | HD@http://p4.giffy.be:8080/live/dennis/dennis/36574.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+COMEDY | HD@http://p4.giffy.be:8080/live/dennis/dennis/21109.ts@[COLOR green]OK 200 Retry 2[/COLOR]
+COMEDY | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9674.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+COMEDY GOLD | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9673.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+COTTAGE LIFE | HD@http://p4.giffy.be:8080/live/dennis/dennis/26077.ts@[COLOR green]OK 200 Retry 2[/COLOR]
+COTTAGE TV LIFE | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9672.ts@[COLOR green]OK 200 Retry 2[/COLOR]
+CP24 | HD@http://p4.giffy.be:8080/live/dennis/dennis/20725.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+CTV | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9671.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+CTV CALGARY | HD@http://p4.giffy.be:8080/live/dennis/dennis/22592.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+CTV EAST | HD@http://p4.giffy.be:8080/live/dennis/dennis/21510.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+CTV EDMONTON | HD@http://p4.giffy.be:8080/live/dennis/dennis/22590.ts@[COLOR red] Not Acceptable Retry 3[/COLOR]
+CTV NEWS | SD@http://p4.giffy.be:8080/live/dennis/dennis/31446.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+DISCOVERY | HD@http://p4.giffy.be:8080/live/dennis/dennis/21102.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+DISCOVERY CHANNEL | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9670.ts@[COLOR green]OK Same url Retry 2[/COLOR]
+DISCOVERY SCIENCE | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9669.ts@[COLOR green]OK Same url Retry 2[/COLOR]
+DISNEY | HD@http://p4.giffy.be:8080/live/dennis/dennis/20728.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+DISNEY | SD@http://p4.giffy.be:8080/live/dennis/dennis/20719.ts@[COLOR red] Forbidden Retry 3[/COLOR]
+DISNEY | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9668.ts@[COLOR red]timed out Retry 3[/COLOR]
+DISNEY JR | SD@http://p4.giffy.be:8080/live/dennis/dennis/20727.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+DISNEY JR | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9667.ts@[COLOR green]OK 200 Retry 2[/COLOR]
+DIY | HD@http://p4.giffy.be:8080/live/dennis/dennis/31529.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+DOCUMENTARY | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9666.ts@[COLOR green]OK 200 Retry 3[/COLOR]
+DTOUR | SD@http://p4.giffy.be:8080/live/dennis/dennis/31337.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+F ADDIK TV | SD@http://p4.giffy.be:8080/live/dennis/dennis/35509.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+F ARTV | SD@http://p4.giffy.be:8080/live/dennis/dennis/35508.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+F CANAL D | SD@http://p4.giffy.be:8080/live/dennis/dennis/35507.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+F CANAL SAVOIR | SD@http://p4.giffy.be:8080/live/dennis/dennis/35506.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+F CASA | SD@http://p4.giffy.be:8080/live/dennis/dennis/35505.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+F CBC MONTREAL | SD@http://p4.giffy.be:8080/live/dennis/dennis/35504.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+F CINEPOP | SD@http://p4.giffy.be:8080/live/dennis/dennis/35503.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+F CPAC FRENCH | SD@http://p4.giffy.be:8080/live/dennis/dennis/35502.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+F DISNEY FRENCH | SD@http://p4.giffy.be:8080/live/dennis/dennis/35501.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+F FRISIN | SD@http://p4.giffy.be:8080/live/dennis/dennis/35500.ts@[COLOR red] Forbidden Retry 3[/COLOR]
+F HISTORIO | SD@http://p4.giffy.be:8080/live/dennis/dennis/35471.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+F ICI MONTREAL | SD@http://p4.giffy.be:8080/live/dennis/dennis/35470.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+F ICI VANCOUVER | SD@http://p4.giffy.be:8080/live/dennis/dennis/35469.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+F LCN | SD@http://p4.giffy.be:8080/live/dennis/dennis/35499.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+F MAGIO | SD@http://p4.giffy.be:8080/live/dennis/dennis/35498.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+F MAX | SD@http://p4.giffy.be:8080/live/dennis/dennis/35495.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+F METEO | SD@http://p4.giffy.be:8080/live/dennis/dennis/35497.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+F MOI CIE | SD@http://p4.giffy.be:8080/live/dennis/dennis/35496.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+F MUSIQUE PLUS | SD@http://p4.giffy.be:8080/live/dennis/dennis/35494.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+F PRISE | SD@http://p4.giffy.be:8080/live/dennis/dennis/35493.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+F RDI | SD@http://p4.giffy.be:8080/live/dennis/dennis/35492.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+F RDS | SD@http://p4.giffy.be:8080/live/dennis/dennis/35491.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+F RDS 2 | SD@http://p4.giffy.be:8080/live/dennis/dennis/35490.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+F SERIS | SD@http://p4.giffy.be:8080/live/dennis/dennis/35489.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+F SUPER ECRAN 1 | SD@http://p4.giffy.be:8080/live/dennis/dennis/35488.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+F SUPER ECRAN 2 | SD@http://p4.giffy.be:8080/live/dennis/dennis/35487.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+F SUPER ECRAN 3 | SD@http://p4.giffy.be:8080/live/dennis/dennis/35486.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+F SUPER ECRAN 4 | SD@http://p4.giffy.be:8080/live/dennis/dennis/35485.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+F TELE QUEBEC | SD@http://p4.giffy.be:8080/live/dennis/dennis/35484.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+F TELE TOON FRENCH | SD@http://p4.giffy.be:8080/live/dennis/dennis/35483.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+F TV5 QUEBEC | SD@http://p4.giffy.be:8080/live/dennis/dennis/35482.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+F TVA GATINEAU | SD@http://p4.giffy.be:8080/live/dennis/dennis/35481.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+F TVA MONTREAL | SD@http://p4.giffy.be:8080/live/dennis/dennis/35480.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+F TVA QUEBEC | SD@http://p4.giffy.be:8080/live/dennis/dennis/35479.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+F TVA SPORTS | SD@http://p4.giffy.be:8080/live/dennis/dennis/35478.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+F V MONTREAL | SD@http://p4.giffy.be:8080/live/dennis/dennis/35477.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+F VIE | SD@http://p4.giffy.be:8080/live/dennis/dennis/35476.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+F VRAK TV | SD@http://p4.giffy.be:8080/live/dennis/dennis/35475.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+F YOOPA | SD@http://p4.giffy.be:8080/live/dennis/dennis/35474.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+F Z TELE | SD@http://p4.giffy.be:8080/live/dennis/dennis/35473.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+F ZESTE | SD@http://p4.giffy.be:8080/live/dennis/dennis/35472.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+FAMILY | HD@http://p4.giffy.be:8080/live/dennis/dennis/20731.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+FAMILY CHANNEL | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9664.ts@[COLOR green]OK 200 Retry 2[/COLOR]
+FAMILY JR | SD@http://p4.giffy.be:8080/live/dennis/dennis/20708.ts@[COLOR red] Forbidden Retry 3[/COLOR]
+FAMILY JUNIOR | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9665.ts@[COLOR green]OK 200 Retry 2[/COLOR]
+FAMJR | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9663.ts@[COLOR green]OK Same url Retry 2[/COLOR]
+FIGHT NETWORK | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9662.ts@[COLOR green]OK 200 Retry 2[/COLOR]
+FOOD NETWORK | HD@http://p4.giffy.be:8080/live/dennis/dennis/29963.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+FOOD NETWORK | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9661.ts@[COLOR green]OK 200 Retry 2[/COLOR]
+FOX EAST | SD@http://p4.giffy.be:8080/live/dennis/dennis/27768.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+FOX-E | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9660.ts@[COLOR red] Bad Gateway Retry 3[/COLOR]
+FOX-W | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9659.ts@[COLOR red] Bad Gateway Retry 3[/COLOR]
+FOXNC | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9658.ts@[COLOR red] Bad Gateway Retry 3[/COLOR]
+FX | HD@http://p4.giffy.be:8080/live/dennis/dennis/21097.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+FXX | HD@http://p4.giffy.be:8080/live/dennis/dennis/29966.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+G4 | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9657.ts@[COLOR red] Bad Gateway Retry 3[/COLOR]
+GAME TV | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9656.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+GLOBAL | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9655.ts@[COLOR red] Bad Gateway Retry 3[/COLOR]
+GLOBAL BC | HD@http://p4.giffy.be:8080/live/dennis/dennis/20720.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+GLOBAL CALGARY | HD@http://p4.giffy.be:8080/live/dennis/dennis/22593.ts@[COLOR red] Not Acceptable Retry 3[/COLOR]
+GLOBAL EAST | HD@http://p4.giffy.be:8080/live/dennis/dennis/22581.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+GUSTO | HD@http://p4.giffy.be:8080/live/dennis/dennis/20710.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+HBO | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9654.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+HBO 2 | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9653.ts@[COLOR red] Bad Gateway Retry 3[/COLOR]
+HBO EAST | SD@http://p4.giffy.be:8080/live/dennis/dennis/31594.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+HBO WEST | HD@http://p4.giffy.be:8080/live/dennis/dennis/26162.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+HGTV | HD@http://p4.giffy.be:8080/live/dennis/dennis/21107.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+HGTV | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9652.ts@[COLOR green]OK 200 Retry 3[/COLOR]
+HIFI | HD@http://p4.giffy.be:8080/live/dennis/dennis/36576.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+HISTORY | HD@http://p4.giffy.be:8080/live/dennis/dennis/21106.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+HISTORY | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9651.ts@[COLOR green]OK 200 Retry 2[/COLOR]
+HLN | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9650.ts@[COLOR green]OK 200 Retry 2[/COLOR]
+ID | HD@http://p4.giffy.be:8080/live/dennis/dennis/31596.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+LEAFS TV | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9649.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+LIFETIME | HD@http://p4.giffy.be:8080/live/dennis/dennis/21094.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+LOVE NATURE | HD@http://p4.giffy.be:8080/live/dennis/dennis/21505.ts@[COLOR red] Forbidden Retry 3[/COLOR]
+MSNBC | SD@http://p4.giffy.be:8080/live/dennis/dennis/36575.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+MUCHMUSIC | HD@http://p4.giffy.be:8080/live/dennis/dennis/29964.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+NAT GEO | HD@http://p4.giffy.be:8080/live/dennis/dennis/21105.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+NAT GEO WILD | HD@http://p4.giffy.be:8080/live/dennis/dennis/21104.ts@[COLOR red] Forbidden Retry 3[/COLOR]
+NBA TV | HD@http://p4.giffy.be:8080/live/dennis/dennis/36568.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+NBA TV | SD@http://p4.giffy.be:8080/live/dennis/dennis/20715.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+NBA TV | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9648.ts@[COLOR red] Bad Gateway Retry 3[/COLOR]
+OLN | SD@http://p4.giffy.be:8080/live/dennis/dennis/36569.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+OMNI 1 | HD@http://p4.giffy.be:8080/live/dennis/dennis/22585.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+OMNI 2 | HD@http://p4.giffy.be:8080/live/dennis/dennis/22586.ts@[COLOR green]OK 200 Retry 2[/COLOR]
+OUT TV | SD@http://p4.giffy.be:8080/live/dennis/dennis/20705.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+OWN | HD@http://p4.giffy.be:8080/live/dennis/dennis/26454.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+OWN | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9647.ts@[COLOR green]OK 200 Retry 2[/COLOR]
+PEACH TREE TV | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9646.ts@[COLOR green]OK 200 Retry 2[/COLOR]
+PEACHTREE | SD@http://p4.giffy.be:8080/live/dennis/dennis/30891.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+PT | SD@http://p4.giffy.be:8080/live/dennis/dennis/36462.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+PT | SD@http://p4.giffy.be:8080/live/dennis/dennis/36464.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+RDS2 | HD@http://p4.giffy.be:8080/live/dennis/dennis/36567.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+SHOWCASE | SD@http://p4.giffy.be:8080/live/dennis/dennis/32499.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+SHOWTIME EAST | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9645.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+SLICE | HD@http://p4.giffy.be:8080/live/dennis/dennis/21095.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+SLICE | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9644.ts@[COLOR green]OK Same url Retry 3[/COLOR]
+SMITHSONIAN | HD@http://p4.giffy.be:8080/live/dennis/dennis/31674.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+SN 360 | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9643.ts@[COLOR green]OK Same url Retry 2[/COLOR]
+SPACE | SD@http://p4.giffy.be:8080/live/dennis/dennis/30892.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+SPACE | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9642.ts@[COLOR green]OK 200 Retry 2[/COLOR]
+SPIKE | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9641.ts@[COLOR green]OK Same url Retry 1[/COLOR]
+SPIKE / PARAMOUNT | HD@http://p4.giffy.be:8080/live/dennis/dennis/31531.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+SPORTSNET | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9639.ts@[COLOR red] Bad Gateway Retry 3[/COLOR]
+SPORTSNET 360 | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9640.ts@[COLOR green]OK 200 Retry 3[/COLOR]
+SPORTSNET LA | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9638.ts@[COLOR red] Bad Gateway Retry 3[/COLOR]
+SPORTSNET ONE | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9637.ts@[COLOR green]OK Same url Retry 2[/COLOR]
+SPORTSNET ONTARIO | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9636.ts@[COLOR red] Bad Gateway Retry 3[/COLOR]
+SPORTSNET PACIFIC | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9635.ts@[COLOR green]OK 200 Retry 2[/COLOR]
+SPORTSNET WEST | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9634.ts@[COLOR red] Bad Gateway Retry 3[/COLOR]
+SPORTSNET WORLD | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9633.ts@[COLOR red] Bad Gateway Retry 3[/COLOR]
+SUPER CH1 | HD@http://p4.giffy.be:8080/live/dennis/dennis/26078.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+SUPER CH3 | HD@http://p4.giffy.be:8080/live/dennis/dennis/26079.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+SUPER CHANNEL GINX LOCAL | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9632.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+SUPER CHANNEL VAULT | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9631.ts@[COLOR green]OK 200 Retry 2[/COLOR]
+SUPER ECRAN 1 | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9630.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+SUPER ECRAN 2 | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9629.ts@[COLOR green]OK 200 Retry 2[/COLOR]
+THE MOVIE NETWORK 1 | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9628.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+THE MOVIE NETWORK 2 | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9627.ts@[COLOR red] Bad Gateway Retry 3[/COLOR]
+THE MOVIE NETWORK 3 | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9626.ts@[COLOR red] Bad Gateway Retry 3[/COLOR]
+THE MOVIE NETWORK 4 | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9625.ts@[COLOR red] Bad Gateway Retry 3[/COLOR]
+THE MOVIE NETWORK ENCORE 1 | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9624.ts@[COLOR red] Bad Gateway Retry 3[/COLOR]
+THE MOVIE NETWORK ENCORE 2 | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9623.ts@[COLOR red] Bad Gateway Retry 3[/COLOR]
+TLC | HD@http://p4.giffy.be:8080/live/dennis/dennis/36571.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+TLC | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9622.ts@[COLOR green]OK 200 Retry 2[/COLOR]
+TMN 1 | SD@http://p4.giffy.be:8080/live/dennis/dennis/21114.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+TMN 2 | HD@http://p4.giffy.be:8080/live/dennis/dennis/21113.ts@[COLOR red] Forbidden Retry 3[/COLOR]
+TMN 3 | HD@http://p4.giffy.be:8080/live/dennis/dennis/29968.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+TOON EAST | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9621.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+TOONE | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9620.ts@[COLOR red] Bad Gateway Retry 3[/COLOR]
+TRAVEL & ESCAPE | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9619.ts@[COLOR red] Bad Gateway Retry 3[/COLOR]
+TREEHOUSE | HD@http://p4.giffy.be:8080/live/dennis/dennis/20732.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+TREEHOUSE TV | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9618.ts@[COLOR red] Bad Gateway Retry 3[/COLOR]
+TSN 1 | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9617.ts@[COLOR red] Bad Gateway Retry 3[/COLOR]
+TSN 2 | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9616.ts@[COLOR red] Bad Gateway Retry 3[/COLOR]
+TSN 3 | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9615.ts@[COLOR green]OK 200 Retry 2[/COLOR]
+TSN 4 | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9614.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+TSN 5 | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9613.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+TURNER CLASSIC MOVIES | SD@http://p4.giffy.be:8080/live/dennis/dennis/31533.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+TVA SPORTS | SD@http://p4.giffy.be:8080/live/dennis/dennis/36573.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+TVA SPORTS2 | SD@http://p4.giffy.be:8080/live/dennis/dennis/36572.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+TVO | SD@http://p4.giffy.be:8080/live/dennis/dennis/20709.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+TVO | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9612.ts@[COLOR red] Bad Gateway Retry 3[/COLOR]
+VELOCITY | HD@http://p4.giffy.be:8080/live/dennis/dennis/22587.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+WORLD FISHING NETWORK | SD@http://s1.iptv61w.com:25461/live/mateo/mateo123/9611.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+YTV | HD@http://p4.giffy.be:8080/live/dennis/dennis/20730.ts@[COLOR green]OK 200 Retry 1[/COLOR]
