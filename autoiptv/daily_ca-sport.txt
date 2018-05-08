@@ -1,0 +1,3 @@
+[COLOR green]Check Date: 20180508-1701[/COLOR]@@OK
+[COLOR green]Filename: daily_ca Date: Tue Feb 20 10:43:07 2018[/COLOR]@URLFilenamedaily_ca@OK Filename
+ 53-CA | BEINSPORTS CANADA [COLOR red]OK  Unauthorized Retry 1[/COLOR]@ 53-CA | BEINSPORTS CANADA [COLOR red]OK  Unauthorized Retry 1[/COLOR]URLhttp://s1.electru.biz:8080/live/ben123/ben123/36570.ts@[COLOR red]OK  Unauthorized Retry 1[/COLOR]

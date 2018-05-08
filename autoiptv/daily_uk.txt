@@ -1,4 +1,4 @@
-[COLOR yellow]daily_uk.txt - Date: 20180423-1359 [/COLOR]@Filename@OK Filename
+[COLOR yellow]daily_uk.txt - Date: 20180508-1701 [/COLOR]@Filename@OK Filename
   1-UK: 5 Usa@http://dani.moppie.info:7444/live/ldaxllzFvV/yT8Wwyz3y5/7397.ts@[COLOR red]OK  Unauthorized Retry 1[/COLOR]
   2-UK: Alibi@http://dani.moppie.info:7444/live/ldaxllzFvV/yT8Wwyz3y5/7403.ts@[COLOR red]OK  Unauthorized Retry 1[/COLOR]
   3-UK: Animal Planet HD@http://dani.moppie.info:7444/live/ldaxllzFvV/yT8Wwyz3y5/7372.ts@[COLOR red]OK  Unauthorized Retry 1[/COLOR]
@@ -60,7 +60,7 @@
  59-UK: Movies 4Men@http://dani.moppie.info:7444/live/ldaxllzFvV/yT8Wwyz3y5/7360.ts@[COLOR red]OK  Unauthorized Retry 1[/COLOR]
  60-UK: Mtv Base@http://dani.moppie.info:7444/live/ldaxllzFvV/yT8Wwyz3y5/7307.ts@[COLOR red]OK  Unauthorized Retry 1[/COLOR]
  61-UK: Mtv Classic@http://dani.moppie.info:7444/live/ldaxllzFvV/yT8Wwyz3y5/7306.ts@[COLOR red]OK  Unauthorized Retry 1[/COLOR]
- 62-UK: MTV Dance@http://dani.moppie.info:7444/live/ldaxllzFvV/yT8Wwyz3y5/7308.ts@[COLOR red]<urlopen error timed out> Retry 1[/COLOR]
+ 62-UK: MTV Dance@http://dani.moppie.info:7444/live/ldaxllzFvV/yT8Wwyz3y5/7308.ts@[COLOR red]OK  Unauthorized Retry 1[/COLOR]
  63-UK: Racing@http://dani.moppie.info:7444/live/ldaxllzFvV/yT8Wwyz3y5/7311.ts@[COLOR red]<urlopen error timed out> Retry 1[/COLOR]
  64-UK: Real Lives@http://dani.moppie.info:7444/live/ldaxllzFvV/yT8Wwyz3y5/7391.ts@[COLOR red]<urlopen error timed out> Retry 1[/COLOR]
  65-UK: Really@http://dani.moppie.info:7444/live/ldaxllzFvV/yT8Wwyz3y5/7394.ts@[COLOR red]<urlopen error timed out> Retry 1[/COLOR]
@@ -93,7 +93,7 @@
  92-UK: Sky Sports 4@http://dani.moppie.info:7444/live/ldaxllzFvV/yT8Wwyz3y5/7340.ts@[COLOR red]<urlopen error timed out> Retry 1[/COLOR]
  93-UK: Sky Sports 4 HD@http://dani.moppie.info:7444/live/ldaxllzFvV/yT8Wwyz3y5/7339.ts@[COLOR red]<urlopen error timed out> Retry 1[/COLOR]
  94-UK: Sky Sports 5@http://dani.moppie.info:7444/live/ldaxllzFvV/yT8Wwyz3y5/7338.ts@[COLOR red]<urlopen error timed out> Retry 1[/COLOR]
-[COLOR yellow]File ...ist-2018-04-04-1.m3u Found 61 Total 282[/COLOR]@@OK Filename
+[COLOR yellow]File ...ist-2018-04-04-1.m3u Found 62 Total 282[/COLOR]@@OK Filename
 [COLOR yellow]File ...ylist-2018-04-04.m3u Found 0 Total 282[/COLOR]@@OK Filename
   1-BBC ONE@http://primetvmedia.com:10/live/Sean/Vod/1.ts@[COLOR red]OK  Unauthorized Retry 1[/COLOR]
   2-BBC Ireland@http://primetvmedia.com:10/live/Sean/Vod/4615.ts@[COLOR red]OK  Unauthorized Retry 1[/COLOR]
@@ -101,7 +101,7 @@
   4-BBC TWO@http://primetvmedia.com:10/live/Sean/Vod/2.ts@[COLOR red]OK  Unauthorized Retry 1[/COLOR]
   5-ITV 1@http://primetvmedia.com:10/live/Sean/Vod/3.ts@[COLOR red]OK  Unauthorized Retry 1[/COLOR]
   6-CHANNEL 4@http://primetvmedia.com:10/live/Sean/Vod/4.ts@[COLOR red]OK  Unauthorized Retry 1[/COLOR]
-  7-CHANNEL 5@http://primetvmedia.com:10/live/Sean/Vod/5.ts@[COLOR red]OK  Unauthorized Retry 1[/COLOR]
+  7-CHANNEL 5@http://primetvmedia.com:10/live/Sean/Vod/5.ts@[COLOR red]<urlopen error timed out> Retry 1[/COLOR]
   8-MY 5@http://primetvmedia.com:10/live/Sean/Vod/3110.ts@[COLOR red]OK  Unauthorized Retry 1[/COLOR]
   9-SKY ONE@http://primetvmedia.com:10/live/Sean/Vod/9.ts@[COLOR red]OK  Unauthorized Retry 1[/COLOR]
  10-SKY TWO@http://primetvmedia.com:10/live/Sean/Vod/10.ts@[COLOR red]OK  Unauthorized Retry 1[/COLOR]
@@ -175,4 +175,4 @@
  78-NATIONAL GEOGRAPHICAL UK@http://primetvmedia.com:10/live/Sean/Vod/142.ts@[COLOR red]OK  Unauthorized Retry 1[/COLOR]
  79-NAT GEO USA@http://primetvmedia.com:10/live/Sean/Vod/144.ts@[COLOR red]OK  Unauthorized Retry 1[/COLOR]
  80-NAT GEO WILD@http://primetvmedia.com:10/live/Sean/Vod/143.ts@[COLOR red]OK  Unauthorized Retry 1[/COLOR]
-[COLOR yellow]File ...ist-2018-04-03-1.m3u Found 80 Total 160[/COLOR]@@OK Filename
+[COLOR yellow]File ...ist-2018-04-03-1.m3u Found 79 Total 160[/COLOR]@@OK Filename

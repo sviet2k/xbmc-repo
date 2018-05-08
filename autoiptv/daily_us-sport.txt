@@ -1,0 +1,15 @@
+[COLOR green]Check Date: 20180508-1701[/COLOR]@@OK
+[COLOR green]Filename: daily_us Date: Tue Feb 20 10:52:50 2018[/COLOR]@URLFilenamedaily_us@OK Filename
+ 48-USA || ESPN [COLOR green]OK 200 Retry 1[/COLOR]@ 48-USA || ESPN [COLOR green]OK 200 Retry 1[/COLOR]URLhttp://disfruta.club:8000/live/gsuarez/gsuarez/7779.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+ 50-USA || ESPN 2 SD USA [COLOR green]OK 200 Retry 1[/COLOR]@ 50-USA || ESPN 2 SD USA [COLOR green]OK 200 Retry 1[/COLOR]URLhttp://disfruta.club:8000/live/gsuarez/gsuarez/7669.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+ 63-USA || Fox College Sports Atlantic [COLOR green]OK 200 Retry 1[/COLOR]@ 63-USA || Fox College Sports Atlantic [COLOR green]OK 200 Retry 1[/COLOR]URLhttp://disfruta.club:8000/live/gsuarez/gsuarez/7727.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+ 74-USA || Fox Sports Arizona [COLOR green]OK 200 Retry 1[/COLOR]@ 74-USA || Fox Sports Arizona [COLOR green]OK 200 Retry 1[/COLOR]URLhttp://disfruta.club:8000/live/gsuarez/gsuarez/7716.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+ 75-USA || Fox Sports Detroit [COLOR green]OK 200 Retry 1[/COLOR]@ 75-USA || Fox Sports Detroit [COLOR green]OK 200 Retry 1[/COLOR]URLhttp://disfruta.club:8000/live/gsuarez/gsuarez/7697.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+113-USA || MSNBC [COLOR green]OK 200 Retry 1[/COLOR]@113-USA || MSNBC [COLOR green]OK 200 Retry 1[/COLOR]URLhttp://disfruta.club:8000/live/gsuarez/gsuarez/7761.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+181-USA: Fox Sports 1 [COLOR green]OK 200 Retry 1[/COLOR]@181-USA: Fox Sports 1 [COLOR green]OK 200 Retry 1[/COLOR]URLhttp://disfruta.club:8000/live/gsuarez/gsuarez/13646.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+182-USA: Fox Sports 2 [COLOR green]OK Same url Retry 1[/COLOR]@182-USA: Fox Sports 2 [COLOR green]OK Same url Retry 1[/COLOR]URLhttp://disfruta.club:8000/live/gsuarez/gsuarez/13645.ts@[COLOR green]OK Same url Retry 1[/COLOR]
+185-USA: TSN 1 [COLOR green]OK 200 Retry 1[/COLOR]@185-USA: TSN 1 [COLOR green]OK 200 Retry 1[/COLOR]URLhttp://disfruta.club:8000/live/gsuarez/gsuarez/13651.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+186-USA: TSN 2 [COLOR green]OK 200 Retry 1[/COLOR]@186-USA: TSN 2 [COLOR green]OK 200 Retry 1[/COLOR]URLhttp://disfruta.club:8000/live/gsuarez/gsuarez/13650.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+187-USA: TSN 3 [COLOR green]OK 200 Retry 1[/COLOR]@187-USA: TSN 3 [COLOR green]OK 200 Retry 1[/COLOR]URLhttp://disfruta.club:8000/live/gsuarez/gsuarez/13649.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+188-USA: TSN 4 [COLOR green]OK 200 Retry 1[/COLOR]@188-USA: TSN 4 [COLOR green]OK 200 Retry 1[/COLOR]URLhttp://disfruta.club:8000/live/gsuarez/gsuarez/13648.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+189-USA: TSN 5 [COLOR green]OK 200 Retry 1[/COLOR]@189-USA: TSN 5 [COLOR green]OK 200 Retry 1[/COLOR]URLhttp://disfruta.club:8000/live/gsuarez/gsuarez/13647.ts@[COLOR green]OK 200 Retry 1[/COLOR]
