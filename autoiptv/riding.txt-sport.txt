@@ -1,2 +1,17 @@
-[COLOR green]Date: 20180319-1405[\COLOR]@@OK
-[COLOR green]Filename: riding Date: Mon Mar 19 14:05:47 2018[/COLOR]@1URLFilenameriding@OK Filename
+[COLOR green]Check Date: 20180508-1601[/COLOR]@@OK
+[COLOR green]Filename: riding Date: Tue May 08 13:34:02 2018[/COLOR]@URLFilenameriding@OK Filename
+ 96-US | ESPN U [COLOR green]OK 200 Retry 1[/COLOR]@ 96-US | ESPN U [COLOR green]OK 200 Retry 1[/COLOR]URLhttp://p4.giffy.be:8080/live/coke123/coke123/13861.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+ 97-US | ESPN News [COLOR green]OK 200 Retry 1[/COLOR]@ 97-US | ESPN News [COLOR green]OK 200 Retry 1[/COLOR]URLhttp://p4.giffy.be:8080/live/coke123/coke123/13862.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+100-US | FOX SPORTS 2 HD [COLOR green]OK 200 Retry 1[/COLOR]@100-US | FOX SPORTS 2 HD [COLOR green]OK 200 Retry 1[/COLOR]URLhttp://p4.giffy.be:8080/live/coke123/coke123/13879.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+110-US | TENNIS HD [COLOR green]OK 200 Retry 1[/COLOR]@110-US | TENNIS HD [COLOR green]OK 200 Retry 1[/COLOR]URLhttp://p4.giffy.be:8080/live/coke123/coke123/27825.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+118-BEIN SPORTS US HD. [COLOR green]OK 200 Retry 1[/COLOR]@118-BEIN SPORTS US HD. [COLOR green]OK 200 Retry 1[/COLOR]URLhttp://p4.giffy.be:8080/live/coke123/coke123/13890.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+348-US | MSNBC HD [COLOR green]OK 200 Retry 1[/COLOR]@348-US | MSNBC HD [COLOR green]OK 200 Retry 1[/COLOR]URLhttp://p4.giffy.be:8080/live/coke123/coke123/26075.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+866-FR: BEINSPORT 2HD [COLOR green]OK 200 Retry 1[/COLOR]@866-FR: BEINSPORT 2HD [COLOR green]OK 200 Retry 1[/COLOR]URLhttp://p4.giffy.be:8080/live/coke123/coke123/31766.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+867-FR: BEINSPORT 3HD [COLOR green]OK 200 Retry 1[/COLOR]@867-FR: BEINSPORT 3HD [COLOR green]OK 200 Retry 1[/COLOR]URLhttp://p4.giffy.be:8080/live/coke123/coke123/31765.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+870-FR: EUROSPORT 1 [COLOR green]OK 200 Retry 1[/COLOR]@870-FR: EUROSPORT 1 [COLOR green]OK 200 Retry 1[/COLOR]URLhttp://p4.giffy.be:8080/live/coke123/coke123/31764.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+960-CAN-F CPAC FRENCH [COLOR green]OK 200 Retry 1[/COLOR]@960-CAN-F CPAC FRENCH [COLOR green]OK 200 Retry 1[/COLOR]URLhttp://p4.giffy.be:8080/live/coke123/coke123/35502.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+974-CAN-F RDS [COLOR green]OK 200 Retry 1[/COLOR]@974-CAN-F RDS [COLOR green]OK 200 Retry 1[/COLOR]URLhttp://p4.giffy.be:8080/live/coke123/coke123/35491.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+975-CAN-F RDS 2 [COLOR green]OK 200 Retry 1[/COLOR]@975-CAN-F RDS 2 [COLOR green]OK 200 Retry 1[/COLOR]URLhttp://p4.giffy.be:8080/live/coke123/coke123/35490.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+987-CAN-F TVA SPORTS [COLOR green]OK 200 Retry 1[/COLOR]@987-CAN-F TVA SPORTS [COLOR green]OK 200 Retry 1[/COLOR]URLhttp://p4.giffy.be:8080/live/coke123/coke123/35478.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+1003-CA | BEINSPORTS CANADA [COLOR green]OK 200 Retry 1[/COLOR]@1003-CA | BEINSPORTS CANADA [COLOR green]OK 200 Retry 1[/COLOR]URLhttp://p4.giffy.be:8080/live/coke123/coke123/36570.ts@[COLOR green]OK 200 Retry 1[/COLOR]
+1008-CAN-F | TVA SPORTS2 [COLOR green]OK 200 Retry 1[/COLOR]@1008-CAN-F | TVA SPORTS2 [COLOR green]OK 200 Retry 1[/COLOR]URLhttp://p4.giffy.be:8080/live/coke123/coke123/36572.ts@[COLOR green]OK 200 Retry 1[/COLOR]
