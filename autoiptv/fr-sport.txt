@@ -1,4 +1,2 @@
-[COLOR green]Check Date: 20180627-1920[/COLOR]@@OK
+[COLOR green]Check Date: 20180709-0909[/COLOR]@@OK
 [COLOR green]Filename: fr Date: Fri Feb 16 23:24:26 2018[/COLOR]@URLFilenamefr@OK Filename
- 67-CPAC | SD [COLOR green]OK 200 Retry 1[/COLOR]@ 67-CPAC | SD [COLOR green]OK 200 Retry 1[/COLOR]URLhttp://185.212.111.5:80/live/test1234/test1234/16001.ts@[COLOR green]OK 200 Retry 1[/COLOR]
- 68-CPAC | SD [COLOR green]OK 200 Retry 1[/COLOR]@ 68-CPAC | SD [COLOR green]OK 200 Retry 1[/COLOR]URLhttp://stb.first-class-portal.com:80/live/test1234/test1234/16001.ts@[COLOR green]OK 200 Retry 1[/COLOR]
