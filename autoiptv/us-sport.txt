@@ -1,16 +1,3 @@
-[COLOR green]Check Date: 20180709-0939[/COLOR]@@OK
-[COLOR green]Filename: us Date: Fri Feb 16 23:29:12 2018[/COLOR]@URLFilenameus@OK Filename
-170-MSNBC | HD [COLOR red]OK  Unauthorized[/COLOR]@170-MSNBC | HD [COLOR red]OK  Unauthorized[/COLOR]URLhttp://roxiptv.club:8080/live/faruk/guven/2372.ts@[COLOR red]OK  Unauthorized[/COLOR]
-172-MSNBC | HD [COLOR green]OK 200[/COLOR]@172-MSNBC | HD [COLOR green]OK 200[/COLOR]URLhttp://iptv9211.hopto.me:8000/live/waseem1/waseem1/16734.ts@[COLOR green]OK 200[/COLOR]
-173-MSNBC | HD [COLOR green]OK 200[/COLOR]@173-MSNBC | HD [COLOR green]OK 200[/COLOR]URLhttp://167.114.102.156:25461/live/giovanni/giovanni1/4155.ts@[COLOR green]OK 200[/COLOR]
-174-MSNBC | SD [COLOR green]OK 200[/COLOR]@174-MSNBC | SD [COLOR green]OK 200[/COLOR]URLhttp://212.8.248.197:8080/live/farouk/1234/1447.ts@[COLOR green]OK 200[/COLOR]
-248-TSN 1 | HD [COLOR green]OK 200[/COLOR]@248-TSN 1 | HD [COLOR green]OK 200[/COLOR]URLhttp://195.154.78.98:1453/live/guney1234/guney1234/49362.ts@[COLOR green]OK 200[/COLOR]
-249-TSN 1HD | SD [COLOR green]OK 200[/COLOR]@249-TSN 1HD | SD [COLOR green]OK 200[/COLOR]URLhttp://leon-iptv.ddns.net:1155/live/123456/123456/1460.ts@[COLOR green]OK 200[/COLOR]
-250-TSN 2 | HD [COLOR green]OK 200[/COLOR]@250-TSN 2 | HD [COLOR green]OK 200[/COLOR]URLhttp://195.154.78.98:1453/live/guney1234/guney1234/49361.ts@[COLOR green]OK 200[/COLOR]
-251-TSN 2 | HD [COLOR green]OK 200[/COLOR]@251-TSN 2 | HD [COLOR green]OK 200[/COLOR]URLhttp://stars.managercw.com:8000/live/0669166993dah/610931222souf/863.ts@[COLOR green]OK 200[/COLOR]
-252-TSN 2HD | SD [COLOR green]OK 200[/COLOR]@252-TSN 2HD | SD [COLOR green]OK 200[/COLOR]URLhttp://leon-iptv.ddns.net:1155/live/123456/123456/1459.ts@[COLOR green]OK 200[/COLOR]
-253-TSN 3 | HD [COLOR green]OK 200[/COLOR]@253-TSN 3 | HD [COLOR green]OK 200[/COLOR]URLhttp://195.154.78.98:1453/live/guney1234/guney1234/49360.ts@[COLOR green]OK 200[/COLOR]
-254-TSN 4 | HD [COLOR green]OK 200[/COLOR]@254-TSN 4 | HD [COLOR green]OK 200[/COLOR]URLhttp://195.154.78.98:1453/live/guney1234/guney1234/49359.ts@[COLOR green]OK 200[/COLOR]
-255-TSN 4HD | SD [COLOR green]OK 200[/COLOR]@255-TSN 4HD | SD [COLOR green]OK 200[/COLOR]URLhttp://leon-iptv.ddns.net:1155/live/123456/123456/1455.ts@[COLOR green]OK 200[/COLOR]
-256-TSN 5 | HD [COLOR green]OK 200[/COLOR]@256-TSN 5 | HD [COLOR green]OK 200[/COLOR]URLhttp://195.154.78.98:1453/live/guney1234/guney1234/49358.ts@[COLOR green]OK 200[/COLOR]
-257-TSN 5HD | SD [COLOR green]OK 200[/COLOR]@257-TSN 5HD | SD [COLOR green]OK 200[/COLOR]URLhttp://leon-iptv.ddns.net:1155/live/123456/123456/1454.ts@[COLOR green]OK 200[/COLOR]
+[COLOR green]Check Date: 20180720-1249[/COLOR]@@OK
+[COLOR green]Filename: us Date: Mon Jul 09 09:49:18 2018[/COLOR]@URLFilenameus@OK Filename
+MSNBC | HD [COLOR green]OK 200[/COLOR]@MSNBC | HD [COLOR green]OK 200[/COLOR]URLhttp://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/8000.m3u8@[COLOR green]OK 200[/COLOR]

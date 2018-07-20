@@ -1,2 +1,3 @@
-[COLOR green]Check Date: 20180709-0909[/COLOR]@@OK
-[COLOR green]Filename: fr Date: Fri Feb 16 23:24:26 2018[/COLOR]@URLFilenamefr@OK Filename
+[COLOR green]Check Date: 20180720-1154[/COLOR]@@OK
+[COLOR green]Filename: fr Date: Mon Jul 09 09:49:18 2018[/COLOR]@URLFilenamefr@OK Filename
+CPAC | SD [COLOR green]OK Same url[/COLOR]@CPAC | SD [COLOR green]OK Same url[/COLOR]URLhttp://bcoveliveios-i.akamaihd.net/hls/live/248520/1242843915001_2/master.m3u8@[COLOR green]OK Same url[/COLOR]

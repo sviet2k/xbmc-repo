@@ -1,2 +1,2 @@
-[COLOR green]Check Date: 20180508-1701[/COLOR]@@OK
-[COLOR green]Filename: daily_uk Date: Tue Feb 20 10:49:39 2018[/COLOR]@URLFilenamedaily_uk@OK Filename
+[COLOR green]Check Date: 20180720-1434[/COLOR]@@OK
+[COLOR green]Filename: daily_uk Date: Mon Jul 09 09:49:18 2018[/COLOR]@URLFilenamedaily_uk@OK Filename
