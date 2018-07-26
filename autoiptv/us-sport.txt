@@ -1,3 +1,3 @@
-[COLOR green]Check Date: 20180720-1249[/COLOR]@@OK
+[COLOR green]Check Date: 20180726-1423[/COLOR]@@OK
 [COLOR green]Filename: us Date: Mon Jul 09 09:49:18 2018[/COLOR]@URLFilenameus@OK Filename
-MSNBC | HD [COLOR green]OK 200[/COLOR]@MSNBC | HD [COLOR green]OK 200[/COLOR]URLhttp://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/8000.m3u8@[COLOR green]OK 200[/COLOR]
+MSNBC | HD [COLOR green]OK 200[/COLOR]@MSNBC | HD [COLOR green]OK 200[/COLOR]URLhttp://212.8.250.12:25461/live/carmelo/1234/21439.ts@[COLOR green]OK 200[/COLOR]
