@@ -1,2 +1,5 @@
-[COLOR green]Check Date: 20180726-1411[/COLOR]@@OK
-[COLOR green]Filename: uk Date: Mon Jul 09 09:49:18 2018[/COLOR]@URLFilenameuk@OK Filename
+[COLOR green]Check Date: 20181003-1307[/COLOR]@@OK
+[COLOR green]Filename: uk Date: Mon Sep 17 09:49:20 2018[/COLOR]@URLFilenameuk@OK Filename
+CPAC CA | HD [COLOR red]OK  Unauthorized[/COLOR]@CPAC CA | HD [COLOR red]OK  Unauthorized[/COLOR]URLhttp://uk.msnpanel.pw:8080/live/J6PjPJdrvK/H4QdMN55Nr/37076.ts@[COLOR red]OK  Unauthorized[/COLOR]
+CPAC CA | SD [COLOR red]OK  Unauthorized[/COLOR]@CPAC CA | SD [COLOR red]OK  Unauthorized[/COLOR]URLhttp://uk.msnpanel.pw:8080/live/J6PjPJdrvK/H4QdMN55Nr/17796.ts@[COLOR red]OK  Unauthorized[/COLOR]
+MSNBC CA | SD [COLOR red]OK  Unauthorized[/COLOR]@MSNBC CA | SD [COLOR red]OK  Unauthorized[/COLOR]URLhttp://uk.msnpanel.pw:8080/live/J6PjPJdrvK/H4QdMN55Nr/17733.ts@[COLOR red]OK  Unauthorized[/COLOR]

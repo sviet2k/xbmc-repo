@@ -1,10 +1,8 @@
-[COLOR green]Check Date: 20180726-1220[/COLOR]@@OK
-[COLOR green]Filename: ca Date: Mon Jul 09 09:49:18 2018[/COLOR]@URLFilenameca@OK Filename
-CPAC | HD [COLOR green]OK 200[/COLOR]@CPAC | HD [COLOR green]OK 200[/COLOR]URLhttp://212.8.250.12:25461/live/carmelo/1234/23515.ts@[COLOR green]OK 200[/COLOR]
-TSN 1 | HD [COLOR green]OK 200[/COLOR]@TSN 1 | HD [COLOR green]OK 200[/COLOR]URLhttp://212.8.250.12:25461/live/carmelo/1234/23428.ts@[COLOR green]OK 200[/COLOR]
-TSN 2 | HD [COLOR green]OK 200[/COLOR]@TSN 2 | HD [COLOR green]OK 200[/COLOR]URLhttp://212.8.250.12:25461/live/carmelo/1234/23427.ts@[COLOR green]OK 200[/COLOR]
-TSN 2 | SD [COLOR green]OK 200[/COLOR]@TSN 2 | SD [COLOR green]OK 200[/COLOR]URLhttp://212.8.250.12:25461/live/carmelo/1234/23426.ts@[COLOR green]OK 200[/COLOR]
-TSN 3 | SD [COLOR green]OK 200[/COLOR]@TSN 3 | SD [COLOR green]OK 200[/COLOR]URLhttp://212.8.250.12:25461/live/carmelo/1234/23425.ts@[COLOR green]OK 200[/COLOR]
-TSN 4 | HD [COLOR green]OK 200[/COLOR]@TSN 4 | HD [COLOR green]OK 200[/COLOR]URLhttp://212.8.250.12:25461/live/carmelo/1234/23424.ts@[COLOR green]OK 200[/COLOR]
-TSN 5 | HD [COLOR green]OK 200[/COLOR]@TSN 5 | HD [COLOR green]OK 200[/COLOR]URLhttp://212.8.250.12:25461/live/carmelo/1234/23423.ts@[COLOR green]OK 200[/COLOR]
-TSN 5 | SD [COLOR green]OK 200[/COLOR]@TSN 5 | SD [COLOR green]OK 200[/COLOR]URLhttp://212.8.250.12:25461/live/carmelo/1234/23422.ts@[COLOR green]OK 200[/COLOR]
+[COLOR green]Check Date: 20181003-1307[/COLOR]@@OK
+[COLOR green]Filename: ca Date: Mon Sep 17 09:49:20 2018[/COLOR]@URLFilenameca@OK Filename
+CPAC | SD [COLOR green]OK Same url[/COLOR]@CPAC | SD [COLOR green]OK Same url[/COLOR]URLhttp://bcoveliveios-i.akamaihd.net/hls/live/248519/1242843915001_1/master.m3u8@[COLOR green]OK Same url[/COLOR]
+MSNBC | HD [COLOR red]OK  Unauthorized[/COLOR]@MSNBC | HD [COLOR red]OK  Unauthorized[/COLOR]URLhttp://landiptv.live:8080/live/GsXXbve43K/6koI695AyB/77205.ts@[COLOR red]OK  Unauthorized[/COLOR]
+RDS2 TV | HD [COLOR red]OK  Unauthorized[/COLOR]@RDS2 TV | HD [COLOR red]OK  Unauthorized[/COLOR]URLhttp://landiptv.live:8080/live/GsXXbve43K/6koI695AyB/92500.ts@[COLOR red]OK  Unauthorized[/COLOR]
+TSN 1 | HD [COLOR red]OK  Unauthorized[/COLOR]@TSN 1 | HD [COLOR red]OK  Unauthorized[/COLOR]URLhttp://landiptv.live:8080/live/GsXXbve43K/6koI695AyB/74882.ts@[COLOR red]OK  Unauthorized[/COLOR]
+TSN 3 | HD [COLOR red]OK  Unauthorized[/COLOR]@TSN 3 | HD [COLOR red]OK  Unauthorized[/COLOR]URLhttp://landiptv.live:8080/live/GsXXbve43K/6koI695AyB/76947.ts@[COLOR red]OK  Unauthorized[/COLOR]
+TSN 4 | HD [COLOR red]OK  Unauthorized[/COLOR]@TSN 4 | HD [COLOR red]OK  Unauthorized[/COLOR]URLhttp://landiptv.live:8080/live/GsXXbve43K/6koI695AyB/74885.ts@[COLOR red]OK  Unauthorized[/COLOR]
